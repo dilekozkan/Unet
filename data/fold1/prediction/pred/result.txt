@@ -1,0 +1,33 @@
+Image-wise analysis:
+background 
+precision: 0.949
+recall: 0.98
+f1: 0.964
+Dice Score:0.964
+IOU Score:0.931
+Hausdorff Score:12.689
+
+red 
+precision: 0.724
+recall: 0.344
+f1: 0.394
+Dice Score:0.394
+IOU Score:0.339
+Hausdorff Score:10.26
+
+green 
+precision: 0.863
+recall: 0.79
+f1: 0.815
+Dice Score:0.815
+IOU Score:0.697
+Hausdorff Score:6.261
+
+yellow 
+precision: 0.596
+recall: 0.815
+f1: 0.684
+Dice Score:0.684
+IOU Score:0.531
+Hausdorff Score:7.785
+

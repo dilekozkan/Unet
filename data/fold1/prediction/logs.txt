@@ -1,0 +1,6528 @@
+Epoch 1/150
+----------
+LR 0.0005
+Epoch 1/150
+----------
+LR 0.0005
+Epoch 1/150
+----------
+LR 0.0005
+Epoch 1/150
+----------
+LR 0.0005
+Train loss on epoch 1: 0.6788345552407778
+Val loss on epoch 1: 0.5282978883811406Val score on epoch 1: 0.5282979011535645
+saving best model
+0m 36s
+
+Epoch 2/150
+----------
+LR 0.009942289157574538
+Train loss on epoch 2: 0.4589068809380898
+Val loss on epoch 2: 0.47585990599223543Val score on epoch 2: 0.47585994005203247
+saving best model
+0m 33s
+
+Epoch 3/150
+----------
+LR 0.009882230368112917
+Train loss on epoch 3: 0.45367332719839537
+Val loss on epoch 3: 0.4737232029438019Val score on epoch 3: 0.47372323274612427
+saving best model
+0m 34s
+
+Epoch 4/150
+----------
+LR 0.00982213099490152
+Train loss on epoch 4: 0.4483597439069014
+Val loss on epoch 4: 0.4740684245313917Val score on epoch 4: 0.4740684926509857
+0m 34s
+
+Epoch 5/150
+----------
+LR 0.009761990734223923
+Train loss on epoch 5: 0.45018964547377366
+Val loss on epoch 5: 0.46136726226125446Val score on epoch 5: 0.46136727929115295
+saving best model
+0m 34s
+
+Epoch 6/150
+----------
+LR 0.009701809277994737
+Train loss on epoch 6: 0.44683215709832996
+Val loss on epoch 6: 0.4733465952532632Val score on epoch 6: 0.47334665060043335
+0m 33s
+
+Epoch 7/150
+----------
+LR 0.00964158631366619
+Train loss on epoch 7: 0.4429599814690076
+Val loss on epoch 7: 0.47154030203819275Val score on epoch 7: 0.47154033184051514
+0m 34s
+
+Epoch 8/150
+----------
+LR 0.00958132152413205
+Train loss on epoch 8: 0.4409824930704557
+Val loss on epoch 8: 0.4639321395329067Val score on epoch 8: 0.46393218636512756
+0m 33s
+
+Epoch 9/150
+----------
+LR 0.009521014587628789
+Train loss on epoch 9: 0.4414134541383156
+Val loss on epoch 9: 0.47173996908324106Val score on epoch 9: 0.4717400074005127
+0m 34s
+
+Epoch 10/150
+----------
+LR 0.009460665177633904
+Train loss on epoch 10: 0.4425990948310265
+Val loss on epoch 10: 0.46512907317706514Val score on epoch 10: 0.46512913703918457
+0m 34s
+
+Epoch 11/150
+----------
+LR 0.009400272962761278
+Train loss on epoch 11: 0.4390515318283668
+Val loss on epoch 11: 0.4629106989928654Val score on epoch 11: 0.4629107117652893
+0m 33s
+
+Epoch 12/150
+----------
+LR 0.009339837606653464
+Train loss on epoch 12: 0.4361671484433688
+Val loss on epoch 12: 0.47223353385925293Val score on epoch 12: 0.4722335934638977
+0m 34s
+
+Epoch 13/150
+----------
+LR 0.009279358767870803
+Train loss on epoch 13: 0.43375634803221774
+Val loss on epoch 13: 0.46046354515211924Val score on epoch 13: 0.46046358346939087
+saving best model
+0m 34s
+
+Epoch 14/150
+----------
+LR 0.009218836099777257
+Train loss on epoch 14: 0.43400831749806035
+Val loss on epoch 14: 0.45752271584102083Val score on epoch 14: 0.45752274990081787
+saving best model
+0m 34s
+
+Epoch 15/150
+----------
+LR 0.009158269250422797
+Train loss on epoch 15: 0.42982868735606855
+Val loss on epoch 15: 0.4526637962886265Val score on epoch 15: 0.4526638090610504
+saving best model
+0m 34s
+
+Epoch 16/150
+----------
+LR 0.009097657862422268
+Train loss on epoch 16: 0.42527233637296236
+Val loss on epoch 16: 0.45149727378572735Val score on epoch 16: 0.45149725675582886
+saving best model
+0m 34s
+
+Epoch 17/150
+----------
+LR 0.009037001572830567
+Train loss on epoch 17: 0.4219908496508232
+Val loss on epoch 17: 0.46450975111552645Val score on epoch 17: 0.4645097851753235
+0m 34s
+
+Epoch 18/150
+----------
+LR 0.008976300013014001
+Train loss on epoch 18: 0.41495833832484025
+Val loss on epoch 18: 0.45494644130979267Val score on epoch 18: 0.45494645833969116
+0m 34s
+
+Epoch 19/150
+----------
+LR 0.00891555280851768
+Train loss on epoch 19: 0.41232434717508465
+Val loss on epoch 19: 0.4527083550180708Val score on epoch 19: 0.45270836353302
+0m 34s
+
+Epoch 20/150
+----------
+LR 0.008854759578928792
+Train loss on epoch 20: 0.41202967212750363
+Val loss on epoch 20: 0.43769041555268423Val score on epoch 20: 0.437690407037735
+saving best model
+0m 34s
+
+Epoch 21/150
+----------
+LR 0.008793919937735588
+Train loss on epoch 21: 0.3986340749722261
+Val loss on epoch 21: 0.44309173311506Val score on epoch 21: 0.4430917501449585
+0m 34s
+
+Epoch 22/150
+----------
+LR 0.00873303349218194
+Train loss on epoch 22: 0.3912431483085339
+Val loss on epoch 22: 0.47459609167916433Val score on epoch 22: 0.4745960831642151
+0m 34s
+
+Epoch 23/150
+----------
+LR 0.008672099843117252
+Train loss on epoch 23: 0.38378735459767854
+Val loss on epoch 23: 0.45432830708367483Val score on epoch 23: 0.45432835817337036
+0m 34s
+
+Epoch 24/150
+----------
+LR 0.008611118584841582
+Train loss on epoch 24: 0.3820748535486368
+Val loss on epoch 24: 0.5643837068762098Val score on epoch 24: 0.5643837451934814
+0m 34s
+
+Epoch 25/150
+----------
+LR 0.008550089304945751
+Train loss on epoch 25: 0.3652189660530824
+Val loss on epoch 25: 0.5665241054126194Val score on epoch 25: 0.5665241479873657
+0m 34s
+
+Epoch 26/150
+----------
+LR 0.008489011584146248
+Train loss on epoch 26: 0.3627833746946775
+Val loss on epoch 26: 0.5686145680291312Val score on epoch 26: 0.5686146020889282
+0m 35s
+
+Epoch 27/150
+----------
+LR 0.00842788499611474
+Train loss on epoch 27: 0.35633045320327467
+Val loss on epoch 27: 0.5920710563659668Val score on epoch 27: 0.5920710563659668
+0m 34s
+
+Epoch 28/150
+----------
+LR 0.008366709107301903
+Train loss on epoch 28: 0.3507880958227011
+Val loss on epoch 28: 0.7336000714983258Val score on epoch 28: 0.7336000800132751
+0m 34s
+
+Epoch 29/150
+----------
+LR 0.008305483476755433
+Train loss on epoch 29: 0.340365490088096
+Val loss on epoch 29: 0.5955783128738403Val score on epoch 29: 0.5955783724784851
+0m 35s
+
+Epoch 30/150
+----------
+LR 0.008244207655931885
+Train loss on epoch 30: 0.32863543125299305
+Val loss on epoch 30: 0.6784817917006356Val score on epoch 30: 0.6784818172454834
+0m 35s
+
+Epoch 31/150
+----------
+LR 0.008182881188502184
+Train loss on epoch 31: 0.33374226781038135
+Val loss on epoch 31: 0.606144015278135Val score on epoch 31: 0.6061440706253052
+0m 35s
+
+Epoch 32/150
+----------
+LR 0.008121503610150451
+Train loss on epoch 32: 0.32166245923592496
+Val loss on epoch 32: 0.6155073131833758Val score on epoch 32: 0.6155074238777161
+0m 34s
+
+Epoch 33/150
+----------
+LR 0.008060074448365926
+Train loss on epoch 33: 0.30749625769945294
+Val loss on epoch 33: 0.5881645509174892Val score on epoch 33: 0.5881645679473877
+0m 35s
+
+Epoch 34/150
+----------
+LR 0.00799859322222764
+Train loss on epoch 34: 0.31178146256850314
+Val loss on epoch 34: 0.649908755506788Val score on epoch 34: 0.6499087810516357
+0m 35s
+
+Epoch 35/150
+----------
+LR 0.007937059442181555
+Train loss on epoch 35: 0.3033351038510983
+Val loss on epoch 35: 0.5340295561722347Val score on epoch 35: 0.5340296030044556
+0m 34s
+
+Epoch 36/150
+----------
+LR 0.00787547260980981
+Train loss on epoch 36: 0.295244595179191
+Val loss on epoch 36: 0.47831075532095774Val score on epoch 36: 0.4783107340335846
+0m 34s
+
+Epoch 37/150
+----------
+LR 0.007813832217591753
+Train loss on epoch 37: 0.2938338999564831
+Val loss on epoch 37: 0.4274621307849884Val score on epoch 37: 0.4274621307849884
+saving best model
+0m 34s
+
+Epoch 38/150
+----------
+LR 0.007752137748656374
+Train loss on epoch 38: 0.28814320953992695
+Val loss on epoch 38: 0.3998452382428305Val score on epoch 38: 0.3998452425003052
+saving best model
+0m 35s
+
+Epoch 39/150
+----------
+LR 0.0076903886765257445
+Train loss on epoch 39: 0.27838092240003437
+Val loss on epoch 39: 0.4296084131513323Val score on epoch 39: 0.42960843443870544
+0m 35s
+
+Epoch 40/150
+----------
+LR 0.00762858446484908
+Train loss on epoch 40: 0.28277765730252635
+Val loss on epoch 40: 0.4535052946635655Val score on epoch 40: 0.45350533723831177
+0m 34s
+
+Epoch 41/150
+----------
+LR 0.007566724567126958
+Train loss on epoch 41: 0.27298680463662517
+Val loss on epoch 41: 0.41518642221178326Val score on epoch 41: 0.41518643498420715
+0m 35s
+
+Epoch 42/150
+----------
+LR 0.007504808426425277
+Train loss on epoch 42: 0.26585784210608554
+Val loss on epoch 42: 0.3444762740816389Val score on epoch 42: 0.34447628259658813
+saving best model
+0m 35s
+
+Epoch 43/150
+----------
+LR 0.007442835475078429
+Train loss on epoch 43: 0.2658790900157048
+Val loss on epoch 43: 0.31816293937819345Val score on epoch 43: 0.3181629776954651
+saving best model
+0m 35s
+
+Epoch 44/150
+----------
+LR 0.007380805134381234
+Train loss on epoch 44: 0.2572611788144478
+Val loss on epoch 44: 0.38757013848849703Val score on epoch 44: 0.38757020235061646
+0m 35s
+
+Epoch 45/150
+----------
+LR 0.007318716814269034
+Train loss on epoch 45: 0.2576348764392046
+Val loss on epoch 45: 0.4896493639264788Val score on epoch 45: 0.48964935541152954
+0m 35s
+
+Epoch 46/150
+----------
+LR 0.007256569912985431
+Train loss on epoch 46: 0.2586270519174062
+Val loss on epoch 46: 0.39724622453962055Val score on epoch 46: 0.39724624156951904
+0m 35s
+
+Epoch 47/150
+----------
+LR 0.007194363816737048
+Train loss on epoch 47: 0.2578547407801335
+Val loss on epoch 47: 0.4813591369560787Val score on epoch 47: 0.4813591539859772
+0m 34s
+
+Epoch 48/150
+----------
+LR 0.007132097899334673
+Train loss on epoch 48: 0.2464431174672567
+Val loss on epoch 48: 0.4060055911540985Val score on epoch 48: 0.4060056507587433
+0m 34s
+
+Epoch 49/150
+----------
+LR 0.007069771521820108
+Train loss on epoch 49: 0.2386614473966452
+Val loss on epoch 49: 0.32946687936782837Val score on epoch 49: 0.32946690917015076
+0m 34s
+
+Epoch 50/150
+----------
+LR 0.007007384032078035
+Train loss on epoch 50: 0.24169834817831332
+Val loss on epoch 50: 0.432487211057118Val score on epoch 50: 0.43248724937438965
+0m 35s
+
+Epoch 51/150
+----------
+LR 0.006944934764432108
+Train loss on epoch 51: 0.23392239384926283
+Val loss on epoch 51: 0.4003350819860186Val score on epoch 51: 0.4003351032733917
+0m 35s
+
+Epoch 52/150
+----------
+LR 0.006882423039224482
+Train loss on epoch 52: 0.22855257644103125
+Val loss on epoch 52: 0.37989798188209534Val score on epoch 52: 0.37989798188209534
+0m 35s
+
+Epoch 53/150
+----------
+LR 0.006819848162377934
+Train loss on epoch 53: 0.22717388088886553
+Val loss on epoch 53: 0.42540569816316876Val score on epoch 53: 0.42540571093559265
+0m 34s
+
+Epoch 54/150
+----------
+LR 0.0067572094249396565
+Train loss on epoch 54: 0.22662931909927955
+Val loss on epoch 54: 0.3651770225593022Val score on epoch 54: 0.3651770353317261
+0m 35s
+
+Epoch 55/150
+----------
+LR 0.006694506102605755
+Train loss on epoch 55: 0.2229122995184018
+Val loss on epoch 55: 0.40697437099048067Val score on epoch 55: 0.4069743752479553
+0m 34s
+
+Epoch 56/150
+----------
+LR 0.00663173745522545
+Train loss on epoch 56: 0.22310961610995805
+Val loss on epoch 56: 0.35187688044139315Val score on epoch 56: 0.3518768846988678
+0m 34s
+
+Epoch 57/150
+----------
+LR 0.00656890272628387
+Train loss on epoch 57: 0.21835295970623309
+Val loss on epoch 57: 0.40265026688575745Val score on epoch 57: 0.40265029668807983
+0m 34s
+
+Epoch 58/150
+----------
+LR 0.006506001142362269
+Train loss on epoch 58: 0.21178982292230314
+Val loss on epoch 58: 0.4514906534126827Val score on epoch 58: 0.45149070024490356
+0m 35s
+
+Epoch 59/150
+----------
+LR 0.006443031912574463
+Train loss on epoch 59: 0.2097112387418747
+Val loss on epoch 59: 0.38082798038210186Val score on epoch 59: 0.38082799315452576
+0m 35s
+
+Epoch 60/150
+----------
+LR 0.006379994227978131
+Train loss on epoch 60: 0.21684152346390945
+Val loss on epoch 60: 0.3512869008949825Val score on epoch 60: 0.351286917924881
+0m 34s
+
+Epoch 61/150
+----------
+LR 0.006316887260959592
+Train loss on epoch 61: 0.20706902501674798
+Val loss on epoch 61: 0.4250053550515856Val score on epoch 61: 0.42500537633895874
+0m 34s
+
+Epoch 62/150
+----------
+LR 0.006253710164590539
+Train loss on epoch 62: 0.19775939331604883
+Val loss on epoch 62: 0.3926460359777723Val score on epoch 62: 0.39264601469039917
+0m 35s
+
+Epoch 63/150
+----------
+LR 0.006190462071955156
+Train loss on epoch 63: 0.21284220596918693
+Val loss on epoch 63: 0.3359089834349496Val score on epoch 63: 0.33590900897979736
+0m 34s
+
+Epoch 64/150
+----------
+LR 0.006127142095445851
+Train loss on epoch 64: 0.20543585660365912
+Val loss on epoch 64: 0.38719812461308073Val score on epoch 64: 0.3871981203556061
+0m 35s
+
+Epoch 65/150
+----------
+LR 0.006063749326025801
+Train loss on epoch 65: 0.20227839740423056
+Val loss on epoch 65: 0.37052885975156513Val score on epoch 65: 0.3705288767814636
+0m 34s
+
+Epoch 66/150
+----------
+LR 0.006000282832456343
+Train loss on epoch 66: 0.2002315974006286
+Val loss on epoch 66: 0.343246476990836Val score on epoch 66: 0.3432465195655823
+0m 34s
+
+Epoch 67/150
+----------
+LR 0.005936741660487073
+Train loss on epoch 67: 0.19385479046748236
+Val loss on epoch 67: 0.44435669268880573Val score on epoch 67: 0.4443567395210266
+0m 35s
+
+Epoch 68/150
+----------
+LR 0.005873124832006403
+Train loss on epoch 68: 0.1957556146841783
+Val loss on epoch 68: 0.2940961867570877Val score on epoch 68: 0.2940962016582489
+saving best model
+0m 35s
+
+Epoch 69/150
+----------
+LR 0.005809431344150167
+Train loss on epoch 69: 0.19392631604121283
+Val loss on epoch 69: 0.37833630612918306Val score on epoch 69: 0.3783363103866577
+0m 34s
+
+Epoch 70/150
+----------
+LR 0.005745660168365624
+Train loss on epoch 70: 0.1948646026162001
+Val loss on epoch 70: 0.36122913871492657Val score on epoch 70: 0.3612291216850281
+0m 34s
+
+Epoch 71/150
+----------
+LR 0.0056818102494280796
+Train loss on epoch 71: 0.19696161781366056
+Val loss on epoch 71: 0.34483860645975384Val score on epoch 71: 0.3448386490345001
+0m 35s
+
+Epoch 72/150
+----------
+LR 0.005617880504407097
+Train loss on epoch 72: 0.19103132417568794
+Val loss on epoch 72: 0.33836239150592257Val score on epoch 72: 0.3383623957633972
+0m 34s
+
+Epoch 73/150
+----------
+LR 0.00555386982157904
+Train loss on epoch 73: 0.19086849316954613
+Val loss on epoch 73: 0.34325508986200604Val score on epoch 73: 0.3432551324367523
+0m 35s
+
+Epoch 74/150
+----------
+LR 0.005489777059282442
+Train loss on epoch 74: 0.1877635860672364
+Val loss on epoch 74: 0.31020335640226093Val score on epoch 74: 0.3102033734321594
+0m 34s
+
+Epoch 75/150
+----------
+LR 0.005425601044712401
+Train loss on epoch 75: 0.18996927314079726
+Val loss on epoch 75: 0.3153822592326573Val score on epoch 75: 0.3153822422027588
+0m 34s
+
+Epoch 76/150
+----------
+LR 0.005361340572649923
+Train loss on epoch 76: 0.19136693557867637
+Val loss on epoch 76: 0.30971255898475647Val score on epoch 76: 0.30971255898475647
+0m 35s
+
+Epoch 77/150
+----------
+LR 0.005296994404121787
+Train loss on epoch 77: 0.18486794256247008
+Val loss on epoch 77: 0.32891735434532166Val score on epoch 77: 0.32891738414764404
+0m 34s
+
+Epoch 78/150
+----------
+LR 0.005232561264986125
+Train loss on epoch 78: 0.18042840006259772
+Val loss on epoch 78: 0.3133146549974169Val score on epoch 78: 0.31331464648246765
+0m 34s
+
+Epoch 79/150
+----------
+LR 0.005168039844438553
+Train loss on epoch 79: 0.18366541627507943
+Val loss on epoch 79: 0.30847657152584623Val score on epoch 79: 0.3084765672683716
+0m 34s
+
+Epoch 80/150
+----------
+LR 0.0051034287934331865
+Train loss on epoch 80: 0.16629877571876234
+Val loss on epoch 80: 0.3275831086294992Val score on epoch 80: 0.3275831341743469
+0m 35s
+
+Epoch 81/150
+----------
+LR 0.005038726723012472
+Train loss on epoch 81: 0.1890263265142074
+Val loss on epoch 81: 0.30128584802150726Val score on epoch 81: 0.30128583312034607
+0m 34s
+
+Epoch 82/150
+----------
+LR 0.004973932202539145
+Train loss on epoch 82: 0.18226004563845122
+Val loss on epoch 82: 0.2909685415881021Val score on epoch 82: 0.29096856713294983
+saving best model
+0m 35s
+
+Epoch 83/150
+----------
+LR 0.004909043757823094
+Train loss on epoch 83: 0.1803952415402119
+Val loss on epoch 83: 0.30640698756490437Val score on epoch 83: 0.30640703439712524
+0m 35s
+
+Epoch 84/150
+----------
+LR 0.004844059869135266
+Train loss on epoch 84: 0.1734200234596546
+Val loss on epoch 84: 0.3200503885746002Val score on epoch 84: 0.3200503885746002
+0m 35s
+
+Epoch 85/150
+----------
+LR 0.004778978969099965
+Train loss on epoch 85: 0.17914199829101562
+Val loss on epoch 85: 0.27784971041338785Val score on epoch 85: 0.2778497338294983
+saving best model
+0m 35s
+
+Epoch 86/150
+----------
+LR 0.004713799440456199
+Train loss on epoch 86: 0.17681457503483847
+Val loss on epoch 86: 0.3148584770304816Val score on epoch 86: 0.31485849618911743
+0m 34s
+
+Epoch 87/150
+----------
+LR 0.004648519613677749
+Train loss on epoch 87: 0.1719946339726448
+Val loss on epoch 87: 0.2875070742198399Val score on epoch 87: 0.2875070571899414
+0m 34s
+
+Epoch 88/150
+----------
+LR 0.004583137764440721
+Train loss on epoch 88: 0.16967861755536154
+Val loss on epoch 88: 0.2951196070228304Val score on epoch 88: 0.29511964321136475
+0m 35s
+
+Epoch 89/150
+----------
+LR 0.004517652110926236
+Train loss on epoch 89: 0.17665328744512337
+Val loss on epoch 89: 0.32878548758370535Val score on epoch 89: 0.3287855088710785
+0m 34s
+
+Epoch 90/150
+----------
+LR 0.004452060810944663
+Train loss on epoch 90: 0.1785592631651805
+Val loss on epoch 90: 0.2947157153061458Val score on epoch 90: 0.2947157323360443
+0m 34s
+
+Epoch 91/150
+----------
+LR 0.004386361958866498
+Train loss on epoch 91: 0.17420018951480204
+Val loss on epoch 91: 0.31702208731855663Val score on epoch 91: 0.31702208518981934
+0m 34s
+
+Epoch 92/150
+----------
+LR 0.004320553582343431
+Train loss on epoch 92: 0.170070097136956
+Val loss on epoch 92: 0.2631521501711437Val score on epoch 92: 0.26315218210220337
+saving best model
+0m 34s
+
+Epoch 93/150
+----------
+LR 0.004254633638801454
+Train loss on epoch 93: 0.1774993667808863
+Val loss on epoch 93: 0.2999061346054077Val score on epoch 93: 0.2999061346054077
+0m 35s
+
+Epoch 94/150
+----------
+LR 0.004188600011685971
+Train loss on epoch 94: 0.17147743988495606
+Val loss on epoch 94: 0.2650061675480434Val score on epoch 94: 0.2650061547756195
+0m 35s
+
+Epoch 95/150
+----------
+LR 0.00412245050643669
+Train loss on epoch 95: 0.16541461675212935
+Val loss on epoch 95: 0.29100710579327177Val score on epoch 95: 0.2910071313381195
+0m 35s
+
+Epoch 96/150
+----------
+LR 0.004056182846167688
+Train loss on epoch 96: 0.16715584609370965
+Val loss on epoch 96: 0.28947025324617115Val score on epoch 96: 0.28947025537490845
+0m 35s
+
+Epoch 97/150
+----------
+LR 0.003989794667025305
+Train loss on epoch 97: 0.17336368904663965
+Val loss on epoch 97: 0.30642665709768024Val score on epoch 97: 0.30642667412757874
+0m 34s
+
+Epoch 98/150
+----------
+LR 0.003923283513193387
+Train loss on epoch 98: 0.16091743398171204
+Val loss on epoch 98: 0.30799088733536856Val score on epoch 98: 0.3079909086227417
+0m 35s
+
+Epoch 99/150
+----------
+LR 0.003856646831511983
+Train loss on epoch 99: 0.1588169041161354
+Val loss on epoch 99: 0.27509049432618277Val score on epoch 99: 0.2750905156135559
+0m 34s
+
+Epoch 100/150
+----------
+LR 0.003789881965671507
+Train loss on epoch 100: 0.1633916127567108
+Val loss on epoch 100: 0.29297128106866566Val score on epoch 100: 0.29297128319740295
+0m 34s
+
+Epoch 101/150
+----------
+LR 0.0037229861499399127
+Train loss on epoch 101: 0.16267211334063456
+Val loss on epoch 101: 0.27272934360163553Val score on epoch 101: 0.27272936701774597
+0m 34s
+
+Epoch 102/150
+----------
+LR 0.0036559565023752366
+Train loss on epoch 102: 0.16265492599744064
+Val loss on epoch 102: 0.2983928748539516Val score on epoch 102: 0.2983928918838501
+0m 35s
+
+Epoch 103/150
+----------
+LR 0.003588790017469871
+Train loss on epoch 103: 0.16116398601577833
+Val loss on epoch 103: 0.28479272552898954Val score on epoch 103: 0.2847927510738373
+0m 35s
+
+Epoch 104/150
+----------
+LR 0.003521483558166183
+Train loss on epoch 104: 0.16355574990694338
+Val loss on epoch 104: 0.286610762987818Val score on epoch 104: 0.28661078214645386
+0m 35s
+
+Epoch 105/150
+----------
+LR 0.0034540338471752124
+Train loss on epoch 105: 0.16547157099613777
+Val loss on epoch 105: 0.2830114960670471Val score on epoch 105: 0.2830114960670471
+0m 34s
+
+Epoch 106/150
+----------
+LR 0.003386437457521112
+Train loss on epoch 106: 0.15986551373050764
+Val loss on epoch 106: 0.27987012054239Val score on epoch 106: 0.2798701226711273
+0m 35s
+
+Epoch 107/150
+----------
+LR 0.003318690802223545
+Train loss on epoch 107: 0.1578596979379654
+Val loss on epoch 107: 0.3076716661453247Val score on epoch 107: 0.3076716959476471
+0m 34s
+
+Epoch 108/150
+----------
+LR 0.003250790123018023
+Train loss on epoch 108: 0.16591224876733926
+Val loss on epoch 108: 0.2705184199980327Val score on epoch 108: 0.27051842212677
+0m 35s
+
+Epoch 109/150
+----------
+LR 0.003182731478000003
+Train loss on epoch 109: 0.15451346968229002
+Val loss on epoch 109: 0.3023485967091152Val score on epoch 109: 0.3023485839366913
+0m 34s
+
+Epoch 110/150
+----------
+LR 0.0031145107280619666
+Train loss on epoch 110: 0.14697601273655891
+Val loss on epoch 110: 0.34550545471055166Val score on epoch 110: 0.3455054461956024
+0m 34s
+
+Epoch 111/150
+----------
+LR 0.0030461235219731812
+Train loss on epoch 111: 0.16531669090573603
+Val loss on epoch 111: 0.28459827814783367Val score on epoch 111: 0.2845982611179352
+0m 34s
+
+Epoch 112/150
+----------
+LR 0.0029775652799289847
+Train loss on epoch 112: 0.16781012083475405
+Val loss on epoch 112: 0.2557735038655145Val score on epoch 112: 0.25577351450920105
+saving best model
+0m 35s
+
+Epoch 113/150
+----------
+LR 0.0029088311753692297
+Train loss on epoch 113: 0.1657851034632096
+Val loss on epoch 113: 0.2588691604988916Val score on epoch 113: 0.2588691711425781
+0m 35s
+
+Epoch 114/150
+----------
+LR 0.002839916114833399
+Train loss on epoch 114: 0.15288531866211158
+Val loss on epoch 114: 0.2857815261398043Val score on epoch 114: 0.28578153252601624
+0m 35s
+
+Epoch 115/150
+----------
+LR 0.002770814715581511
+Train loss on epoch 115: 0.155145775526762
+Val loss on epoch 115: 0.27168846130371094Val score on epoch 115: 0.27168846130371094
+0m 34s
+
+Epoch 116/150
+----------
+LR 0.002701521280663962
+Train loss on epoch 116: 0.14992384899121064
+Val loss on epoch 116: 0.2660193549735205Val score on epoch 116: 0.266019344329834
+0m 34s
+
+Epoch 117/150
+----------
+LR 0.002632029771068184
+Train loss on epoch 117: 0.15744702632610613
+Val loss on epoch 117: 0.2905572099345071Val score on epoch 117: 0.29055723547935486
+0m 34s
+
+Epoch 118/150
+----------
+LR 0.0025623337745031803
+Train loss on epoch 118: 0.14717840088101533
+Val loss on epoch 118: 0.24954271529402053Val score on epoch 118: 0.2495427131652832
+saving best model
+0m 34s
+
+Epoch 119/150
+----------
+LR 0.0024924264703016746
+Train loss on epoch 119: 0.16271103775272003
+Val loss on epoch 119: 0.26003522532326834Val score on epoch 119: 0.2600352466106415
+0m 35s
+
+Epoch 120/150
+----------
+LR 0.002422300589820399
+Train loss on epoch 120: 0.15669277768868667
+Val loss on epoch 120: 0.25790874872888836Val score on epoch 120: 0.25790876150131226
+0m 35s
+
+Epoch 121/150
+----------
+LR 0.002351948371596901
+Train loss on epoch 121: 0.1527228897007612
+Val loss on epoch 121: 0.2729517029864447Val score on epoch 121: 0.27295172214508057
+0m 34s
+
+Epoch 122/150
+----------
+LR 0.002281361510370244
+Train loss on epoch 122: 0.1595264501296557
+Val loss on epoch 122: 0.27226037638528006Val score on epoch 122: 0.2722603976726532
+0m 35s
+
+Epoch 123/150
+----------
+LR 0.002210531098884951
+Train loss on epoch 123: 0.1525241772715862
+Val loss on epoch 123: 0.2577830361468451Val score on epoch 123: 0.25778305530548096
+0m 34s
+
+Epoch 124/150
+----------
+LR 0.0021394475611616268
+Train loss on epoch 124: 0.1541520018990223
+Val loss on epoch 124: 0.254103313599314Val score on epoch 124: 0.25410330295562744
+0m 34s
+
+Epoch 125/150
+----------
+LR 0.0020681005756198034
+Train loss on epoch 125: 0.15459133140169656
+Val loss on epoch 125: 0.27686489479882376Val score on epoch 125: 0.2768649160861969
+0m 34s
+
+Epoch 126/150
+----------
+LR 0.0019964789860589596
+Train loss on epoch 126: 0.1485627835186628
+Val loss on epoch 126: 0.2565309682062694Val score on epoch 126: 0.2565309703350067
+0m 35s
+
+Epoch 127/150
+----------
+LR 0.001924570698016157
+Train loss on epoch 127: 0.14595826514638388
+Val loss on epoch 127: 0.2824285307100841Val score on epoch 127: 0.2824285626411438
+0m 34s
+
+Epoch 128/150
+----------
+LR 0.0018523625573865854
+Train loss on epoch 128: 0.14999449539643067
+Val loss on epoch 128: 0.259975403547287Val score on epoch 128: 0.259975403547287
+0m 34s
+
+Epoch 129/150
+----------
+LR 0.0017798402073655024
+Train loss on epoch 129: 0.16207430397088712
+Val loss on epoch 129: 0.26787312754562925Val score on epoch 129: 0.2678731381893158
+0m 35s
+
+Epoch 130/150
+----------
+LR 0.0017069879186743955
+Train loss on epoch 130: 0.15232986612961844
+Val loss on epoch 130: 0.26849062527929035Val score on epoch 130: 0.26849064230918884
+0m 35s
+
+Epoch 131/150
+----------
+LR 0.0016337883865668724
+Train loss on epoch 131: 0.14486252745756736
+Val loss on epoch 131: 0.27395194343158175Val score on epoch 131: 0.2739519476890564
+0m 34s
+
+Epoch 132/150
+----------
+LR 0.001560222486119893
+Train loss on epoch 132: 0.14496524660633162
+Val loss on epoch 132: 0.2665716771568571Val score on epoch 132: 0.26657170057296753
+0m 34s
+
+Epoch 133/150
+----------
+LR 0.0014862689745797687
+Train loss on epoch 133: 0.14363722245280558
+Val loss on epoch 133: 0.2619859576225281Val score on epoch 133: 0.26198598742485046
+0m 35s
+
+Epoch 134/150
+----------
+LR 0.0014119041257124687
+Train loss on epoch 134: 0.14724107974996933
+Val loss on epoch 134: 0.24364112956183298Val score on epoch 134: 0.24364115297794342
+saving best model
+0m 35s
+
+Epoch 135/150
+----------
+LR 0.0013371012756856265
+Train loss on epoch 135: 0.15785983835275358
+Val loss on epoch 135: 0.270239138177463Val score on epoch 135: 0.2702391743659973
+0m 35s
+
+Epoch 136/150
+----------
+LR 0.0012618302521694921
+Train loss on epoch 136: 0.14901668635698465
+Val loss on epoch 136: 0.2695881852081844Val score on epoch 136: 0.2695882022380829
+0m 35s
+
+Epoch 137/150
+----------
+LR 0.0011860566467725966
+Train loss on epoch 137: 0.1429518131682506
+Val loss on epoch 137: 0.2537816550050463Val score on epoch 137: 0.25378167629241943
+0m 34s
+
+Epoch 138/150
+----------
+LR 0.0011097408734518403
+Train loss on epoch 138: 0.15238046703430322
+Val loss on epoch 138: 0.25231013127735685Val score on epoch 138: 0.2523101270198822
+0m 35s
+
+Epoch 139/150
+----------
+LR 0.0010328369284488936
+Train loss on epoch 139: 0.1436335573402735
+Val loss on epoch 139: 0.26629351930958883Val score on epoch 139: 0.2662935256958008
+0m 35s
+
+Epoch 140/150
+----------
+LR 0.0009552907240609368
+Train loss on epoch 140: 0.1437375293328212
+Val loss on epoch 140: 0.2491679404463087Val score on epoch 140: 0.24916794896125793
+0m 34s
+
+Epoch 141/150
+----------
+LR 0.000877037797136451
+Train loss on epoch 141: 0.1531148925423622
+Val loss on epoch 141: 0.2695924299103873Val score on epoch 141: 0.26959243416786194
+0m 35s
+
+Epoch 142/150
+----------
+LR 0.0007980000705034252
+Train loss on epoch 142: 0.15049495318761238
+Val loss on epoch 142: 0.2618964782782963Val score on epoch 142: 0.2618964910507202
+0m 35s
+
+Epoch 143/150
+----------
+LR 0.0007180811247901377
+Train loss on epoch 143: 0.1438604578948938
+Val loss on epoch 143: 0.251276576093265Val score on epoch 143: 0.25127658247947693
+0m 34s
+
+Epoch 144/150
+----------
+LR 0.0006371590182653041
+Train loss on epoch 144: 0.1392835665207643
+Val loss on epoch 144: 0.25409992252077374Val score on epoch 144: 0.25409993529319763
+0m 34s
+
+Epoch 145/150
+----------
+LR 0.0005550748379914245
+Train loss on epoch 145: 0.1545265786922895
+Val loss on epoch 145: 0.25403574321951183Val score on epoch 145: 0.2540357708930969
+0m 35s
+
+Epoch 146/150
+----------
+LR 0.00047161327350463107
+Train loss on epoch 146: 0.13756104472738045
+Val loss on epoch 146: 0.253166458436421Val score on epoch 146: 0.25316646695137024
+0m 35s
+
+Epoch 147/150
+----------
+LR 0.0003864668281998996
+Train loss on epoch 147: 0.14572758972644806
+Val loss on epoch 147: 0.2610959517104285Val score on epoch 147: 0.26109597086906433
+0m 35s
+
+Epoch 148/150
+----------
+LR 0.0002991618676518585
+Train loss on epoch 148: 0.14956954322182214
+Val loss on epoch 148: 0.2548298644168036Val score on epoch 148: 0.25482988357543945
+0m 35s
+
+Epoch 149/150
+----------
+LR 0.00020887676674565672
+Train loss on epoch 149: 0.14930186707239884
+Val loss on epoch 149: 0.2689099056380136Val score on epoch 149: 0.26890990138053894
+0m 34s
+
+Epoch 150/150
+----------
+LR 0.00011383327779763557
+Train loss on epoch 150: 0.14598879160789344
+Val loss on epoch 150: 0.25562940325055805Val score on epoch 150: 0.25562942028045654
+0m 34s
+
+Best val loss: 0.243641Best val score: 0.243641
+Epoch 1/150
+----------
+LR 0.0005
+Train loss on epoch 1: 0.6788345540945346
+Val loss on epoch 1: 0.5282978883811406Val score on epoch 1: 0.5282979011535645
+saving best model
+0m 35s
+
+Epoch 2/150
+----------
+LR 0.009942289157574538
+Epoch 1/150
+----------
+LR 0.0005
+Epoch 1/150
+----------
+LR 0.0005
+Epoch 1/150
+----------
+LR 0.0005
+Train loss on epoch 1: 0.6788345621182368
+Val loss on epoch 1: 0.5282978883811406Val score on epoch 1: 0.5282979011535645
+saving best model
+0m 31s
+
+Epoch 2/150
+----------
+LR 0.009942289157574538
+Train loss on epoch 2: 0.458906888961792
+Val loss on epoch 2: 0.47585990599223543Val score on epoch 2: 0.47585994005203247
+saving best model
+0m 34s
+
+Epoch 3/150
+----------
+LR 0.009882230368112917
+Train loss on epoch 3: 0.4536733260521522
+Val loss on epoch 3: 0.4737231859139034Val score on epoch 3: 0.47372323274612427
+saving best model
+0m 32s
+
+Epoch 4/150
+----------
+LR 0.00982213099490152
+Train loss on epoch 4: 0.4483597450531446
+Val loss on epoch 4: 0.47406843304634094Val score on epoch 4: 0.4740684926509857
+0m 29s
+
+Epoch 5/150
+----------
+LR 0.009761990734223923
+Epoch 1/150
+----------
+LR 0.0005
+Train loss on epoch 1: 0.675449897463505
+Val loss on epoch 1: 0.5142328568867275Val score on epoch 1: 0.514232873916626
+saving best model
+0m 30s
+
+Epoch 2/150
+----------
+LR 0.009942289157574538
+Train loss on epoch 2: 0.45160744052666885
+Val loss on epoch 2: 0.44892641050474985Val score on epoch 2: 0.4489264488220215
+saving best model
+0m 28s
+
+Epoch 3/150
+----------
+LR 0.009882230368112917
+Train loss on epoch 3: 0.4461933420254634
+Val loss on epoch 3: 0.4435399685587202Val score on epoch 3: 0.44353997707366943
+saving best model
+0m 28s
+
+Epoch 4/150
+----------
+LR 0.00982213099490152
+Train loss on epoch 4: 0.44060681760311127
+Val loss on epoch 4: 0.44672790595463346Val score on epoch 4: 0.4467279314994812
+0m 30s
+
+Epoch 5/150
+----------
+LR 0.009761990734223923
+Train loss on epoch 5: 0.4405725678572288
+Val loss on epoch 5: 0.4349894268172128Val score on epoch 5: 0.43498945236206055
+saving best model
+0m 29s
+
+Epoch 6/150
+----------
+LR 0.009701809277994737
+Train loss on epoch 6: 0.4365838823410181
+Val loss on epoch 6: 0.44508289439337595Val score on epoch 6: 0.4450829327106476
+0m 28s
+
+Epoch 7/150
+----------
+LR 0.00964158631366619
+Train loss on epoch 7: 0.4341047085248507
+Val loss on epoch 7: 0.43967499477522715Val score on epoch 7: 0.4396750330924988
+0m 28s
+
+Epoch 8/150
+----------
+LR 0.00958132152413205
+Train loss on epoch 8: 0.4323477332408612
+Val loss on epoch 8: 0.43307807190077646Val score on epoch 8: 0.4330781102180481
+saving best model
+0m 28s
+
+Epoch 9/150
+----------
+LR 0.009521014587628789
+Train loss on epoch 9: 0.4326278441227399
+Val loss on epoch 9: 0.43809166976383757Val score on epoch 9: 0.4380916953086853
+0m 28s
+
+Epoch 10/150
+----------
+LR 0.009460665177633904
+Train loss on epoch 10: 0.43266981496260715
+Val loss on epoch 10: 0.4359794855117798Val score on epoch 10: 0.4359794855117798
+0m 28s
+
+Epoch 11/150
+----------
+LR 0.009400272962761278
+Train loss on epoch 11: 0.4294499995616766
+Val loss on epoch 11: 0.42924592324665617Val score on epoch 11: 0.4292459487915039
+saving best model
+0m 28s
+
+Epoch 12/150
+----------
+LR 0.009339837606653464
+Train loss on epoch 12: 0.42765891322722804
+Val loss on epoch 12: 0.43201885904584614Val score on epoch 12: 0.43201887607574463
+0m 28s
+
+Epoch 13/150
+----------
+LR 0.009279358767870803
+Train loss on epoch 13: 0.4230824743325894
+Val loss on epoch 13: 0.4257034957408905Val score on epoch 13: 0.4257034957408905
+saving best model
+0m 29s
+
+Epoch 14/150
+----------
+LR 0.009218836099777257
+Train loss on epoch 14: 0.4234145444173079
+Val loss on epoch 14: 0.42006251215934753Val score on epoch 14: 0.4200625717639923
+saving best model
+0m 29s
+
+Epoch 15/150
+----------
+LR 0.009158269250422797
+Train loss on epoch 15: 0.41954566882206845
+Val loss on epoch 15: 0.41651093108313425Val score on epoch 15: 0.4165109694004059
+saving best model
+0m 28s
+
+Epoch 16/150
+----------
+LR 0.009097657862422268
+Train loss on epoch 16: 0.4149121527488415
+Val loss on epoch 16: 0.415484505040305Val score on epoch 16: 0.4154845178127289
+saving best model
+0m 28s
+
+Epoch 17/150
+----------
+LR 0.009037001572830567
+Train loss on epoch 17: 0.40892663254187656
+Val loss on epoch 17: 0.4249547762530191Val score on epoch 17: 0.42495477199554443
+0m 28s
+
+Epoch 18/150
+----------
+LR 0.008976300013014001
+Train loss on epoch 18: 0.4000011957608737
+Val loss on epoch 18: 0.4165582401411874Val score on epoch 18: 0.41655823588371277
+0m 28s
+
+Epoch 19/150
+----------
+LR 0.00891555280851768
+Train loss on epoch 19: 0.3990509876838097
+Val loss on epoch 19: 0.4043167957237789Val score on epoch 19: 0.404316782951355
+saving best model
+0m 29s
+
+Epoch 20/150
+----------
+LR 0.008854759578928792
+Train loss on epoch 20: 0.39614365536433
+Val loss on epoch 20: 0.39486677731786457Val score on epoch 20: 0.39486682415008545
+saving best model
+0m 28s
+
+Epoch 21/150
+----------
+LR 0.008793919937735588
+Train loss on epoch 21: 0.3833773239300801
+Val loss on epoch 21: 0.400696473462241Val score on epoch 21: 0.4006964862346649
+0m 28s
+
+Epoch 22/150
+----------
+LR 0.00873303349218194
+Train loss on epoch 22: 0.376878831249017
+Val loss on epoch 22: 0.41302075130598886Val score on epoch 22: 0.4130207598209381
+0m 30s
+
+Epoch 23/150
+----------
+LR 0.008672099843117252
+Train loss on epoch 23: 0.36783157403652483
+Val loss on epoch 23: 0.4102870055607387Val score on epoch 23: 0.4102870523929596
+0m 29s
+
+Epoch 24/150
+----------
+LR 0.008611118584841582
+Train loss on epoch 24: 0.3679249802461037
+Val loss on epoch 24: 0.5437632032803127Val score on epoch 24: 0.5437632203102112
+0m 29s
+
+Epoch 25/150
+----------
+LR 0.008550089304945751
+Train loss on epoch 25: 0.3500638546851965
+Val loss on epoch 25: 0.5324303465230125Val score on epoch 25: 0.5324303507804871
+0m 34s
+
+Epoch 26/150
+----------
+LR 0.008489011584146248
+Train loss on epoch 26: 0.3491568691455401
+Val loss on epoch 26: 0.5188257396221161Val score on epoch 26: 0.5188257694244385
+0m 28s
+
+Epoch 27/150
+----------
+LR 0.00842788499611474
+Train loss on epoch 27: 0.3450405104802205
+Val loss on epoch 27: 0.5062011182308197Val score on epoch 27: 0.5062011480331421
+0m 31s
+
+Epoch 28/150
+----------
+LR 0.008366709107301903
+Train loss on epoch 28: 0.33569704454678756
+Val loss on epoch 28: 0.7398370844977242Val score on epoch 28: 0.7398372292518616
+0m 32s
+
+Epoch 29/150
+----------
+LR 0.008305483476755433
+Train loss on epoch 29: 0.3312600232087649
+Val loss on epoch 29: 0.5723675063678196Val score on epoch 29: 0.5723675489425659
+0m 31s
+
+Epoch 30/150
+----------
+LR 0.008244207655931885
+Train loss on epoch 30: 0.3151703201807462
+Val loss on epoch 30: 0.5855120846203395Val score on epoch 30: 0.585512101650238
+0m 28s
+
+Epoch 31/150
+----------
+LR 0.008182881188502184
+Train loss on epoch 31: 0.3178008829171841
+Val loss on epoch 31: 0.487283923796245Val score on epoch 31: 0.48728394508361816
+0m 29s
+
+Epoch 32/150
+----------
+LR 0.008121503610150451
+Train loss on epoch 32: 0.3075549098161551
+Val loss on epoch 32: 0.512620998280389Val score on epoch 32: 0.5126210451126099
+0m 31s
+
+Epoch 33/150
+----------
+LR 0.008060074448365926
+Train loss on epoch 33: 0.29583650827407837
+Val loss on epoch 33: 0.48343602674348013Val score on epoch 33: 0.4834360182285309
+0m 28s
+
+Epoch 34/150
+----------
+LR 0.00799859322222764
+Train loss on epoch 34: 0.29469496928728545
+Val loss on epoch 34: 0.5487201511859894Val score on epoch 34: 0.5487201809883118
+0m 28s
+
+Epoch 35/150
+----------
+LR 0.007937059442181555
+Train loss on epoch 35: 0.29254741622851443
+Val loss on epoch 35: 0.40779201899256023Val score on epoch 35: 0.40779200196266174
+0m 28s
+
+Epoch 36/150
+----------
+LR 0.00787547260980981
+Train loss on epoch 36: 0.2809688202463664
+Val loss on epoch 36: 0.44818087560789927Val score on epoch 36: 0.4481808543205261
+0m 28s
+
+Epoch 37/150
+----------
+LR 0.007813832217591753
+Train loss on epoch 37: 0.282040016582379
+Val loss on epoch 37: 0.41030233672686983Val score on epoch 37: 0.4103023409843445
+0m 28s
+
+Epoch 38/150
+----------
+LR 0.007752137748656374
+Train loss on epoch 38: 0.28033170447899747
+Val loss on epoch 38: 0.3511344960757664Val score on epoch 38: 0.3511345088481903
+saving best model
+0m 28s
+
+Epoch 39/150
+----------
+LR 0.0076903886765257445
+Train loss on epoch 39: 0.27211222969568694
+Val loss on epoch 39: 0.36749120695250376Val score on epoch 39: 0.367491215467453
+0m 28s
+
+Epoch 40/150
+----------
+LR 0.00762858446484908
+Train loss on epoch 40: 0.2702808746924767
+Val loss on epoch 40: 0.3900153168610164Val score on epoch 40: 0.3900153338909149
+0m 29s
+
+Epoch 41/150
+----------
+LR 0.007566724567126958
+Train loss on epoch 41: 0.26162500794117266
+Val loss on epoch 41: 0.36465731263160706Val score on epoch 41: 0.36465734243392944
+0m 29s
+
+Epoch 42/150
+----------
+LR 0.007504808426425277
+Train loss on epoch 42: 0.25705593824386597
+Val loss on epoch 42: 0.34952988794871737Val score on epoch 42: 0.349529892206192
+saving best model
+0m 28s
+
+Epoch 43/150
+----------
+LR 0.007442835475078429
+Train loss on epoch 43: 0.25545752678926176
+Val loss on epoch 43: 0.3243229602064405Val score on epoch 43: 0.32432299852371216
+saving best model
+0m 29s
+
+Epoch 44/150
+----------
+LR 0.007380805134381234
+Train loss on epoch 44: 0.2508978826495317
+Val loss on epoch 44: 0.33580356410571505Val score on epoch 44: 0.3358035981655121
+0m 28s
+
+Epoch 45/150
+----------
+LR 0.007318716814269034
+Train loss on epoch 45: 0.25157503153269106
+Val loss on epoch 45: 0.3943584901945932Val score on epoch 45: 0.3943585157394409
+0m 28s
+
+Epoch 46/150
+----------
+LR 0.007256569912985431
+Train loss on epoch 46: 0.24910169897171167
+Val loss on epoch 46: 0.34005183407238554Val score on epoch 46: 0.3400518596172333
+0m 28s
+
+Epoch 47/150
+----------
+LR 0.007194363816737048
+Train loss on epoch 47: 0.24942302474608788
+Val loss on epoch 47: 0.43300221647535053Val score on epoch 47: 0.433002233505249
+0m 28s
+
+Epoch 48/150
+----------
+LR 0.007132097899334673
+Train loss on epoch 48: 0.24371970960727105
+Val loss on epoch 48: 0.3842891923018864Val score on epoch 48: 0.3842892050743103
+0m 29s
+
+Epoch 49/150
+----------
+LR 0.007069771521820108
+Train loss on epoch 49: 0.2306150496006012
+Val loss on epoch 49: 0.31719537930829184Val score on epoch 49: 0.3171953856945038
+saving best model
+0m 29s
+
+Epoch 50/150
+----------
+LR 0.007007384032078035
+Train loss on epoch 50: 0.2314606927908384
+Val loss on epoch 50: 0.38519961493355886Val score on epoch 50: 0.385199636220932
+0m 28s
+
+Epoch 51/150
+----------
+LR 0.006944934764432108
+Train loss on epoch 51: 0.22680169974382108
+Val loss on epoch 51: 0.3292618713208607Val score on epoch 51: 0.3292618691921234
+0m 28s
+
+Epoch 52/150
+----------
+LR 0.006882423039224482
+Train loss on epoch 52: 0.22227164243276304
+Val loss on epoch 52: 0.3324491722243173Val score on epoch 52: 0.33244916796684265
+0m 28s
+
+Epoch 53/150
+----------
+LR 0.006819848162377934
+Train loss on epoch 53: 0.22247566683934286
+Val loss on epoch 53: 0.3916471557957785Val score on epoch 53: 0.39164718985557556
+0m 28s
+
+Epoch 54/150
+----------
+LR 0.0067572094249396565
+Train loss on epoch 54: 0.21853643082655394
+Val loss on epoch 54: 0.359123170375824Val score on epoch 54: 0.359123170375824
+0m 29s
+
+Epoch 55/150
+----------
+LR 0.006694506102605755
+Train loss on epoch 55: 0.21505737190063184
+Val loss on epoch 55: 0.4216418521744864Val score on epoch 55: 0.42164188623428345
+0m 28s
+
+Epoch 56/150
+----------
+LR 0.00663173745522545
+Train loss on epoch 56: 0.21854217465107256
+Val loss on epoch 56: 0.3507324159145355Val score on epoch 56: 0.3507324159145355
+0m 28s
+
+Epoch 57/150
+----------
+LR 0.00656890272628387
+Train loss on epoch 57: 0.21116816768279442
+Val loss on epoch 57: 0.3979297663484301Val score on epoch 57: 0.3979297876358032
+0m 28s
+
+Epoch 58/150
+----------
+LR 0.006506001142362269
+Train loss on epoch 58: 0.20901255653454706
+Val loss on epoch 58: 0.40377376335007803Val score on epoch 58: 0.40377381443977356
+0m 28s
+
+Epoch 59/150
+----------
+LR 0.006443031912574463
+Train loss on epoch 59: 0.205688520692862
+Val loss on epoch 59: 0.3900997170380184Val score on epoch 59: 0.3900997042655945
+0m 28s
+
+Epoch 60/150
+----------
+LR 0.006379994227978131
+Train loss on epoch 60: 0.2167860263815293
+Val loss on epoch 60: 0.3418313903467996Val score on epoch 60: 0.34183141589164734
+0m 28s
+
+Epoch 61/150
+----------
+LR 0.006316887260959592
+Train loss on epoch 61: 0.20760811750705427
+Val loss on epoch 61: 0.39819152866091045Val score on epoch 61: 0.39819154143333435
+0m 28s
+
+Epoch 62/150
+----------
+LR 0.006253710164590539
+Train loss on epoch 62: 0.19448713958263397
+Val loss on epoch 62: 0.3200138083526066Val score on epoch 62: 0.3200138211250305
+0m 28s
+
+Epoch 63/150
+----------
+LR 0.006190462071955156
+Train loss on epoch 63: 0.20722776823318922
+Val loss on epoch 63: 0.31854010266917093Val score on epoch 63: 0.318540096282959
+0m 28s
+
+Epoch 64/150
+----------
+LR 0.006127142095445851
+Train loss on epoch 64: 0.19946537224146035
+Val loss on epoch 64: 0.3705337345600128Val score on epoch 64: 0.3705337643623352
+0m 28s
+
+Epoch 65/150
+----------
+LR 0.006063749326025801
+Train loss on epoch 65: 0.20020350985802138
+Val loss on epoch 65: 0.38289718117032734Val score on epoch 65: 0.38289719820022583
+0m 28s
+
+Epoch 66/150
+----------
+LR 0.006000282832456343
+Train loss on epoch 66: 0.19775021190826708
+Val loss on epoch 66: 0.35684968744005474Val score on epoch 66: 0.356849730014801
+0m 28s
+
+Epoch 67/150
+----------
+LR 0.005936741660487073
+Train loss on epoch 67: 0.19443104244195497
+Val loss on epoch 67: 0.4063565305301121Val score on epoch 67: 0.406356543302536
+0m 28s
+
+Epoch 68/150
+----------
+LR 0.005873124832006403
+Train loss on epoch 68: 0.1939234584569931
+Val loss on epoch 68: 0.3317042716911861Val score on epoch 68: 0.3317042887210846
+0m 28s
+
+Epoch 69/150
+----------
+LR 0.005809431344150167
+Train loss on epoch 69: 0.19279733644081995
+Val loss on epoch 69: 0.3801152152674539Val score on epoch 69: 0.38011524081230164
+0m 28s
+
+Epoch 70/150
+----------
+LR 0.005745660168365624
+Train loss on epoch 70: 0.1924314137834769
+Val loss on epoch 70: 0.3495738570179258Val score on epoch 70: 0.34957391023635864
+0m 28s
+
+Epoch 71/150
+----------
+LR 0.0056818102494280796
+Train loss on epoch 71: 0.19520888133690908
+Val loss on epoch 71: 0.3200888676302774Val score on epoch 71: 0.3200889229774475
+0m 29s
+
+Epoch 72/150
+----------
+LR 0.005617880504407097
+Train loss on epoch 72: 0.19147819395248705
+Val loss on epoch 72: 0.3632667234965733Val score on epoch 72: 0.3632667362689972
+0m 28s
+
+Epoch 73/150
+----------
+LR 0.00555386982157904
+Train loss on epoch 73: 0.185871547804429
+Val loss on epoch 73: 0.3409447499683925Val score on epoch 73: 0.3409447968006134
+0m 28s
+
+Epoch 74/150
+----------
+LR 0.005489777059282442
+Train loss on epoch 74: 0.1872958644078328
+Val loss on epoch 74: 0.31707653403282166Val score on epoch 74: 0.31707656383514404
+saving best model
+0m 29s
+
+Epoch 75/150
+----------
+LR 0.005425601044712401
+Train loss on epoch 75: 0.192059504871185
+Val loss on epoch 75: 0.31166120299271177Val score on epoch 75: 0.3116611838340759
+saving best model
+0m 30s
+
+Epoch 76/150
+----------
+LR 0.005361340572649923
+Train loss on epoch 76: 0.18563050948656523
+Val loss on epoch 76: 0.3188575974532536Val score on epoch 76: 0.3188576102256775
+0m 29s
+
+Epoch 77/150
+----------
+LR 0.005296994404121787
+Train loss on epoch 77: 0.18379696687826744
+Val loss on epoch 77: 0.3183822397674833Val score on epoch 77: 0.31838226318359375
+0m 28s
+
+Epoch 78/150
+----------
+LR 0.005232561264986125
+Train loss on epoch 78: 0.1780068794122109
+Val loss on epoch 78: 0.30459087022713255Val score on epoch 78: 0.3045908808708191
+saving best model
+0m 30s
+
+Epoch 79/150
+----------
+LR 0.005168039844438553
+Train loss on epoch 79: 0.18050015029998925
+Val loss on epoch 79: 0.2837851068803242Val score on epoch 79: 0.2837851047515869
+saving best model
+0m 29s
+
+Epoch 80/150
+----------
+LR 0.0051034287934331865
+Train loss on epoch 80: 0.1674374554019708
+Val loss on epoch 80: 0.3284878730773926Val score on epoch 80: 0.3284878730773926
+0m 28s
+
+Epoch 81/150
+----------
+LR 0.005038726723012472
+Train loss on epoch 81: 0.18444062425540045
+Val loss on epoch 81: 0.2951599104063852Val score on epoch 81: 0.2951599359512329
+0m 28s
+
+Epoch 82/150
+----------
+LR 0.004973932202539145
+Train loss on epoch 82: 0.1824254674407152
+Val loss on epoch 82: 0.2726656709398542Val score on epoch 82: 0.27266567945480347
+saving best model
+0m 28s
+
+Epoch 83/150
+----------
+LR 0.004909043757823094
+Train loss on epoch 83: 0.18073741231973356
+Val loss on epoch 83: 0.30146478542259764Val score on epoch 83: 0.3014647960662842
+0m 28s
+
+Epoch 84/150
+----------
+LR 0.004844059869135266
+Train loss on epoch 84: 0.17218466446949884
+Val loss on epoch 84: 0.34479096957615446Val score on epoch 84: 0.3447909951210022
+0m 28s
+
+Epoch 85/150
+----------
+LR 0.004778978969099965
+Train loss on epoch 85: 0.17704031616449356
+Val loss on epoch 85: 0.3006125731127603Val score on epoch 85: 0.30061259865760803
+0m 29s
+
+Epoch 86/150
+----------
+LR 0.004713799440456199
+Train loss on epoch 86: 0.1787079503903022
+Val loss on epoch 86: 0.320101050393922Val score on epoch 86: 0.3201010823249817
+0m 28s
+
+Epoch 87/150
+----------
+LR 0.004648519613677749
+Train loss on epoch 87: 0.1747502564237668
+Val loss on epoch 87: 0.29547505719321115Val score on epoch 87: 0.2954750955104828
+0m 28s
+
+Epoch 88/150
+----------
+LR 0.004583137764440721
+Train loss on epoch 88: 0.1699141602103527
+Val loss on epoch 88: 0.28650414092200144Val score on epoch 88: 0.2865041494369507
+0m 29s
+
+Epoch 89/150
+----------
+LR 0.004517652110926236
+Train loss on epoch 89: 0.17361086435042894
+Val loss on epoch 89: 0.3202292195388249Val score on epoch 89: 0.3202292025089264
+0m 28s
+
+Epoch 90/150
+----------
+LR 0.004452060810944663
+Train loss on epoch 90: 0.18287426405228102
+Val loss on epoch 90: 0.2603467255830765Val score on epoch 90: 0.26034674048423767
+saving best model
+0m 28s
+
+Epoch 91/150
+----------
+LR 0.004386361958866498
+Train loss on epoch 91: 0.17573163171227163
+Val loss on epoch 91: 0.3581579029560089Val score on epoch 91: 0.3581579625606537
+0m 28s
+
+Epoch 92/150
+----------
+LR 0.004320553582343431
+Train loss on epoch 92: 0.17186047194095758
+Val loss on epoch 92: 0.2783561817237309Val score on epoch 92: 0.2783561944961548
+0m 28s
+
+Epoch 93/150
+----------
+LR 0.004254633638801454
+Train loss on epoch 93: 0.17380704243595785
+Val loss on epoch 93: 0.2950325778552464Val score on epoch 93: 0.2950325906276703
+0m 28s
+
+Epoch 94/150
+----------
+LR 0.004188600011685971
+Train loss on epoch 94: 0.1728224212733599
+Val loss on epoch 94: 0.266969519002097Val score on epoch 94: 0.2669695317745209
+0m 28s
+
+Epoch 95/150
+----------
+LR 0.00412245050643669
+Train loss on epoch 95: 0.16256977474460235
+Val loss on epoch 95: 0.3002288831131799Val score on epoch 95: 0.30022889375686646
+0m 28s
+
+Epoch 96/150
+----------
+LR 0.004056182846167688
+Train loss on epoch 96: 0.16708736637463936
+Val loss on epoch 96: 0.31127080747059416Val score on epoch 96: 0.3112708330154419
+0m 28s
+
+Epoch 97/150
+----------
+LR 0.003989794667025305
+Train loss on epoch 97: 0.16968321284422508
+Val loss on epoch 97: 0.2875472456216812Val score on epoch 97: 0.2875472605228424
+0m 28s
+
+Epoch 98/150
+----------
+LR 0.003923283513193387
+Train loss on epoch 98: 0.15822926679482827
+Val loss on epoch 98: 0.29844686814716886Val score on epoch 98: 0.2984468638896942
+0m 28s
+
+Epoch 99/150
+----------
+LR 0.003856646831511983
+Train loss on epoch 99: 0.15808437392115593
+Val loss on epoch 99: 0.2778230479785374Val score on epoch 99: 0.2778230607509613
+0m 28s
+
+Epoch 100/150
+----------
+LR 0.003789881965671507
+Train loss on epoch 100: 0.16290874177446732
+Val loss on epoch 100: 0.2998328847544534Val score on epoch 100: 0.29983291029930115
+0m 29s
+
+Epoch 101/150
+----------
+LR 0.0037229861499399127
+Train loss on epoch 101: 0.16227721165005976
+Val loss on epoch 101: 0.2757826341050012Val score on epoch 101: 0.27578264474868774
+0m 28s
+
+Epoch 102/150
+----------
+LR 0.0036559565023752366
+Train loss on epoch 102: 0.16317120738900626
+Val loss on epoch 102: 0.28146289927618845Val score on epoch 102: 0.2814628779888153
+0m 29s
+
+Epoch 103/150
+----------
+LR 0.003588790017469871
+Train loss on epoch 103: 0.158882737159729
+Val loss on epoch 103: 0.27653062982218607Val score on epoch 103: 0.2765306532382965
+0m 28s
+
+Epoch 104/150
+----------
+LR 0.003521483558166183
+Train loss on epoch 104: 0.16540348816376466
+Val loss on epoch 104: 0.29314856018338886Val score on epoch 104: 0.29314857721328735
+0m 28s
+
+Epoch 105/150
+----------
+LR 0.0034540338471752124
+Train loss on epoch 105: 0.1658128359569953
+Val loss on epoch 105: 0.3084384160382407Val score on epoch 105: 0.3084384500980377
+0m 28s
+
+Epoch 106/150
+----------
+LR 0.003386437457521112
+Train loss on epoch 106: 0.15704585898381013
+Val loss on epoch 106: 0.283934901867594Val score on epoch 106: 0.28393489122390747
+0m 28s
+
+Epoch 107/150
+----------
+LR 0.003318690802223545
+Train loss on epoch 107: 0.15607410554702467
+Val loss on epoch 107: 0.29439043572970797Val score on epoch 107: 0.29439041018486023
+0m 28s
+
+Epoch 108/150
+----------
+LR 0.003250790123018023
+Train loss on epoch 108: 0.1622289023720301
+Val loss on epoch 108: 0.25686201240335194Val score on epoch 108: 0.25686201453208923
+saving best model
+0m 28s
+
+Epoch 109/150
+----------
+LR 0.003182731478000003
+Train loss on epoch 109: 0.1539316552762802
+Val loss on epoch 109: 0.3126182428428105Val score on epoch 109: 0.3126182556152344
+0m 28s
+
+Epoch 110/150
+----------
+LR 0.0031145107280619666
+Train loss on epoch 110: 0.14873036455649596
+Val loss on epoch 110: 0.3109056225844792Val score on epoch 110: 0.3109056353569031
+0m 28s
+
+Epoch 111/150
+----------
+LR 0.0030461235219731812
+Train loss on epoch 111: 0.16745261561412078
+Val loss on epoch 111: 0.2743679540497916Val score on epoch 111: 0.27436795830726624
+0m 29s
+
+Epoch 112/150
+----------
+LR 0.0029775652799289847
+Train loss on epoch 112: 0.16694422008899543
+Val loss on epoch 112: 0.24994900609765733Val score on epoch 112: 0.24994900822639465
+saving best model
+0m 29s
+
+Epoch 113/150
+----------
+LR 0.0029088311753692297
+Train loss on epoch 113: 0.16224069148302078
+Val loss on epoch 113: 0.2549341044255665Val score on epoch 113: 0.2549341320991516
+0m 28s
+
+Epoch 114/150
+----------
+LR 0.002839916114833399
+Train loss on epoch 114: 0.15485119676360717
+Val loss on epoch 114: 0.26428020000457764Val score on epoch 114: 0.2642802298069
+0m 28s
+
+Epoch 115/150
+----------
+LR 0.002770814715581511
+Train loss on epoch 115: 0.15625928113093743
+Val loss on epoch 115: 0.2679701681647982Val score on epoch 115: 0.26797017455101013
+0m 28s
+
+Epoch 116/150
+----------
+LR 0.002701521280663962
+Train loss on epoch 116: 0.1489058191386553
+Val loss on epoch 116: 0.27661452548844473Val score on epoch 116: 0.27661454677581787
+0m 28s
+
+Epoch 117/150
+----------
+LR 0.002632029771068184
+Train loss on epoch 117: 0.1550498647758594
+Val loss on epoch 117: 0.28540363907814026Val score on epoch 117: 0.28540363907814026
+0m 28s
+
+Epoch 118/150
+----------
+LR 0.0025623337745031803
+Train loss on epoch 118: 0.14808569275415862
+Val loss on epoch 118: 0.25281402468681335Val score on epoch 118: 0.25281402468681335
+0m 28s
+
+Epoch 119/150
+----------
+LR 0.0024924264703016746
+Train loss on epoch 119: 0.16125577172407737
+Val loss on epoch 119: 0.2705065501587732Val score on epoch 119: 0.2705065608024597
+0m 28s
+
+Epoch 120/150
+----------
+LR 0.002422300589820399
+Train loss on epoch 120: 0.15507064387202263
+Val loss on epoch 120: 0.25077067954199656Val score on epoch 120: 0.2507706880569458
+0m 28s
+
+Epoch 121/150
+----------
+LR 0.002351948371596901
+Train loss on epoch 121: 0.1502347863637484
+Val loss on epoch 121: 0.269186794757843Val score on epoch 121: 0.269186794757843
+0m 28s
+
+Epoch 122/150
+----------
+LR 0.002281361510370244
+Train loss on epoch 122: 0.15942448320297095
+Val loss on epoch 122: 0.27433908198560986Val score on epoch 122: 0.27433910965919495
+0m 28s
+
+Epoch 123/150
+----------
+LR 0.002210531098884951
+Train loss on epoch 123: 0.15325220129810846
+Val loss on epoch 123: 0.28094519674777985Val score on epoch 123: 0.28094518184661865
+0m 28s
+
+Epoch 124/150
+----------
+LR 0.0021394475611616268
+Train loss on epoch 124: 0.1501066472667914
+Val loss on epoch 124: 0.266034586088998Val score on epoch 124: 0.2660346031188965
+0m 29s
+
+Epoch 125/150
+----------
+LR 0.0020681005756198034
+Train loss on epoch 125: 0.15147809225779313
+Val loss on epoch 125: 0.2803383618593216Val score on epoch 125: 0.2803383767604828
+0m 28s
+
+Epoch 126/150
+----------
+LR 0.0019964789860589596
+Train loss on epoch 126: 0.145911497851977
+Val loss on epoch 126: 0.2335193966116224Val score on epoch 126: 0.23351939022541046
+saving best model
+0m 29s
+
+Epoch 127/150
+----------
+LR 0.001924570698016157
+Train loss on epoch 127: 0.1456725402520253
+Val loss on epoch 127: 0.28380156201975687Val score on epoch 127: 0.2838015556335449
+0m 28s
+
+Epoch 128/150
+----------
+LR 0.0018523625573865854
+Train loss on epoch 128: 0.15069928536048302
+Val loss on epoch 128: 0.24348340502807073Val score on epoch 128: 0.24348343908786774
+0m 28s
+
+Epoch 129/150
+----------
+LR 0.0017798402073655024
+Train loss on epoch 129: 0.15763540737904036
+Val loss on epoch 129: 0.24756569521767752Val score on epoch 129: 0.24756570160388947
+0m 28s
+
+Epoch 130/150
+----------
+LR 0.0017069879186743955
+Train loss on epoch 130: 0.15025756221551162
+Val loss on epoch 130: 0.2760032628263746Val score on epoch 130: 0.27600327134132385
+0m 32s
+
+Epoch 131/150
+----------
+LR 0.0016337883865668724
+Train loss on epoch 131: 0.1450723959849431
+Val loss on epoch 131: 0.25576238334178925Val score on epoch 131: 0.25576239824295044
+0m 28s
+
+Epoch 132/150
+----------
+LR 0.001560222486119893
+Train loss on epoch 132: 0.14352100457136446
+Val loss on epoch 132: 0.26594620091574533Val score on epoch 132: 0.2659462094306946
+0m 29s
+
+Epoch 133/150
+----------
+LR 0.0014862689745797687
+Train loss on epoch 133: 0.14254786332066244
+Val loss on epoch 133: 0.25225778349808287Val score on epoch 133: 0.252257764339447
+0m 29s
+
+Epoch 134/150
+----------
+LR 0.0014119041257124687
+Train loss on epoch 134: 0.1452745580329345
+Val loss on epoch 134: 0.24055428164345877Val score on epoch 134: 0.24055428802967072
+0m 28s
+
+Epoch 135/150
+----------
+LR 0.0013371012756856265
+Train loss on epoch 135: 0.15620154428940553
+Val loss on epoch 135: 0.24285942954676493Val score on epoch 135: 0.24285943806171417
+0m 29s
+
+Epoch 136/150
+----------
+LR 0.0012618302521694921
+Train loss on epoch 136: 0.14731174277571532
+Val loss on epoch 136: 0.2712884843349457Val score on epoch 136: 0.27128851413726807
+0m 28s
+
+Epoch 137/150
+----------
+LR 0.0011860566467725966
+Train loss on epoch 137: 0.1412616323393125
+Val loss on epoch 137: 0.2432195884840829Val score on epoch 137: 0.24321958422660828
+0m 28s
+
+Epoch 138/150
+----------
+LR 0.0011097408734518403
+Train loss on epoch 138: 0.15333640002287352
+Val loss on epoch 138: 0.24351339893681662Val score on epoch 138: 0.24351339042186737
+0m 29s
+
+Epoch 139/150
+----------
+LR 0.0010328369284488936
+Train loss on epoch 139: 0.14291544946340415
+Val loss on epoch 139: 0.25963524196829113Val score on epoch 139: 0.25963523983955383
+0m 28s
+
+Epoch 140/150
+----------
+LR 0.0009552907240609368
+Train loss on epoch 140: 0.141274388306416
+Val loss on epoch 140: 0.23643641812460764Val score on epoch 140: 0.23643644154071808
+0m 30s
+
+Epoch 141/150
+----------
+LR 0.000877037797136451
+Train loss on epoch 141: 0.15163337525266868
+Val loss on epoch 141: 0.25988072582653593Val score on epoch 141: 0.25988075137138367
+0m 28s
+
+Epoch 142/150
+----------
+LR 0.0007980000705034252
+Train loss on epoch 142: 0.14912789773482543
+Val loss on epoch 142: 0.2624468228646687Val score on epoch 142: 0.2624468207359314
+0m 29s
+
+Epoch 143/150
+----------
+LR 0.0007180811247901377
+Train loss on epoch 143: 0.14232952376970878
+Val loss on epoch 143: 0.24939677545002528Val score on epoch 143: 0.24939675629138947
+0m 28s
+
+Epoch 144/150
+----------
+LR 0.0006371590182653041
+Train loss on epoch 144: 0.13641274032684472
+Val loss on epoch 144: 0.2513242151056017Val score on epoch 144: 0.25132423639297485
+0m 28s
+
+Epoch 145/150
+----------
+LR 0.0005550748379914245
+Train loss on epoch 145: 0.15296664002996224
+Val loss on epoch 145: 0.2457345234496253Val score on epoch 145: 0.24573452770709991
+0m 29s
+
+Epoch 146/150
+----------
+LR 0.00047161327350463107
+Train loss on epoch 146: 0.13702388709554306
+Val loss on epoch 146: 0.24813637563160487Val score on epoch 146: 0.24813637137413025
+0m 28s
+
+Epoch 147/150
+----------
+LR 0.0003864668281998996
+Train loss on epoch 147: 0.14438367921572465
+Val loss on epoch 147: 0.26227933168411255Val score on epoch 147: 0.26227936148643494
+0m 28s
+
+Epoch 148/150
+----------
+LR 0.0002991618676518585
+Train loss on epoch 148: 0.1483163214646853
+Val loss on epoch 148: 0.24396659008094243Val score on epoch 148: 0.24396660923957825
+0m 28s
+
+Epoch 149/150
+----------
+LR 0.00020887676674565672
+Train loss on epoch 149: 0.1479320262487118
+Val loss on epoch 149: 0.27082260165895733Val score on epoch 149: 0.2708226144313812
+0m 28s
+
+Epoch 150/150
+----------
+LR 0.00011383327779763557
+Train loss on epoch 150: 0.1463517646950025
+Val loss on epoch 150: 0.2502783898796354Val score on epoch 150: 0.25027841329574585
+0m 30s
+
+Best val loss: 0.233519Best val score: 0.233519
+Epoch 1/150
+----------
+LR 0.0005
+Epoch 1/150
+----------
+LR 0.0005
+Train loss on epoch 1: 0.6754499009022346
+Val loss on epoch 1: 0.5142328654016767Val score on epoch 1: 0.514232873916626
+saving best model
+0m 30s
+
+Epoch 2/150
+----------
+LR 0.009942289157574538
+Epoch 1/150
+----------
+LR 0.0005
+Epoch 1/150
+----------
+LR 0.0005
+Train loss on epoch 1: 0.6754499066334504
+Val loss on epoch 1: 0.5142328654016767Val score on epoch 1: 0.514232873916626
+saving best model
+0m 30s
+
+Epoch 2/150
+----------
+LR 0.009942289157574538
+Train loss on epoch 2: 0.45160744281915516
+Val loss on epoch 2: 0.4489264062472752Val score on epoch 2: 0.4489264488220215
+saving best model
+0m 28s
+
+Epoch 3/150
+----------
+LR 0.009882230368112917
+Train loss on epoch 3: 0.44619333973297703
+Val loss on epoch 3: 0.4435399685587202Val score on epoch 3: 0.44353997707366943
+saving best model
+0m 28s
+
+Epoch 4/150
+----------
+LR 0.00982213099490152
+Train loss on epoch 4: 0.4406068164568681
+Val loss on epoch 4: 0.44672791021210806Val score on epoch 4: 0.4467279314994812
+0m 28s
+
+Epoch 5/150
+----------
+LR 0.009761990734223923
+Train loss on epoch 5: 0.4405725747346878
+Val loss on epoch 5: 0.4349894183022635Val score on epoch 5: 0.43498945236206055
+saving best model
+0m 29s
+
+Epoch 6/150
+----------
+LR 0.009701809277994737
+Train loss on epoch 6: 0.43658387890228856
+Val loss on epoch 6: 0.44508289439337595Val score on epoch 6: 0.4450829327106476
+0m 28s
+
+Epoch 7/150
+----------
+LR 0.00964158631366619
+Train loss on epoch 7: 0.4341047119635802
+Val loss on epoch 7: 0.4396749905177525Val score on epoch 7: 0.439674973487854
+0m 28s
+
+Epoch 8/150
+----------
+LR 0.00958132152413205
+Train loss on epoch 8: 0.4323477435570497
+Val loss on epoch 8: 0.43307807615825106Val score on epoch 8: 0.4330781102180481
+saving best model
+0m 29s
+
+Epoch 9/150
+----------
+LR 0.009521014587628789
+Train loss on epoch 9: 0.4326278441227399
+Val loss on epoch 9: 0.4380916655063629Val score on epoch 9: 0.4380916953086853
+0m 28s
+
+Epoch 10/150
+----------
+LR 0.009460665177633904
+Train loss on epoch 10: 0.43266981267012083
+Val loss on epoch 10: 0.43597948976925444Val score on epoch 10: 0.4359794855117798
+0m 28s
+
+Epoch 11/150
+----------
+LR 0.009400272962761278
+Train loss on epoch 11: 0.42944999726919025
+Val loss on epoch 11: 0.4292459189891815Val score on epoch 11: 0.4292459487915039
+saving best model
+0m 28s
+
+Epoch 12/150
+----------
+LR 0.009339837606653464
+Train loss on epoch 12: 0.42765890864225536
+Val loss on epoch 12: 0.43201885904584614Val score on epoch 12: 0.43201887607574463
+0m 28s
+
+Epoch 13/150
+----------
+LR 0.009279358767870803
+Train loss on epoch 13: 0.4230824766250757
+Val loss on epoch 13: 0.42570349148341585Val score on epoch 13: 0.4257034957408905
+saving best model
+0m 28s
+
+Epoch 14/150
+----------
+LR 0.009218836099777257
+Train loss on epoch 14: 0.42341454556355107
+Val loss on epoch 14: 0.42006251215934753Val score on epoch 14: 0.4200625717639923
+saving best model
+0m 28s
+
+Epoch 15/150
+----------
+LR 0.009158269250422797
+Train loss on epoch 15: 0.4195456630908526
+Val loss on epoch 15: 0.41651093534060885Val score on epoch 15: 0.4165109694004059
+saving best model
+0m 28s
+
+Epoch 16/150
+----------
+LR 0.009097657862422268
+Train loss on epoch 16: 0.414912156187571
+Val loss on epoch 16: 0.4154844880104065Val score on epoch 16: 0.4154845178127289
+saving best model
+0m 28s
+
+Epoch 17/150
+----------
+LR 0.009037001572830567
+Train loss on epoch 17: 0.40892663368811977
+Val loss on epoch 17: 0.4249547805104937Val score on epoch 17: 0.4249548017978668
+0m 28s
+
+Epoch 18/150
+----------
+LR 0.008976300013014001
+Train loss on epoch 18: 0.4000011900296578
+Val loss on epoch 18: 0.4165582273687635Val score on epoch 18: 0.41655823588371277
+0m 28s
+
+Epoch 19/150
+----------
+LR 0.00891555280851768
+Train loss on epoch 19: 0.3990509911225392
+Val loss on epoch 19: 0.40431679998125347Val score on epoch 19: 0.40431681275367737
+saving best model
+0m 29s
+
+Epoch 20/150
+----------
+LR 0.008854759578928792
+Train loss on epoch 20: 0.3961436633880322
+Val loss on epoch 20: 0.39486677731786457Val score on epoch 20: 0.39486682415008545
+saving best model
+0m 28s
+
+Epoch 21/150
+----------
+LR 0.008793919937735588
+Train loss on epoch 21: 0.3833773239300801
+Val loss on epoch 21: 0.400696473462241Val score on epoch 21: 0.4006964862346649
+0m 28s
+
+Epoch 22/150
+----------
+LR 0.00873303349218194
+Train loss on epoch 22: 0.376878831249017
+Val loss on epoch 22: 0.4130207427910396Val score on epoch 22: 0.4130207598209381
+0m 28s
+
+Epoch 23/150
+----------
+LR 0.008672099843117252
+Train loss on epoch 23: 0.3678315763290112
+Val loss on epoch 23: 0.4102870098182133Val score on epoch 23: 0.4102869927883148
+0m 28s
+
+Epoch 24/150
+----------
+LR 0.008611118584841582
+Train loss on epoch 24: 0.3679249802461037
+Val loss on epoch 24: 0.5437631947653634Val score on epoch 24: 0.5437632203102112
+0m 28s
+
+Epoch 25/150
+----------
+LR 0.008550089304945751
+Train loss on epoch 25: 0.35006385812392604
+Val loss on epoch 25: 0.5324303507804871Val score on epoch 25: 0.5324303507804871
+0m 29s
+
+Epoch 26/150
+----------
+LR 0.008489011584146248
+Train loss on epoch 26: 0.3491568679992969
+Val loss on epoch 26: 0.5188257396221161Val score on epoch 26: 0.5188257694244385
+0m 28s
+
+Epoch 27/150
+----------
+LR 0.00842788499611474
+Train loss on epoch 27: 0.3450405104802205
+Val loss on epoch 27: 0.5062011224882943Val score on epoch 27: 0.5062011480331421
+0m 28s
+
+Epoch 28/150
+----------
+LR 0.008366709107301903
+Train loss on epoch 28: 0.3356970422543012
+Val loss on epoch 28: 0.739837110042572Val score on epoch 28: 0.739837110042572
+0m 28s
+
+Epoch 29/150
+----------
+LR 0.008305483476755433
+Train loss on epoch 29: 0.3312600266474944
+Val loss on epoch 29: 0.5723675233977181Val score on epoch 29: 0.5723675489425659
+0m 28s
+
+Epoch 30/150
+----------
+LR 0.008244207655931885
+Train loss on epoch 30: 0.3151703259119621
+Val loss on epoch 30: 0.5855120931352887Val score on epoch 30: 0.585512101650238
+0m 28s
+
+Epoch 31/150
+----------
+LR 0.008182881188502184
+Train loss on epoch 31: 0.3178008817709409
+Val loss on epoch 31: 0.48728393231119427Val score on epoch 31: 0.48728394508361816
+0m 29s
+
+Epoch 32/150
+----------
+LR 0.008121503610150451
+Train loss on epoch 32: 0.30755490637742555
+Val loss on epoch 32: 0.5126209940229144Val score on epoch 32: 0.5126210451126099
+0m 28s
+
+Epoch 33/150
+----------
+LR 0.008060074448365926
+Train loss on epoch 33: 0.29583650827407837
+Val loss on epoch 33: 0.48343602674348013Val score on epoch 33: 0.4834360182285309
+0m 28s
+
+Epoch 34/150
+----------
+LR 0.00799859322222764
+Train loss on epoch 34: 0.29469496928728545
+Val loss on epoch 34: 0.5487201724733625Val score on epoch 34: 0.5487201809883118
+0m 29s
+
+Epoch 35/150
+----------
+LR 0.007937059442181555
+Train loss on epoch 35: 0.2925474139360281
+Val loss on epoch 35: 0.40779201473508564Val score on epoch 35: 0.40779203176498413
+0m 28s
+
+Epoch 36/150
+----------
+LR 0.00787547260980981
+Train loss on epoch 36: 0.28096882368509585
+Val loss on epoch 36: 0.4481808841228485Val score on epoch 36: 0.4481808543205261
+0m 28s
+
+Epoch 37/150
+----------
+LR 0.007813832217591753
+Train loss on epoch 37: 0.2820400200211085
+Val loss on epoch 37: 0.4103023409843445Val score on epoch 37: 0.41030237078666687
+0m 28s
+
+Epoch 38/150
+----------
+LR 0.007752137748656374
+Train loss on epoch 38: 0.2803317027596327
+Val loss on epoch 38: 0.3511344960757664Val score on epoch 38: 0.3511345088481903
+saving best model
+0m 28s
+
+Epoch 39/150
+----------
+LR 0.0076903886765257445
+Train loss on epoch 39: 0.2721122239644711
+Val loss on epoch 39: 0.36749120695250376Val score on epoch 39: 0.3674911856651306
+0m 28s
+
+Epoch 40/150
+----------
+LR 0.00762858446484908
+Train loss on epoch 40: 0.2702808723999904
+Val loss on epoch 40: 0.39001532537596567Val score on epoch 40: 0.3900153338909149
+0m 29s
+
+Epoch 41/150
+----------
+LR 0.007566724567126958
+Train loss on epoch 41: 0.2616250062218079
+Val loss on epoch 41: 0.36465731263160706Val score on epoch 41: 0.36465734243392944
+0m 29s
+
+Epoch 42/150
+----------
+LR 0.007504808426425277
+Train loss on epoch 42: 0.2570559342320149
+Val loss on epoch 42: 0.34952988794871737Val score on epoch 42: 0.349529892206192
+saving best model
+0m 28s
+
+Epoch 43/150
+----------
+LR 0.007442835475078429
+Train loss on epoch 43: 0.2554575256430186
+Val loss on epoch 43: 0.3243229644639151Val score on epoch 43: 0.32432299852371216
+saving best model
+0m 29s
+
+Epoch 44/150
+----------
+LR 0.007380805134381234
+Train loss on epoch 44: 0.2508978872345044
+Val loss on epoch 44: 0.33580355984824045Val score on epoch 44: 0.3358035981655121
+0m 29s
+
+Epoch 45/150
+----------
+LR 0.007318716814269034
+Train loss on epoch 45: 0.2515750280939616
+Val loss on epoch 45: 0.3943584774221693Val score on epoch 45: 0.3943585157394409
+0m 28s
+
+Epoch 46/150
+----------
+LR 0.007256569912985431
+Train loss on epoch 46: 0.24910169725234693
+Val loss on epoch 46: 0.34005183832986013Val score on epoch 46: 0.3400518596172333
+0m 28s
+
+Epoch 47/150
+----------
+LR 0.007194363816737048
+Train loss on epoch 47: 0.24942302818481737
+Val loss on epoch 47: 0.4330022207328251Val score on epoch 47: 0.4330022633075714
+0m 29s
+
+Epoch 48/150
+----------
+LR 0.007132097899334673
+Train loss on epoch 48: 0.2437197084610279
+Val loss on epoch 48: 0.3842891880444118Val score on epoch 48: 0.3842892050743103
+0m 28s
+
+Epoch 49/150
+----------
+LR 0.007069771521820108
+Train loss on epoch 49: 0.23061504845435804
+Val loss on epoch 49: 0.3171953835657665Val score on epoch 49: 0.3171953856945038
+saving best model
+0m 29s
+
+Epoch 50/150
+----------
+LR 0.007007384032078035
+Train loss on epoch 50: 0.2314606968026895
+Val loss on epoch 50: 0.38519961067608427Val score on epoch 50: 0.38519957661628723
+0m 28s
+
+Epoch 51/150
+----------
+LR 0.006944934764432108
+Train loss on epoch 51: 0.22680170146318582
+Val loss on epoch 51: 0.3292618713208607Val score on epoch 51: 0.3292618989944458
+0m 29s
+
+Epoch 52/150
+----------
+LR 0.006882423039224482
+Train loss on epoch 52: 0.22227164300588462
+Val loss on epoch 52: 0.33244918073926655Val score on epoch 52: 0.33244916796684265
+0m 28s
+
+Epoch 53/150
+----------
+LR 0.006819848162377934
+Train loss on epoch 53: 0.22247566741246444
+Val loss on epoch 53: 0.3916471600532532Val score on epoch 53: 0.39164718985557556
+0m 28s
+
+Epoch 54/150
+----------
+LR 0.0067572094249396565
+Train loss on epoch 54: 0.21853642796094602
+Val loss on epoch 54: 0.35912318314824787Val score on epoch 54: 0.359123170375824
+0m 29s
+
+Epoch 55/150
+----------
+LR 0.006694506102605755
+Train loss on epoch 55: 0.21505737419311816
+Val loss on epoch 55: 0.4216418521744864Val score on epoch 55: 0.42164188623428345
+0m 28s
+
+Epoch 56/150
+----------
+LR 0.00663173745522545
+Train loss on epoch 56: 0.21854217235858625
+Val loss on epoch 56: 0.35073241165706087Val score on epoch 56: 0.3507324457168579
+0m 28s
+
+Epoch 57/150
+----------
+LR 0.00656890272628387
+Train loss on epoch 57: 0.21116816768279442
+Val loss on epoch 57: 0.3979297663484301Val score on epoch 57: 0.3979298174381256
+0m 28s
+
+Epoch 58/150
+----------
+LR 0.006506001142362269
+Train loss on epoch 58: 0.20901255481518233
+Val loss on epoch 58: 0.4037737676075527Val score on epoch 58: 0.40377381443977356
+0m 29s
+
+Epoch 59/150
+----------
+LR 0.006443031912574463
+Train loss on epoch 59: 0.20568851954661882
+Val loss on epoch 59: 0.3900997170380184Val score on epoch 59: 0.3900997042655945
+0m 29s
+
+Epoch 60/150
+----------
+LR 0.006379994227978131
+Train loss on epoch 60: 0.2167860298202588
+Val loss on epoch 60: 0.3418313903467996Val score on epoch 60: 0.34183141589164734
+0m 28s
+
+Epoch 61/150
+----------
+LR 0.006316887260959592
+Train loss on epoch 61: 0.20760811693393266
+Val loss on epoch 61: 0.3981915329183851Val score on epoch 61: 0.39819154143333435
+0m 28s
+
+Epoch 62/150
+----------
+LR 0.006253710164590539
+Train loss on epoch 62: 0.1944871418751203
+Val loss on epoch 62: 0.320013804095132Val score on epoch 62: 0.3200138211250305
+0m 28s
+
+Epoch 63/150
+----------
+LR 0.006190462071955156
+Train loss on epoch 63: 0.20722776708694604
+Val loss on epoch 63: 0.31854010266917093Val score on epoch 63: 0.318540096282959
+0m 28s
+
+Epoch 64/150
+----------
+LR 0.006127142095445851
+Train loss on epoch 64: 0.19946536937585244
+Val loss on epoch 64: 0.3705337345600128Val score on epoch 64: 0.3705337643623352
+0m 28s
+
+Epoch 65/150
+----------
+LR 0.006063749326025801
+Train loss on epoch 65: 0.2002035127236293
+Val loss on epoch 65: 0.3828971726553781Val score on epoch 65: 0.38289719820022583
+0m 29s
+
+Epoch 66/150
+----------
+LR 0.006000282832456343
+Train loss on epoch 66: 0.19775021477387503
+Val loss on epoch 66: 0.35684968744005474Val score on epoch 66: 0.356849730014801
+0m 28s
+
+Epoch 67/150
+----------
+LR 0.005936741660487073
+Train loss on epoch 67: 0.19443104244195497
+Val loss on epoch 67: 0.4063565262726375Val score on epoch 67: 0.406356543302536
+0m 28s
+
+Epoch 68/150
+----------
+LR 0.005873124832006403
+Train loss on epoch 68: 0.19392346017635786
+Val loss on epoch 68: 0.3317042716911861Val score on epoch 68: 0.3317042887210846
+0m 28s
+
+Epoch 69/150
+----------
+LR 0.005809431344150167
+Train loss on epoch 69: 0.1927973415989142
+Val loss on epoch 69: 0.3801152195249285Val score on epoch 69: 0.38011521100997925
+0m 28s
+
+Epoch 70/150
+----------
+LR 0.005745660168365624
+Train loss on epoch 70: 0.19243140977162582
+Val loss on epoch 70: 0.3495738570179258Val score on epoch 70: 0.34957388043403625
+0m 28s
+
+Epoch 71/150
+----------
+LR 0.0056818102494280796
+Train loss on epoch 71: 0.19520888191003066
+Val loss on epoch 71: 0.32008887614522663Val score on epoch 71: 0.3200889229774475
+0m 29s
+
+Epoch 72/150
+----------
+LR 0.005617880504407097
+Train loss on epoch 72: 0.19147819567185181
+Val loss on epoch 72: 0.3632667234965733Val score on epoch 72: 0.3632667362689972
+0m 29s
+
+Epoch 73/150
+----------
+LR 0.00555386982157904
+Train loss on epoch 73: 0.1858715512431585
+Val loss on epoch 73: 0.3409447499683925Val score on epoch 73: 0.3409447968006134
+0m 29s
+
+Epoch 74/150
+----------
+LR 0.005489777059282442
+Train loss on epoch 74: 0.18729586727344072
+Val loss on epoch 74: 0.31707652126039776Val score on epoch 74: 0.31707656383514404
+saving best model
+0m 28s
+
+Epoch 75/150
+----------
+LR 0.005425601044712401
+Train loss on epoch 75: 0.192059504871185
+Val loss on epoch 75: 0.3116611987352371Val score on epoch 75: 0.3116611838340759
+saving best model
+0m 29s
+
+Epoch 76/150
+----------
+LR 0.005361340572649923
+Train loss on epoch 76: 0.18563051120592997
+Val loss on epoch 76: 0.31885760171072824Val score on epoch 76: 0.3188576102256775
+0m 28s
+
+Epoch 77/150
+----------
+LR 0.005296994404121787
+Train loss on epoch 77: 0.18379696745138902
+Val loss on epoch 77: 0.3183822418962206Val score on epoch 77: 0.31838226318359375
+0m 28s
+
+Epoch 78/150
+----------
+LR 0.005232561264986125
+Train loss on epoch 78: 0.17800687711972457
+Val loss on epoch 78: 0.3045908787420818Val score on epoch 78: 0.3045908808708191
+saving best model
+0m 28s
+
+Epoch 79/150
+----------
+LR 0.005168039844438553
+Train loss on epoch 79: 0.180500145141895
+Val loss on epoch 79: 0.2837851068803242Val score on epoch 79: 0.2837851345539093
+saving best model
+0m 30s
+
+Epoch 80/150
+----------
+LR 0.0051034287934331865
+Train loss on epoch 80: 0.16743745339604524
+Val loss on epoch 80: 0.3284878815923418Val score on epoch 80: 0.3284878730773926
+0m 28s
+
+Epoch 81/150
+----------
+LR 0.005038726723012472
+Train loss on epoch 81: 0.18444062368227884
+Val loss on epoch 81: 0.29515991679259707Val score on epoch 81: 0.2951599359512329
+0m 28s
+
+Epoch 82/150
+----------
+LR 0.004973932202539145
+Train loss on epoch 82: 0.18242546514822885
+Val loss on epoch 82: 0.2726656581674303Val score on epoch 82: 0.27266567945480347
+saving best model
+0m 28s
+
+Epoch 83/150
+----------
+LR 0.004909043757823094
+Train loss on epoch 83: 0.18073741289285514
+Val loss on epoch 83: 0.30146478968007223Val score on epoch 83: 0.3014647960662842
+0m 31s
+
+Epoch 84/150
+----------
+LR 0.004844059869135266
+Train loss on epoch 84: 0.1721846633232557
+Val loss on epoch 84: 0.34479096106120516Val score on epoch 84: 0.3447909951210022
+0m 28s
+
+Epoch 85/150
+----------
+LR 0.004778978969099965
+Train loss on epoch 85: 0.1770403147316896
+Val loss on epoch 85: 0.3006125773702349Val score on epoch 85: 0.30061259865760803
+0m 29s
+
+Epoch 86/150
+----------
+LR 0.004713799440456199
+Train loss on epoch 86: 0.1787079509634238
+Val loss on epoch 86: 0.32010104826518465Val score on epoch 86: 0.3201010823249817
+0m 28s
+
+Epoch 87/150
+----------
+LR 0.004648519613677749
+Train loss on epoch 87: 0.17475025585064521
+Val loss on epoch 87: 0.29547506996563505Val score on epoch 87: 0.2954750955104828
+0m 28s
+
+Epoch 88/150
+----------
+LR 0.004583137764440721
+Train loss on epoch 88: 0.16991415791786635
+Val loss on epoch 88: 0.28650414092200144Val score on epoch 88: 0.2865041494369507
+0m 28s
+
+Epoch 89/150
+----------
+LR 0.004517652110926236
+Train loss on epoch 89: 0.17361086435042894
+Val loss on epoch 89: 0.3202292025089264Val score on epoch 89: 0.3202292025089264
+0m 29s
+
+Epoch 90/150
+----------
+LR 0.004452060810944663
+Train loss on epoch 90: 0.18287426233291626
+Val loss on epoch 90: 0.2603467319692884Val score on epoch 90: 0.26034674048423767
+saving best model
+0m 28s
+
+Epoch 91/150
+----------
+LR 0.004386361958866498
+Train loss on epoch 91: 0.1757316322853932
+Val loss on epoch 91: 0.35815789231232237Val score on epoch 91: 0.3581579327583313
+0m 28s
+
+Epoch 92/150
+----------
+LR 0.004320553582343431
+Train loss on epoch 92: 0.17186047050815362
+Val loss on epoch 92: 0.27835618598120554Val score on epoch 92: 0.2783561944961548
+0m 28s
+
+Epoch 93/150
+----------
+LR 0.004254633638801454
+Train loss on epoch 93: 0.1738070432956402
+Val loss on epoch 93: 0.2950325778552464Val score on epoch 93: 0.2950325906276703
+0m 28s
+
+Epoch 94/150
+----------
+LR 0.004188600011685971
+Train loss on epoch 94: 0.1728224204136775
+Val loss on epoch 94: 0.26696952325957163Val score on epoch 94: 0.2669695317745209
+0m 28s
+
+Epoch 95/150
+----------
+LR 0.00412245050643669
+Train loss on epoch 95: 0.16256977417148077
+Val loss on epoch 95: 0.30022887885570526Val score on epoch 95: 0.30022889375686646
+0m 28s
+
+Epoch 96/150
+----------
+LR 0.004056182846167688
+Train loss on epoch 96: 0.16708736694776094
+Val loss on epoch 96: 0.31127080747059416Val score on epoch 96: 0.3112708330154419
+0m 28s
+
+Epoch 97/150
+----------
+LR 0.003989794667025305
+Train loss on epoch 97: 0.16968321513671142
+Val loss on epoch 97: 0.2875472456216812Val score on epoch 97: 0.2875472605228424
+0m 28s
+
+Epoch 98/150
+----------
+LR 0.003923283513193387
+Train loss on epoch 98: 0.15822926851419303
+Val loss on epoch 98: 0.29844687027590616Val score on epoch 98: 0.2984468638896942
+0m 29s
+
+Epoch 99/150
+----------
+LR 0.003856646831511983
+Train loss on epoch 99: 0.15808437248835197
+Val loss on epoch 99: 0.27782305436474936Val score on epoch 99: 0.2778230607509613
+0m 28s
+
+Epoch 100/150
+----------
+LR 0.003789881965671507
+Train loss on epoch 100: 0.1629087391954202
+Val loss on epoch 100: 0.2998328847544534Val score on epoch 100: 0.29983291029930115
+0m 28s
+
+Epoch 101/150
+----------
+LR 0.0037229861499399127
+Train loss on epoch 101: 0.1622772102172558
+Val loss on epoch 101: 0.2757826383624758Val score on epoch 101: 0.27578264474868774
+0m 28s
+
+Epoch 102/150
+----------
+LR 0.0036559565023752366
+Train loss on epoch 102: 0.16317121197397894
+Val loss on epoch 102: 0.2814628928899765Val score on epoch 102: 0.2814629077911377
+0m 29s
+
+Epoch 103/150
+----------
+LR 0.003588790017469871
+Train loss on epoch 103: 0.15888273572692505
+Val loss on epoch 103: 0.276530636208398Val score on epoch 103: 0.2765306532382965
+0m 28s
+
+Epoch 104/150
+----------
+LR 0.003521483558166183
+Train loss on epoch 104: 0.16540348902344704
+Val loss on epoch 104: 0.29314856018338886Val score on epoch 104: 0.29314857721328735
+0m 28s
+
+Epoch 105/150
+----------
+LR 0.0034540338471752124
+Train loss on epoch 105: 0.16581283481075212
+Val loss on epoch 105: 0.3084384160382407Val score on epoch 105: 0.3084384500980377
+0m 28s
+
+Epoch 106/150
+----------
+LR 0.003386437457521112
+Train loss on epoch 106: 0.15704585726444537
+Val loss on epoch 106: 0.2839348954813821Val score on epoch 106: 0.28393489122390747
+0m 28s
+
+Epoch 107/150
+----------
+LR 0.003318690802223545
+Train loss on epoch 107: 0.15607410440078148
+Val loss on epoch 107: 0.29439043572970797Val score on epoch 107: 0.29439041018486023
+0m 28s
+
+Epoch 108/150
+----------
+LR 0.003250790123018023
+Train loss on epoch 108: 0.1622289023720301
+Val loss on epoch 108: 0.2568620102746146Val score on epoch 108: 0.25686201453208923
+saving best model
+0m 28s
+
+Epoch 109/150
+----------
+LR 0.003182731478000003
+Train loss on epoch 109: 0.15393165556284097
+Val loss on epoch 109: 0.3126182407140732Val score on epoch 109: 0.3126182556152344
+0m 28s
+
+Epoch 110/150
+----------
+LR 0.0031145107280619666
+Train loss on epoch 110: 0.14873036169088805
+Val loss on epoch 110: 0.3109056310994284Val score on epoch 110: 0.3109056353569031
+0m 28s
+
+Epoch 111/150
+----------
+LR 0.0030461235219731812
+Train loss on epoch 111: 0.1674526184797287
+Val loss on epoch 111: 0.27436796043600353Val score on epoch 111: 0.27436795830726624
+0m 29s
+
+Epoch 112/150
+----------
+LR 0.0029775652799289847
+Train loss on epoch 112: 0.1669442203755562
+Val loss on epoch 112: 0.24994900822639465Val score on epoch 112: 0.24994900822639465
+saving best model
+0m 29s
+
+Epoch 113/150
+----------
+LR 0.0029088311753692297
+Train loss on epoch 113: 0.1622406909098992
+Val loss on epoch 113: 0.2549341065543039Val score on epoch 113: 0.2549341022968292
+0m 28s
+
+Epoch 114/150
+----------
+LR 0.002839916114833399
+Train loss on epoch 114: 0.15485119705016798
+Val loss on epoch 114: 0.2642801914896284Val score on epoch 114: 0.2642802298069
+0m 28s
+
+Epoch 115/150
+----------
+LR 0.002770814715581511
+Train loss on epoch 115: 0.1562592785518903
+Val loss on epoch 115: 0.2679701681647982Val score on epoch 115: 0.26797017455101013
+0m 28s
+
+Epoch 116/150
+----------
+LR 0.002701521280663962
+Train loss on epoch 116: 0.14890582114458084
+Val loss on epoch 116: 0.276614527617182Val score on epoch 116: 0.27661454677581787
+0m 28s
+
+Epoch 117/150
+----------
+LR 0.002632029771068184
+Train loss on epoch 117: 0.1550498647758594
+Val loss on epoch 117: 0.285403630563191Val score on epoch 117: 0.28540363907814026
+0m 28s
+
+Epoch 118/150
+----------
+LR 0.0025623337745031803
+Train loss on epoch 118: 0.14808569275415862
+Val loss on epoch 118: 0.2528140204293387Val score on epoch 118: 0.25281402468681335
+0m 28s
+
+Epoch 119/150
+----------
+LR 0.0024924264703016746
+Train loss on epoch 119: 0.16125577172407737
+Val loss on epoch 119: 0.2705065459012985Val score on epoch 119: 0.2705065608024597
+0m 28s
+
+Epoch 120/150
+----------
+LR 0.002422300589820399
+Train loss on epoch 120: 0.15507064387202263
+Val loss on epoch 120: 0.2507706752845219Val score on epoch 120: 0.2507706880569458
+0m 28s
+
+Epoch 121/150
+----------
+LR 0.002351948371596901
+Train loss on epoch 121: 0.15023478550406602
+Val loss on epoch 121: 0.2691868075302669Val score on epoch 121: 0.269186794757843
+0m 28s
+
+Epoch 122/150
+----------
+LR 0.002281361510370244
+Train loss on epoch 122: 0.15942448406265333
+Val loss on epoch 122: 0.2743390862430845Val score on epoch 122: 0.27433910965919495
+0m 28s
+
+Epoch 123/150
+----------
+LR 0.002210531098884951
+Train loss on epoch 123: 0.15325220101154768
+Val loss on epoch 123: 0.28094519461904255Val score on epoch 123: 0.28094518184661865
+0m 28s
+
+Epoch 124/150
+----------
+LR 0.0021394475611616268
+Train loss on epoch 124: 0.1501066449743051
+Val loss on epoch 124: 0.26603458183152334Val score on epoch 124: 0.2660346031188965
+0m 28s
+
+Epoch 125/150
+----------
+LR 0.0020681005756198034
+Train loss on epoch 125: 0.15147809225779313
+Val loss on epoch 125: 0.2803383597305843Val score on epoch 125: 0.2803383767604828
+0m 28s
+
+Epoch 126/150
+----------
+LR 0.0019964789860589596
+Train loss on epoch 126: 0.145911497851977
+Val loss on epoch 126: 0.23351939448288508Val score on epoch 126: 0.23351939022541046
+saving best model
+0m 29s
+
+Epoch 127/150
+----------
+LR 0.001924570698016157
+Train loss on epoch 127: 0.1456725413982685
+Val loss on epoch 127: 0.2838015577622822Val score on epoch 127: 0.2838015556335449
+0m 28s
+
+Epoch 128/150
+----------
+LR 0.0018523625573865854
+Train loss on epoch 128: 0.15069928478736144
+Val loss on epoch 128: 0.24348339864185878Val score on epoch 128: 0.24348343908786774
+0m 29s
+
+Epoch 129/150
+----------
+LR 0.0017798402073655024
+Train loss on epoch 129: 0.1576354056596756
+Val loss on epoch 129: 0.24756569734641484Val score on epoch 129: 0.24756571650505066
+0m 28s
+
+Epoch 130/150
+----------
+LR 0.0017069879186743955
+Train loss on epoch 130: 0.15025756049614686
+Val loss on epoch 130: 0.27600325856889996Val score on epoch 130: 0.27600327134132385
+0m 28s
+
+Epoch 131/150
+----------
+LR 0.0016337883865668724
+Train loss on epoch 131: 0.14507239569838232
+Val loss on epoch 131: 0.2557623875992639Val score on epoch 131: 0.25576239824295044
+0m 28s
+
+Epoch 132/150
+----------
+LR 0.001560222486119893
+Train loss on epoch 132: 0.14352100485792527
+Val loss on epoch 132: 0.2659461966582707Val score on epoch 132: 0.2659462094306946
+0m 28s
+
+Epoch 133/150
+----------
+LR 0.0014862689745797687
+Train loss on epoch 133: 0.1425478636072232
+Val loss on epoch 133: 0.25225778562682016Val score on epoch 133: 0.252257764339447
+0m 28s
+
+Epoch 134/150
+----------
+LR 0.0014119041257124687
+Train loss on epoch 134: 0.14527455860605606
+Val loss on epoch 134: 0.24055428164345877Val score on epoch 134: 0.24055428802967072
+0m 28s
+
+Epoch 135/150
+----------
+LR 0.0013371012756856265
+Train loss on epoch 135: 0.15620154257004076
+Val loss on epoch 135: 0.24285943167550222Val score on epoch 135: 0.24285943806171417
+0m 29s
+
+Epoch 136/150
+----------
+LR 0.0012618302521694921
+Train loss on epoch 136: 0.14731174134291136
+Val loss on epoch 136: 0.271288486463683Val score on epoch 136: 0.27128851413726807
+0m 28s
+
+Epoch 137/150
+----------
+LR 0.0011860566467725966
+Train loss on epoch 137: 0.14126163348555565
+Val loss on epoch 137: 0.24321959274155752Val score on epoch 137: 0.24321958422660828
+0m 28s
+
+Epoch 138/150
+----------
+LR 0.0011097408734518403
+Train loss on epoch 138: 0.1533364008825559
+Val loss on epoch 138: 0.24351339680807932Val score on epoch 138: 0.24351339042186737
+0m 28s
+
+Epoch 139/150
+----------
+LR 0.0010328369284488936
+Train loss on epoch 139: 0.14291545003652573
+Val loss on epoch 139: 0.2596352462257658Val score on epoch 139: 0.2596352696418762
+0m 28s
+
+Epoch 140/150
+----------
+LR 0.0009552907240609368
+Train loss on epoch 140: 0.14127439002578074
+Val loss on epoch 140: 0.23643642238208226Val score on epoch 140: 0.23643644154071808
+0m 28s
+
+Epoch 141/150
+----------
+LR 0.000877037797136451
+Train loss on epoch 141: 0.1516333746795471
+Val loss on epoch 141: 0.25988071731158663Val score on epoch 141: 0.2598807215690613
+0m 28s
+
+Epoch 142/150
+----------
+LR 0.0007980000705034252
+Train loss on epoch 142: 0.14912790031387255
+Val loss on epoch 142: 0.26244682925088064Val score on epoch 142: 0.2624468207359314
+0m 29s
+
+Epoch 143/150
+----------
+LR 0.0007180811247901377
+Train loss on epoch 143: 0.14232952348314798
+Val loss on epoch 143: 0.2493967797074999Val score on epoch 143: 0.24939677119255066
+0m 28s
+
+Epoch 144/150
+----------
+LR 0.0006371590182653041
+Train loss on epoch 144: 0.13641273946716234
+Val loss on epoch 144: 0.2513242129768644Val score on epoch 144: 0.25132423639297485
+0m 28s
+
+Epoch 145/150
+----------
+LR 0.0005550748379914245
+Train loss on epoch 145: 0.15296663745091513
+Val loss on epoch 145: 0.2457345255783626Val score on epoch 145: 0.24573452770709991
+0m 29s
+
+Epoch 146/150
+----------
+LR 0.00047161327350463107
+Train loss on epoch 146: 0.1370238882417862
+Val loss on epoch 146: 0.24813637137413025Val score on epoch 146: 0.24813637137413025
+0m 29s
+
+Epoch 147/150
+----------
+LR 0.0003864668281998996
+Train loss on epoch 147: 0.14438367864260307
+Val loss on epoch 147: 0.2622793401990618Val score on epoch 147: 0.26227936148643494
+0m 28s
+
+Epoch 148/150
+----------
+LR 0.0002991618676518585
+Train loss on epoch 148: 0.14831632003188133
+Val loss on epoch 148: 0.24396659008094243Val score on epoch 148: 0.24396659433841705
+0m 28s
+
+Epoch 149/150
+----------
+LR 0.00020887676674565672
+Train loss on epoch 149: 0.14793202567559022
+Val loss on epoch 149: 0.2708226037876947Val score on epoch 149: 0.2708226144313812
+0m 29s
+
+Epoch 150/150
+----------
+LR 0.00011383327779763557
+Train loss on epoch 150: 0.1463517675606104
+Val loss on epoch 150: 0.25027839413711Val score on epoch 150: 0.25027841329574585
+0m 29s
+
+Best val loss: 0.233519Best val score: 0.233519
+Epoch 1/150
+----------
+LR 0.0005
+Train loss on epoch 1: 0.6754499089259368
+Val loss on epoch 1: 0.5142328568867275Val score on epoch 1: 0.514232873916626
+saving best model
+0m 30s
+
+Epoch 2/150
+----------
+LR 0.009942289157574538
+Train loss on epoch 2: 0.45160744396539837
+Val loss on epoch 2: 0.4489264062472752Val score on epoch 2: 0.4489264488220215
+saving best model
+0m 28s
+
+Epoch 3/150
+----------
+LR 0.009882230368112917
+Train loss on epoch 3: 0.4461933374404907
+Val loss on epoch 3: 0.4435399728161948Val score on epoch 3: 0.44353997707366943
+saving best model
+0m 28s
+
+Epoch 4/150
+----------
+LR 0.00982213099490152
+Train loss on epoch 4: 0.4406068210418408
+Val loss on epoch 4: 0.44672790595463346Val score on epoch 4: 0.4467279314994812
+0m 29s
+
+Epoch 5/150
+----------
+LR 0.009761990734223923
+Train loss on epoch 5: 0.4405725724422015
+Val loss on epoch 5: 0.43498942255973816Val score on epoch 5: 0.43498945236206055
+saving best model
+0m 30s
+
+Epoch 6/150
+----------
+LR 0.009701809277994737
+Train loss on epoch 6: 0.43658387890228856
+Val loss on epoch 6: 0.44508289439337595Val score on epoch 6: 0.44508296251296997
+0m 28s
+
+Epoch 7/150
+----------
+LR 0.00964158631366619
+Train loss on epoch 7: 0.4341047154023097
+Val loss on epoch 7: 0.4396749905177525Val score on epoch 7: 0.4396750032901764
+0m 28s
+
+Epoch 8/150
+----------
+LR 0.00958132152413205
+Train loss on epoch 8: 0.432347738972077
+Val loss on epoch 8: 0.4330780804157257Val score on epoch 8: 0.4330781102180481
+saving best model
+0m 28s
+
+Epoch 9/150
+----------
+LR 0.009521014587628789
+Train loss on epoch 9: 0.4326278464152263
+Val loss on epoch 9: 0.43809166976383757Val score on epoch 9: 0.4380916953086853
+0m 28s
+
+Epoch 10/150
+----------
+LR 0.009460665177633904
+Train loss on epoch 10: 0.43266981610885036
+Val loss on epoch 10: 0.43597948976925444Val score on epoch 10: 0.4359794855117798
+0m 28s
+
+Epoch 11/150
+----------
+LR 0.009400272962761278
+Train loss on epoch 11: 0.42944999841543346
+Val loss on epoch 11: 0.4292459189891815Val score on epoch 11: 0.4292459487915039
+saving best model
+0m 29s
+
+Epoch 12/150
+----------
+LR 0.009339837606653464
+Train loss on epoch 12: 0.42765891208098483
+Val loss on epoch 12: 0.43201885904584614Val score on epoch 12: 0.43201887607574463
+0m 29s
+
+Epoch 13/150
+----------
+LR 0.009279358767870803
+Train loss on epoch 13: 0.42308247777131885
+Val loss on epoch 13: 0.42570349148341585Val score on epoch 13: 0.4257034957408905
+saving best model
+0m 29s
+
+Epoch 14/150
+----------
+LR 0.009218836099777257
+Train loss on epoch 14: 0.42341454327106476
+Val loss on epoch 14: 0.42006251215934753Val score on epoch 14: 0.4200625717639923
+saving best model
+0m 29s
+
+Epoch 15/150
+----------
+LR 0.009158269250422797
+Train loss on epoch 15: 0.4195456665295821
+Val loss on epoch 15: 0.4165109268256596Val score on epoch 15: 0.4165109694004059
+saving best model
+0m 29s
+
+Epoch 16/150
+----------
+LR 0.009097657862422268
+Train loss on epoch 16: 0.4149121527488415
+Val loss on epoch 16: 0.41548449652535574Val score on epoch 16: 0.4154845178127289
+saving best model
+0m 28s
+
+Epoch 17/150
+----------
+LR 0.009037001572830567
+Train loss on epoch 17: 0.40892663254187656
+Val loss on epoch 17: 0.4249547762530191Val score on epoch 17: 0.42495477199554443
+0m 28s
+
+Epoch 18/150
+----------
+LR 0.008976300013014001
+Train loss on epoch 18: 0.4000011934683873
+Val loss on epoch 18: 0.41655823588371277Val score on epoch 18: 0.41655823588371277
+0m 29s
+
+Epoch 19/150
+----------
+LR 0.00891555280851768
+Train loss on epoch 19: 0.3990509853913234
+Val loss on epoch 19: 0.40431678720882963Val score on epoch 19: 0.404316782951355
+saving best model
+0m 29s
+
+Epoch 20/150
+----------
+LR 0.008854759578928792
+Train loss on epoch 20: 0.39614365536433
+Val loss on epoch 20: 0.3948667688029153Val score on epoch 20: 0.39486682415008545
+saving best model
+0m 28s
+
+Epoch 21/150
+----------
+LR 0.008793919937735588
+Train loss on epoch 21: 0.3833773216375938
+Val loss on epoch 21: 0.400696473462241Val score on epoch 21: 0.4006964862346649
+0m 28s
+
+Epoch 22/150
+----------
+LR 0.00873303349218194
+Train loss on epoch 22: 0.37687882895653063
+Val loss on epoch 22: 0.4130207470485142Val score on epoch 22: 0.4130207598209381
+0m 28s
+
+Epoch 23/150
+----------
+LR 0.008672099843117252
+Train loss on epoch 23: 0.36783157403652483
+Val loss on epoch 23: 0.4102870055607387Val score on epoch 23: 0.4102869927883148
+0m 29s
+
+Epoch 24/150
+----------
+LR 0.008611118584841582
+Train loss on epoch 24: 0.3679249802461037
+Val loss on epoch 24: 0.5437632032803127Val score on epoch 24: 0.5437632203102112
+0m 28s
+
+Epoch 25/150
+----------
+LR 0.008550089304945751
+Train loss on epoch 25: 0.35006385697768283
+Val loss on epoch 25: 0.5324303465230125Val score on epoch 25: 0.5324303507804871
+0m 29s
+
+Epoch 26/150
+----------
+LR 0.008489011584146248
+Train loss on epoch 26: 0.3491568702917833
+Val loss on epoch 26: 0.5188257438795907Val score on epoch 26: 0.5188257694244385
+0m 28s
+
+Epoch 27/150
+----------
+LR 0.00842788499611474
+Train loss on epoch 27: 0.34504051391895
+Val loss on epoch 27: 0.5062011224882943Val score on epoch 27: 0.5062011480331421
+0m 28s
+
+Epoch 28/150
+----------
+LR 0.008366709107301903
+Train loss on epoch 28: 0.33569704454678756
+Val loss on epoch 28: 0.7398371185575213Val score on epoch 28: 0.739837110042572
+0m 28s
+
+Epoch 29/150
+----------
+LR 0.008305483476755433
+Train loss on epoch 29: 0.3312600220625217
+Val loss on epoch 29: 0.5723675148827689Val score on epoch 29: 0.5723675489425659
+0m 28s
+
+Epoch 30/150
+----------
+LR 0.008244207655931885
+Train loss on epoch 30: 0.3151703247657189
+Val loss on epoch 30: 0.5855120846203395Val score on epoch 30: 0.5855120420455933
+0m 28s
+
+Epoch 31/150
+----------
+LR 0.008182881188502184
+Train loss on epoch 31: 0.3178008829171841
+Val loss on epoch 31: 0.4872839195387704Val score on epoch 31: 0.48728394508361816
+0m 29s
+
+Epoch 32/150
+----------
+LR 0.008121503610150451
+Train loss on epoch 32: 0.3075549086699119
+Val loss on epoch 32: 0.512620998280389Val score on epoch 32: 0.5126210451126099
+0m 28s
+
+Epoch 33/150
+----------
+LR 0.008060074448365926
+Train loss on epoch 33: 0.29583650483534885
+Val loss on epoch 33: 0.4834360310009548Val score on epoch 33: 0.48343604803085327
+0m 28s
+
+Epoch 34/150
+----------
+LR 0.00799859322222764
+Train loss on epoch 34: 0.2946949681410423
+Val loss on epoch 34: 0.5487201511859894Val score on epoch 34: 0.5487201809883118
+0m 29s
+
+Epoch 35/150
+----------
+LR 0.007937059442181555
+Train loss on epoch 35: 0.2925474156553929
+Val loss on epoch 35: 0.407792010477611Val score on epoch 35: 0.40779200196266174
+0m 28s
+
+Epoch 36/150
+----------
+LR 0.00787547260980981
+Train loss on epoch 36: 0.2809688202463664
+Val loss on epoch 36: 0.44818087560789927Val score on epoch 36: 0.4481808543205261
+0m 28s
+
+Epoch 37/150
+----------
+LR 0.007813832217591753
+Train loss on epoch 37: 0.2820400200211085
+Val loss on epoch 37: 0.41030233672686983Val score on epoch 37: 0.4103023409843445
+0m 28s
+
+Epoch 38/150
+----------
+LR 0.007752137748656374
+Train loss on epoch 38: 0.2803317027596327
+Val loss on epoch 38: 0.35113450459071566Val score on epoch 38: 0.3511345088481903
+saving best model
+0m 29s
+
+Epoch 39/150
+----------
+LR 0.0076903886765257445
+Train loss on epoch 39: 0.2721122262569574
+Val loss on epoch 39: 0.3674912026950291Val score on epoch 39: 0.367491215467453
+0m 28s
+
+Epoch 40/150
+----------
+LR 0.00762858446484908
+Train loss on epoch 40: 0.27028087411935514
+Val loss on epoch 40: 0.39001532537596567Val score on epoch 40: 0.3900153338909149
+0m 28s
+
+Epoch 41/150
+----------
+LR 0.007566724567126958
+Train loss on epoch 41: 0.26162500794117266
+Val loss on epoch 41: 0.3646573168890817Val score on epoch 41: 0.36465734243392944
+0m 29s
+
+Epoch 42/150
+----------
+LR 0.007504808426425277
+Train loss on epoch 42: 0.25705593824386597
+Val loss on epoch 42: 0.34952989646366667Val score on epoch 42: 0.349529892206192
+saving best model
+0m 28s
+
+Epoch 43/150
+----------
+LR 0.007442835475078429
+Train loss on epoch 43: 0.25545752678926176
+Val loss on epoch 43: 0.3243229644639151Val score on epoch 43: 0.32432299852371216
+saving best model
+0m 29s
+
+Epoch 44/150
+----------
+LR 0.007380805134381234
+Train loss on epoch 44: 0.25089788551513964
+Val loss on epoch 44: 0.33580356410571505Val score on epoch 44: 0.3358035981655121
+0m 29s
+
+Epoch 45/150
+----------
+LR 0.007318716814269034
+Train loss on epoch 45: 0.2515750326789342
+Val loss on epoch 45: 0.3943584816796439Val score on epoch 45: 0.3943585157394409
+0m 28s
+
+Epoch 46/150
+----------
+LR 0.007256569912985431
+Train loss on epoch 46: 0.24910169954483324
+Val loss on epoch 46: 0.3400518425873348Val score on epoch 46: 0.3400518596172333
+0m 28s
+
+Epoch 47/150
+----------
+LR 0.007194363816737048
+Train loss on epoch 47: 0.2494230276116958
+Val loss on epoch 47: 0.4330022079604013Val score on epoch 47: 0.4330022633075714
+0m 29s
+
+Epoch 48/150
+----------
+LR 0.007132097899334673
+Train loss on epoch 48: 0.2437197084610279
+Val loss on epoch 48: 0.3842891923018864Val score on epoch 48: 0.3842892050743103
+0m 28s
+
+Epoch 49/150
+----------
+LR 0.007069771521820108
+Train loss on epoch 49: 0.23061505189308754
+Val loss on epoch 49: 0.3171953963381903Val score on epoch 49: 0.3171953856945038
+saving best model
+0m 29s
+
+Epoch 50/150
+----------
+LR 0.007007384032078035
+Train loss on epoch 50: 0.23146069737581107
+Val loss on epoch 50: 0.38519960216113497Val score on epoch 50: 0.385199636220932
+0m 28s
+
+Epoch 51/150
+----------
+LR 0.006944934764432108
+Train loss on epoch 51: 0.226801702609429
+Val loss on epoch 51: 0.3292618713208607Val score on epoch 51: 0.3292618989944458
+0m 30s
+
+Epoch 52/150
+----------
+LR 0.006882423039224482
+Train loss on epoch 52: 0.22227164415212777
+Val loss on epoch 52: 0.3324491764817919Val score on epoch 52: 0.33244916796684265
+0m 28s
+
+Epoch 53/150
+----------
+LR 0.006819848162377934
+Train loss on epoch 53: 0.22247566683934286
+Val loss on epoch 53: 0.3916471600532532Val score on epoch 53: 0.39164718985557556
+0m 30s
+
+Epoch 54/150
+----------
+LR 0.0067572094249396565
+Train loss on epoch 54: 0.21853643082655394
+Val loss on epoch 54: 0.3591231788907732Val score on epoch 54: 0.359123170375824
+0m 29s
+
+Epoch 55/150
+----------
+LR 0.006694506102605755
+Train loss on epoch 55: 0.21505737591248292
+Val loss on epoch 55: 0.4216418521744864Val score on epoch 55: 0.42164188623428345
+0m 30s
+
+Epoch 56/150
+----------
+LR 0.00663173745522545
+Train loss on epoch 56: 0.21854217465107256
+Val loss on epoch 56: 0.3507324073995863Val score on epoch 56: 0.3507324457168579
+0m 29s
+
+Epoch 57/150
+----------
+LR 0.00656890272628387
+Train loss on epoch 57: 0.21116816539030808
+Val loss on epoch 57: 0.3979297663484301Val score on epoch 57: 0.3979298174381256
+0m 28s
+
+Epoch 58/150
+----------
+LR 0.006506001142362269
+Train loss on epoch 58: 0.20901255596142548
+Val loss on epoch 58: 0.4037737676075527Val score on epoch 58: 0.40377381443977356
+0m 28s
+
+Epoch 59/150
+----------
+LR 0.006443031912574463
+Train loss on epoch 59: 0.20568851897349724
+Val loss on epoch 59: 0.39009971278054373Val score on epoch 59: 0.3900997042655945
+0m 28s
+
+Epoch 60/150
+----------
+LR 0.006379994227978131
+Train loss on epoch 60: 0.21678602810089403
+Val loss on epoch 60: 0.34183138608932495Val score on epoch 60: 0.34183141589164734
+0m 28s
+
+Epoch 61/150
+----------
+LR 0.006316887260959592
+Train loss on epoch 61: 0.2076081157876895
+Val loss on epoch 61: 0.3981915371758597Val score on epoch 61: 0.39819154143333435
+0m 28s
+
+Epoch 62/150
+----------
+LR 0.006253710164590539
+Train loss on epoch 62: 0.1944871424482419
+Val loss on epoch 62: 0.32001381261008127Val score on epoch 62: 0.3200138211250305
+0m 28s
+
+Epoch 63/150
+----------
+LR 0.006190462071955156
+Train loss on epoch 63: 0.20722776651382446
+Val loss on epoch 63: 0.31854010266917093Val score on epoch 63: 0.318540096282959
+0m 28s
+
+Epoch 64/150
+----------
+LR 0.006127142095445851
+Train loss on epoch 64: 0.19946537224146035
+Val loss on epoch 64: 0.37053373881748747Val score on epoch 64: 0.3705337643623352
+0m 28s
+
+Epoch 65/150
+----------
+LR 0.006063749326025801
+Train loss on epoch 65: 0.20020351186394691
+Val loss on epoch 65: 0.3828971769128527Val score on epoch 65: 0.38289719820022583
+0m 29s
+
+Epoch 66/150
+----------
+LR 0.006000282832456343
+Train loss on epoch 66: 0.19775021420075342
+Val loss on epoch 66: 0.356849695955004Val score on epoch 66: 0.356849730014801
+0m 28s
+
+Epoch 67/150
+----------
+LR 0.005936741660487073
+Train loss on epoch 67: 0.19443104358819815
+Val loss on epoch 67: 0.4063565262726375Val score on epoch 67: 0.406356543302536
+0m 28s
+
+Epoch 68/150
+----------
+LR 0.005873124832006403
+Train loss on epoch 68: 0.19392345673762834
+Val loss on epoch 68: 0.3317042716911861Val score on epoch 68: 0.3317042887210846
+0m 28s
+
+Epoch 69/150
+----------
+LR 0.005809431344150167
+Train loss on epoch 69: 0.19279734045267105
+Val loss on epoch 69: 0.38011520249503Val score on epoch 69: 0.38011521100997925
+0m 29s
+
+Epoch 70/150
+----------
+LR 0.005745660168365624
+Train loss on epoch 70: 0.1924314103447474
+Val loss on epoch 70: 0.34957385063171387Val score on epoch 70: 0.34957391023635864
+0m 29s
+
+Epoch 71/150
+----------
+LR 0.0056818102494280796
+Train loss on epoch 71: 0.19520888477563858
+Val loss on epoch 71: 0.320088871887752Val score on epoch 71: 0.32008886337280273
+0m 29s
+
+Epoch 72/150
+----------
+LR 0.005617880504407097
+Train loss on epoch 72: 0.19147819509873024
+Val loss on epoch 72: 0.36326671498162405Val score on epoch 72: 0.3632667362689972
+0m 29s
+
+Epoch 73/150
+----------
+LR 0.00555386982157904
+Train loss on epoch 73: 0.18587154866411135
+Val loss on epoch 73: 0.3409447457109179Val score on epoch 73: 0.3409447968006134
+0m 28s
+
+Epoch 74/150
+----------
+LR 0.005489777059282442
+Train loss on epoch 74: 0.18729586670031914
+Val loss on epoch 74: 0.3170765255178724Val score on epoch 74: 0.31707656383514404
+saving best model
+0m 29s
+
+Epoch 75/150
+----------
+LR 0.005425601044712401
+Train loss on epoch 75: 0.19205950544430658
+Val loss on epoch 75: 0.31166120937892366Val score on epoch 75: 0.3116611838340759
+saving best model
+0m 29s
+
+Epoch 76/150
+----------
+LR 0.005361340572649923
+Train loss on epoch 76: 0.18563051120592997
+Val loss on epoch 76: 0.3188575953245163Val score on epoch 76: 0.3188576102256775
+0m 30s
+
+Epoch 77/150
+----------
+LR 0.005296994404121787
+Train loss on epoch 77: 0.1837969680245106
+Val loss on epoch 77: 0.31838224615369526Val score on epoch 77: 0.31838226318359375
+0m 28s
+
+Epoch 78/150
+----------
+LR 0.005232561264986125
+Train loss on epoch 78: 0.1780068794122109
+Val loss on epoch 78: 0.3045908659696579Val score on epoch 78: 0.3045908808708191
+saving best model
+0m 28s
+
+Epoch 79/150
+----------
+LR 0.005168039844438553
+Train loss on epoch 79: 0.1805001488671853
+Val loss on epoch 79: 0.28378510900906156Val score on epoch 79: 0.2837851345539093
+saving best model
+0m 29s
+
+Epoch 80/150
+----------
+LR 0.0051034287934331865
+Train loss on epoch 80: 0.16743745626165316
+Val loss on epoch 80: 0.3284878858498165Val score on epoch 80: 0.3284878730773926
+0m 30s
+
+Epoch 81/150
+----------
+LR 0.005038726723012472
+Train loss on epoch 81: 0.18444062597476518
+Val loss on epoch 81: 0.2951599104063852Val score on epoch 81: 0.2951599359512329
+0m 28s
+
+Epoch 82/150
+----------
+LR 0.004973932202539145
+Train loss on epoch 82: 0.1824254680138368
+Val loss on epoch 82: 0.272665656038693Val score on epoch 82: 0.27266567945480347
+saving best model
+0m 28s
+
+Epoch 83/150
+----------
+LR 0.004909043757823094
+Train loss on epoch 83: 0.18073741289285514
+Val loss on epoch 83: 0.30146478755133493Val score on epoch 83: 0.3014647960662842
+0m 28s
+
+Epoch 84/150
+----------
+LR 0.004844059869135266
+Train loss on epoch 84: 0.1721846627501341
+Val loss on epoch 84: 0.34479097383362906Val score on epoch 84: 0.3447909653186798
+0m 28s
+
+Epoch 85/150
+----------
+LR 0.004778978969099965
+Train loss on epoch 85: 0.1770403144451288
+Val loss on epoch 85: 0.30061258588518414Val score on epoch 85: 0.30061259865760803
+0m 29s
+
+Epoch 86/150
+----------
+LR 0.004713799440456199
+Train loss on epoch 86: 0.17870794981718063
+Val loss on epoch 86: 0.32010104826518465Val score on epoch 86: 0.3201010823249817
+0m 28s
+
+Epoch 87/150
+----------
+LR 0.004648519613677749
+Train loss on epoch 87: 0.1747502555640844
+Val loss on epoch 87: 0.29547506145068575Val score on epoch 87: 0.2954750955104828
+0m 28s
+
+Epoch 88/150
+----------
+LR 0.004583137764440721
+Train loss on epoch 88: 0.16991415849098793
+Val loss on epoch 88: 0.28650414092200144Val score on epoch 88: 0.2865041494369507
+0m 28s
+
+Epoch 89/150
+----------
+LR 0.004517652110926236
+Train loss on epoch 89: 0.17361086406386816
+Val loss on epoch 89: 0.3202292025089264Val score on epoch 89: 0.3202292323112488
+0m 28s
+
+Epoch 90/150
+----------
+LR 0.004452060810944663
+Train loss on epoch 90: 0.18287426175979468
+Val loss on epoch 90: 0.2603467234543392Val score on epoch 90: 0.26034674048423767
+saving best model
+0m 28s
+
+Epoch 91/150
+----------
+LR 0.004386361958866498
+Train loss on epoch 91: 0.17573163171227163
+Val loss on epoch 91: 0.358157890183585Val score on epoch 91: 0.3581579327583313
+0m 28s
+
+Epoch 92/150
+----------
+LR 0.004320553582343431
+Train loss on epoch 92: 0.1718604710812752
+Val loss on epoch 92: 0.27835618598120554Val score on epoch 92: 0.2783561944961548
+0m 28s
+
+Epoch 93/150
+----------
+LR 0.004254633638801454
+Train loss on epoch 93: 0.17380704186283624
+Val loss on epoch 93: 0.2950325778552464Val score on epoch 93: 0.2950325906276703
+0m 29s
+
+Epoch 94/150
+----------
+LR 0.004188600011685971
+Train loss on epoch 94: 0.17282241984055594
+Val loss on epoch 94: 0.2669695253883089Val score on epoch 94: 0.2669695317745209
+0m 28s
+
+Epoch 95/150
+----------
+LR 0.00412245050643669
+Train loss on epoch 95: 0.1625697733117984
+Val loss on epoch 95: 0.30022888098444256Val score on epoch 95: 0.30022892355918884
+0m 29s
+
+Epoch 96/150
+----------
+LR 0.004056182846167688
+Train loss on epoch 96: 0.16708736780744332
+Val loss on epoch 96: 0.3112708032131195Val score on epoch 96: 0.3112708330154419
+0m 28s
+
+Epoch 97/150
+----------
+LR 0.003989794667025305
+Train loss on epoch 97: 0.16968321513671142
+Val loss on epoch 97: 0.28754724987915586Val score on epoch 97: 0.2875472605228424
+0m 28s
+
+Epoch 98/150
+----------
+LR 0.003923283513193387
+Train loss on epoch 98: 0.1582292690873146
+Val loss on epoch 98: 0.2984468766621181Val score on epoch 98: 0.2984468638896942
+0m 28s
+
+Epoch 99/150
+----------
+LR 0.003856646831511983
+Train loss on epoch 99: 0.15808436990930483
+Val loss on epoch 99: 0.27782305649348665Val score on epoch 99: 0.2778230607509613
+0m 28s
+
+Epoch 100/150
+----------
+LR 0.003789881965671507
+Train loss on epoch 100: 0.16290873976854178
+Val loss on epoch 100: 0.2998328847544534Val score on epoch 100: 0.29983291029930115
+0m 28s
+
+Epoch 101/150
+----------
+LR 0.0037229861499399127
+Train loss on epoch 101: 0.16227721165005976
+Val loss on epoch 101: 0.27578264261995045Val score on epoch 101: 0.27578264474868774
+0m 28s
+
+Epoch 102/150
+----------
+LR 0.0036559565023752366
+Train loss on epoch 102: 0.1631712085352494
+Val loss on epoch 102: 0.2814628907612392Val score on epoch 102: 0.2814629077911377
+0m 28s
+
+Epoch 103/150
+----------
+LR 0.003588790017469871
+Train loss on epoch 103: 0.15888273572692505
+Val loss on epoch 103: 0.27653062769344877Val score on epoch 103: 0.2765306532382965
+0m 28s
+
+Epoch 104/150
+----------
+LR 0.003521483558166183
+Train loss on epoch 104: 0.16540349102937257
+Val loss on epoch 104: 0.2931485537971769Val score on epoch 104: 0.29314860701560974
+0m 31s
+
+Epoch 105/150
+----------
+LR 0.0034540338471752124
+Train loss on epoch 105: 0.16581283366450897
+Val loss on epoch 105: 0.30843841816697803Val score on epoch 105: 0.3084384500980377
+0m 28s
+
+Epoch 106/150
+----------
+LR 0.003386437457521112
+Train loss on epoch 106: 0.1570458601300533
+Val loss on epoch 106: 0.2839348976101194Val score on epoch 106: 0.28393492102622986
+0m 28s
+
+Epoch 107/150
+----------
+LR 0.003318690802223545
+Train loss on epoch 107: 0.15607410612014624
+Val loss on epoch 107: 0.2943904378584453Val score on epoch 107: 0.2943904995918274
+0m 28s
+
+Epoch 108/150
+----------
+LR 0.003250790123018023
+Train loss on epoch 108: 0.16222890179890853
+Val loss on epoch 108: 0.25686201453208923Val score on epoch 108: 0.25686201453208923
+saving best model
+0m 28s
+
+Epoch 109/150
+----------
+LR 0.003182731478000003
+Train loss on epoch 109: 0.1539316547031586
+Val loss on epoch 109: 0.3126182428428105Val score on epoch 109: 0.312618225812912
+0m 28s
+
+Epoch 110/150
+----------
+LR 0.0031145107280619666
+Train loss on epoch 110: 0.1487303639833744
+Val loss on epoch 110: 0.3109056225844792Val score on epoch 110: 0.3109056353569031
+0m 28s
+
+Epoch 111/150
+----------
+LR 0.0030461235219731812
+Train loss on epoch 111: 0.16745261561412078
+Val loss on epoch 111: 0.2743679540497916Val score on epoch 111: 0.27436795830726624
+0m 29s
+
+Epoch 112/150
+----------
+LR 0.0029775652799289847
+Train loss on epoch 112: 0.16694421951587385
+Val loss on epoch 112: 0.24994901035513198Val score on epoch 112: 0.24994900822639465
+saving best model
+0m 29s
+
+Epoch 113/150
+----------
+LR 0.0029088311753692297
+Train loss on epoch 113: 0.16224069119645998
+Val loss on epoch 113: 0.2549341022968292Val score on epoch 113: 0.2549341320991516
+0m 28s
+
+Epoch 114/150
+----------
+LR 0.002839916114833399
+Train loss on epoch 114: 0.15485119790985033
+Val loss on epoch 114: 0.264280195747103Val score on epoch 114: 0.26428020000457764
+0m 29s
+
+Epoch 115/150
+----------
+LR 0.002770814715581511
+Train loss on epoch 115: 0.15625928055781585
+Val loss on epoch 115: 0.2679701681647982Val score on epoch 115: 0.26797017455101013
+0m 28s
+
+Epoch 116/150
+----------
+LR 0.002701521280663962
+Train loss on epoch 116: 0.14890581971177688
+Val loss on epoch 116: 0.27661452548844473Val score on epoch 116: 0.27661454677581787
+0m 28s
+
+Epoch 117/150
+----------
+LR 0.002632029771068184
+Train loss on epoch 117: 0.15504986362961623
+Val loss on epoch 117: 0.2854036348206656Val score on epoch 117: 0.28540363907814026
+0m 29s
+
+Epoch 118/150
+----------
+LR 0.0025623337745031803
+Train loss on epoch 118: 0.1480856930407194
+Val loss on epoch 118: 0.2528140204293387Val score on epoch 118: 0.25281402468681335
+0m 28s
+
+Epoch 119/150
+----------
+LR 0.0024924264703016746
+Train loss on epoch 119: 0.16125577229719895
+Val loss on epoch 119: 0.27050655441624777Val score on epoch 119: 0.2705065608024597
+0m 29s
+
+Epoch 120/150
+----------
+LR 0.002422300589820399
+Train loss on epoch 120: 0.15507064272577947
+Val loss on epoch 120: 0.2507706880569458Val score on epoch 120: 0.2507706880569458
+0m 28s
+
+Epoch 121/150
+----------
+LR 0.002351948371596901
+Train loss on epoch 121: 0.1502347826384581
+Val loss on epoch 121: 0.2691868075302669Val score on epoch 121: 0.2691868245601654
+0m 28s
+
+Epoch 122/150
+----------
+LR 0.002281361510370244
+Train loss on epoch 122: 0.1594244852088965
+Val loss on epoch 122: 0.2743390841143472Val score on epoch 122: 0.27433907985687256
+0m 28s
+
+Epoch 123/150
+----------
+LR 0.002210531098884951
+Train loss on epoch 123: 0.15325220215779084
+Val loss on epoch 123: 0.28094518397535595Val score on epoch 123: 0.28094518184661865
+0m 28s
+
+Epoch 124/150
+----------
+LR 0.0021394475611616268
+Train loss on epoch 124: 0.15010664612054825
+Val loss on epoch 124: 0.2660345882177353Val score on epoch 124: 0.2660345733165741
+0m 32s
+
+Epoch 125/150
+----------
+LR 0.0020681005756198034
+Train loss on epoch 125: 0.1514780934040363
+Val loss on epoch 125: 0.28033835760184694Val score on epoch 125: 0.2803383767604828
+0m 28s
+
+Epoch 126/150
+----------
+LR 0.0019964789860589596
+Train loss on epoch 126: 0.14591149584605143
+Val loss on epoch 126: 0.23351939448288508Val score on epoch 126: 0.23351939022541046
+saving best model
+0m 29s
+
+Epoch 127/150
+----------
+LR 0.001924570698016157
+Train loss on epoch 127: 0.14567253967890373
+Val loss on epoch 127: 0.2838015471185957Val score on epoch 127: 0.2838015556335449
+0m 29s
+
+Epoch 128/150
+----------
+LR 0.0018523625573865854
+Train loss on epoch 128: 0.15069928478736144
+Val loss on epoch 128: 0.24348340928554535Val score on epoch 128: 0.24348343908786774
+0m 28s
+
+Epoch 129/150
+----------
+LR 0.0017798402073655024
+Train loss on epoch 129: 0.15763540795216194
+Val loss on epoch 129: 0.24756569521767752Val score on epoch 129: 0.24756571650505066
+0m 28s
+
+Epoch 130/150
+----------
+LR 0.0017069879186743955
+Train loss on epoch 130: 0.15025756078270766
+Val loss on epoch 130: 0.2760032628263746Val score on epoch 130: 0.27600327134132385
+0m 28s
+
+Epoch 131/150
+----------
+LR 0.0016337883865668724
+Train loss on epoch 131: 0.14507239655806467
+Val loss on epoch 131: 0.25576238334178925Val score on epoch 131: 0.25576239824295044
+0m 28s
+
+Epoch 132/150
+----------
+LR 0.001560222486119893
+Train loss on epoch 132: 0.1435210042848037
+Val loss on epoch 132: 0.26594620091574533Val score on epoch 132: 0.2659462094306946
+0m 28s
+
+Epoch 133/150
+----------
+LR 0.0014862689745797687
+Train loss on epoch 133: 0.14254786246098006
+Val loss on epoch 133: 0.2522577813693455Val score on epoch 133: 0.252257764339447
+0m 29s
+
+Epoch 134/150
+----------
+LR 0.0014119041257124687
+Train loss on epoch 134: 0.14527455975229925
+Val loss on epoch 134: 0.24055428164345877Val score on epoch 134: 0.24055428802967072
+0m 28s
+
+Epoch 135/150
+----------
+LR 0.0013371012756856265
+Train loss on epoch 135: 0.15620154257004076
+Val loss on epoch 135: 0.24285943593297685Val score on epoch 135: 0.24285943806171417
+0m 30s
+
+Epoch 136/150
+----------
+LR 0.0012618302521694921
+Train loss on epoch 136: 0.14731174220259374
+Val loss on epoch 136: 0.271288486463683Val score on epoch 136: 0.27128851413726807
+0m 28s
+
+Epoch 137/150
+----------
+LR 0.0011860566467725966
+Train loss on epoch 137: 0.14126163262587327
+Val loss on epoch 137: 0.24321959487029485Val score on epoch 137: 0.24321958422660828
+0m 30s
+
+Epoch 138/150
+----------
+LR 0.0011097408734518403
+Train loss on epoch 138: 0.1533364008825559
+Val loss on epoch 138: 0.243513394679342Val score on epoch 138: 0.24351339042186737
+0m 28s
+
+Epoch 139/150
+----------
+LR 0.0010328369284488936
+Train loss on epoch 139: 0.14291545118276888
+Val loss on epoch 139: 0.2596352334533419Val score on epoch 139: 0.25963523983955383
+0m 28s
+
+Epoch 140/150
+----------
+LR 0.0009552907240609368
+Train loss on epoch 140: 0.14127438773329443
+Val loss on epoch 140: 0.23643642025334494Val score on epoch 140: 0.23643642663955688
+0m 30s
+
+Epoch 141/150
+----------
+LR 0.000877037797136451
+Train loss on epoch 141: 0.1516333743929863
+Val loss on epoch 141: 0.259880719440324Val score on epoch 141: 0.25988075137138367
+0m 28s
+
+Epoch 142/150
+----------
+LR 0.0007980000705034252
+Train loss on epoch 142: 0.1491278988810686
+Val loss on epoch 142: 0.26244682712214334Val score on epoch 142: 0.2624468207359314
+0m 29s
+
+Epoch 143/150
+----------
+LR 0.0007180811247901377
+Train loss on epoch 143: 0.1423295231965872
+Val loss on epoch 143: 0.24939678183623723Val score on epoch 143: 0.24939680099487305
+0m 28s
+
+Epoch 144/150
+----------
+LR 0.0006371590182653041
+Train loss on epoch 144: 0.13641273688811523
+Val loss on epoch 144: 0.2513242151056017Val score on epoch 144: 0.25132423639297485
+0m 28s
+
+Epoch 145/150
+----------
+LR 0.0005550748379914245
+Train loss on epoch 145: 0.15296663831059748
+Val loss on epoch 145: 0.24573452132088797Val score on epoch 145: 0.24573452770709991
+0m 29s
+
+Epoch 146/150
+----------
+LR 0.00047161327350463107
+Train loss on epoch 146: 0.13702388852834702
+Val loss on epoch 146: 0.24813637137413025Val score on epoch 146: 0.24813637137413025
+0m 30s
+
+Epoch 147/150
+----------
+LR 0.0003864668281998996
+Train loss on epoch 147: 0.14438367978884623
+Val loss on epoch 147: 0.2622793359415872Val score on epoch 147: 0.26227936148643494
+0m 29s
+
+Epoch 148/150
+----------
+LR 0.0002991618676518585
+Train loss on epoch 148: 0.14831632003188133
+Val loss on epoch 148: 0.24396659220967973Val score on epoch 148: 0.24396660923957825
+0m 28s
+
+Epoch 149/150
+----------
+LR 0.00020887676674565672
+Train loss on epoch 149: 0.14793202596215102
+Val loss on epoch 149: 0.2708225910152708Val score on epoch 149: 0.2708226144313812
+0m 28s
+
+Epoch 150/150
+----------
+LR 0.00011383327779763557
+Train loss on epoch 150: 0.14635176956653595
+Val loss on epoch 150: 0.2502783792359488Val score on epoch 150: 0.25027838349342346
+0m 31s
+
+Best val loss: 0.233519Best val score: 0.233519
+Epoch 1/150
+----------
+LR 0.0005
+Train loss on epoch 1: 0.675449897463505
+Val loss on epoch 1: 0.514232873916626Val score on epoch 1: 0.514232873916626
+saving best model
+0m 31s
+
+Epoch 2/150
+----------
+LR 0.009942289157574538
+Train loss on epoch 2: 0.4516074462578847
+Val loss on epoch 2: 0.4489264190196991Val score on epoch 2: 0.4489264488220215
+saving best model
+0m 30s
+
+Epoch 3/150
+----------
+LR 0.009882230368112917
+Train loss on epoch 3: 0.4461933385867339
+Val loss on epoch 3: 0.44353996430124554Val score on epoch 3: 0.44353997707366943
+saving best model
+0m 29s
+
+Epoch 4/150
+----------
+LR 0.00982213099490152
+Train loss on epoch 4: 0.4406068187493544
+Val loss on epoch 4: 0.4467279016971588Val score on epoch 4: 0.4467279314994812
+0m 29s
+
+Epoch 5/150
+----------
+LR 0.009761990734223923
+Train loss on epoch 5: 0.44057256900347197
+Val loss on epoch 5: 0.4349894268172128Val score on epoch 5: 0.43498945236206055
+saving best model
+0m 29s
+
+Epoch 6/150
+----------
+LR 0.009701809277994737
+Train loss on epoch 6: 0.4365838777560454
+Val loss on epoch 6: 0.44508289865085054Val score on epoch 6: 0.44508296251296997
+0m 29s
+
+Epoch 7/150
+----------
+LR 0.00964158631366619
+Train loss on epoch 7: 0.4341047085248507
+Val loss on epoch 7: 0.43967497774532865Val score on epoch 7: 0.4396750032901764
+0m 28s
+
+Epoch 8/150
+----------
+LR 0.00958132152413205
+Train loss on epoch 8: 0.4323477355333475
+Val loss on epoch 8: 0.43307807615825106Val score on epoch 8: 0.4330781102180481
+saving best model
+0m 29s
+
+Epoch 9/150
+----------
+LR 0.009521014587628789
+Train loss on epoch 9: 0.4326278487077126
+Val loss on epoch 9: 0.4380916655063629Val score on epoch 9: 0.4380916953086853
+0m 28s
+
+Epoch 10/150
+----------
+LR 0.009460665177633904
+Train loss on epoch 10: 0.4326698115238777
+Val loss on epoch 10: 0.4359794855117798Val score on epoch 10: 0.4359794855117798
+0m 28s
+
+Epoch 11/150
+----------
+LR 0.009400272962761278
+Train loss on epoch 11: 0.4294499938304608
+Val loss on epoch 11: 0.42924592750413076Val score on epoch 11: 0.4292459487915039
+saving best model
+0m 29s
+
+Epoch 12/150
+----------
+LR 0.009339837606653464
+Train loss on epoch 12: 0.4276589040572827
+Val loss on epoch 12: 0.43201886330332073Val score on epoch 12: 0.432018905878067
+0m 29s
+
+Epoch 13/150
+----------
+LR 0.009279358767870803
+Train loss on epoch 13: 0.42308247547883254
+Val loss on epoch 13: 0.42570349148341585Val score on epoch 13: 0.4257034957408905
+saving best model
+0m 29s
+
+Epoch 14/150
+----------
+LR 0.009218836099777257
+Train loss on epoch 14: 0.42341454556355107
+Val loss on epoch 14: 0.4200625206742968Val score on epoch 14: 0.4200625717639923
+saving best model
+0m 29s
+
+Epoch 15/150
+----------
+LR 0.009158269250422797
+Train loss on epoch 15: 0.4195456642370958
+Val loss on epoch 15: 0.416510922568185Val score on epoch 15: 0.4165109694004059
+saving best model
+0m 29s
+
+Epoch 16/150
+----------
+LR 0.009097657862422268
+Train loss on epoch 16: 0.4149121527488415
+Val loss on epoch 16: 0.415484505040305Val score on epoch 16: 0.4154845178127289
+saving best model
+0m 29s
+
+Epoch 17/150
+----------
+LR 0.009037001572830567
+Train loss on epoch 17: 0.4089266313956334
+Val loss on epoch 17: 0.4249547805104937Val score on epoch 17: 0.42495477199554443
+0m 29s
+
+Epoch 18/150
+----------
+LR 0.008976300013014001
+Train loss on epoch 18: 0.40000119690711683
+Val loss on epoch 18: 0.41655823588371277Val score on epoch 18: 0.41655823588371277
+0m 31s
+
+Epoch 19/150
+----------
+LR 0.00891555280851768
+Train loss on epoch 19: 0.3990509853913234
+Val loss on epoch 19: 0.40431679998125347Val score on epoch 19: 0.40431684255599976
+saving best model
+0m 29s
+
+Epoch 20/150
+----------
+LR 0.008854759578928792
+Train loss on epoch 20: 0.3961436599493027
+Val loss on epoch 20: 0.3948667645454407Val score on epoch 20: 0.39486682415008545
+saving best model
+0m 31s
+
+Epoch 21/150
+----------
+LR 0.008793919937735588
+Train loss on epoch 21: 0.38337732507632327
+Val loss on epoch 21: 0.400696473462241Val score on epoch 21: 0.4006964862346649
+0m 29s
+
+Epoch 22/150
+----------
+LR 0.00873303349218194
+Train loss on epoch 22: 0.3768788266640443
+Val loss on epoch 22: 0.4130207470485142Val score on epoch 22: 0.4130207598209381
+0m 29s
+
+Epoch 23/150
+----------
+LR 0.008672099843117252
+Train loss on epoch 23: 0.36783156715906584
+Val loss on epoch 23: 0.41028700130326407Val score on epoch 23: 0.4102870523929596
+0m 29s
+
+Epoch 24/150
+----------
+LR 0.008611118584841582
+Train loss on epoch 24: 0.36792498368483323
+Val loss on epoch 24: 0.5437632117952619Val score on epoch 24: 0.5437632203102112
+0m 29s
+
+Epoch 25/150
+----------
+LR 0.008550089304945751
+Train loss on epoch 25: 0.3500638592701692
+Val loss on epoch 25: 0.5324303507804871Val score on epoch 25: 0.5324303507804871
+0m 29s
+
+Epoch 26/150
+----------
+LR 0.008489011584146248
+Train loss on epoch 26: 0.3491568702917833
+Val loss on epoch 26: 0.5188257481370654Val score on epoch 26: 0.5188257694244385
+0m 29s
+
+Epoch 27/150
+----------
+LR 0.00842788499611474
+Train loss on epoch 27: 0.34504051277270686
+Val loss on epoch 27: 0.5062011310032436Val score on epoch 27: 0.5062012076377869
+0m 28s
+
+Epoch 28/150
+----------
+LR 0.008366709107301903
+Train loss on epoch 28: 0.33569704683927387
+Val loss on epoch 28: 0.7398371015276227Val score on epoch 28: 0.739837110042572
+0m 28s
+
+Epoch 29/150
+----------
+LR 0.008305483476755433
+Train loss on epoch 29: 0.33126002779373753
+Val loss on epoch 29: 0.5723675148827689Val score on epoch 29: 0.5723675489425659
+0m 28s
+
+Epoch 30/150
+----------
+LR 0.008244207655931885
+Train loss on epoch 30: 0.3151703259119621
+Val loss on epoch 30: 0.5855120761053902Val score on epoch 30: 0.585512101650238
+0m 28s
+
+Epoch 31/150
+----------
+LR 0.008182881188502184
+Train loss on epoch 31: 0.3178008771859683
+Val loss on epoch 31: 0.4872839280537197Val score on epoch 31: 0.48728394508361816
+0m 29s
+
+Epoch 32/150
+----------
+LR 0.008121503610150451
+Train loss on epoch 32: 0.30755490637742555
+Val loss on epoch 32: 0.512620998280389Val score on epoch 32: 0.5126210451126099
+0m 29s
+
+Epoch 33/150
+----------
+LR 0.008060074448365926
+Train loss on epoch 33: 0.2958365071278352
+Val loss on epoch 33: 0.4834360310009548Val score on epoch 33: 0.48343604803085327
+0m 30s
+
+Epoch 34/150
+----------
+LR 0.00799859322222764
+Train loss on epoch 34: 0.2946949681410423
+Val loss on epoch 34: 0.548720155443464Val score on epoch 34: 0.5487201809883118
+0m 29s
+
+Epoch 35/150
+----------
+LR 0.007937059442181555
+Train loss on epoch 35: 0.2925474179478792
+Val loss on epoch 35: 0.40779201899256023Val score on epoch 35: 0.40779200196266174
+0m 29s
+
+Epoch 36/150
+----------
+LR 0.00787547260980981
+Train loss on epoch 36: 0.28096881795388
+Val loss on epoch 36: 0.44818087560789927Val score on epoch 36: 0.4481808543205261
+0m 29s
+
+Epoch 37/150
+----------
+LR 0.007813832217591753
+Train loss on epoch 37: 0.282040016582379
+Val loss on epoch 37: 0.4103023282119206Val score on epoch 37: 0.4103023409843445
+0m 29s
+
+Epoch 38/150
+----------
+LR 0.007752137748656374
+Train loss on epoch 38: 0.2803317073446054
+Val loss on epoch 38: 0.35113450459071566Val score on epoch 38: 0.3511345088481903
+saving best model
+0m 29s
+
+Epoch 39/150
+----------
+LR 0.0076903886765257445
+Train loss on epoch 39: 0.2721122308419301
+Val loss on epoch 39: 0.3674912026950291Val score on epoch 39: 0.367491215467453
+0m 28s
+
+Epoch 40/150
+----------
+LR 0.00762858446484908
+Train loss on epoch 40: 0.2702808775580846
+Val loss on epoch 40: 0.390015321118491Val score on epoch 40: 0.3900153338909149
+0m 29s
+
+Epoch 41/150
+----------
+LR 0.007566724567126958
+Train loss on epoch 41: 0.26162500794117266
+Val loss on epoch 41: 0.3646573083741324Val score on epoch 41: 0.36465734243392944
+0m 29s
+
+Epoch 42/150
+----------
+LR 0.007504808426425277
+Train loss on epoch 42: 0.25705593996323073
+Val loss on epoch 42: 0.34952988794871737Val score on epoch 42: 0.349529892206192
+saving best model
+0m 28s
+
+Epoch 43/150
+----------
+LR 0.007442835475078429
+Train loss on epoch 43: 0.2554575279355049
+Val loss on epoch 43: 0.3243229559489659Val score on epoch 43: 0.32432299852371216
+saving best model
+0m 29s
+
+Epoch 44/150
+----------
+LR 0.007380805134381234
+Train loss on epoch 44: 0.2508978849420181
+Val loss on epoch 44: 0.33580356410571505Val score on epoch 44: 0.3358035981655121
+0m 29s
+
+Epoch 45/150
+----------
+LR 0.007318716814269034
+Train loss on epoch 45: 0.2515750303864479
+Val loss on epoch 45: 0.3943584816796439Val score on epoch 45: 0.3943585157394409
+0m 28s
+
+Epoch 46/150
+----------
+LR 0.007256569912985431
+Train loss on epoch 46: 0.24910169954483324
+Val loss on epoch 46: 0.34005183832986013Val score on epoch 46: 0.3400518596172333
+0m 28s
+
+Epoch 47/150
+----------
+LR 0.007194363816737048
+Train loss on epoch 47: 0.24942302933106056
+Val loss on epoch 47: 0.4330022122178759Val score on epoch 47: 0.4330022633075714
+0m 29s
+
+Epoch 48/150
+----------
+LR 0.007132097899334673
+Train loss on epoch 48: 0.24371970674166313
+Val loss on epoch 48: 0.3842891923018864Val score on epoch 48: 0.3842892050743103
+0m 34s
+
+Epoch 49/150
+----------
+LR 0.007069771521820108
+Train loss on epoch 49: 0.23061504902747962
+Val loss on epoch 49: 0.31719537930829184Val score on epoch 49: 0.31719541549682617
+saving best model
+0m 29s
+
+Epoch 50/150
+----------
+LR 0.007007384032078035
+Train loss on epoch 50: 0.2314606922177168
+Val loss on epoch 50: 0.3851995979036604Val score on epoch 50: 0.38519957661628723
+0m 29s
+
+Epoch 51/150
+----------
+LR 0.006944934764432108
+Train loss on epoch 51: 0.22680170146318582
+Val loss on epoch 51: 0.3292618862220219Val score on epoch 51: 0.3292618989944458
+0m 29s
+
+Epoch 52/150
+----------
+LR 0.006882423039224482
+Train loss on epoch 52: 0.22227164243276304
+Val loss on epoch 52: 0.3324491764817919Val score on epoch 52: 0.33244916796684265
+0m 29s
+
+Epoch 53/150
+----------
+LR 0.006819848162377934
+Train loss on epoch 53: 0.2224756691318292
+Val loss on epoch 53: 0.3916471600532532Val score on epoch 53: 0.39164718985557556
+0m 28s
+
+Epoch 54/150
+----------
+LR 0.0067572094249396565
+Train loss on epoch 54: 0.21853643025343233
+Val loss on epoch 54: 0.3591231788907732Val score on epoch 54: 0.359123170375824
+0m 29s
+
+Epoch 55/150
+----------
+LR 0.006694506102605755
+Train loss on epoch 55: 0.21505737476623976
+Val loss on epoch 55: 0.42164185643196106Val score on epoch 55: 0.42164188623428345
+0m 29s
+
+Epoch 56/150
+----------
+LR 0.00663173745522545
+Train loss on epoch 56: 0.2185421769435589
+Val loss on epoch 56: 0.3507324159145355Val score on epoch 56: 0.3507324159145355
+0m 29s
+
+Epoch 57/150
+----------
+LR 0.00656890272628387
+Train loss on epoch 57: 0.2111681648171865
+Val loss on epoch 57: 0.3979297663484301Val score on epoch 57: 0.3979297876358032
+0m 29s
+
+Epoch 58/150
+----------
+LR 0.006506001142362269
+Train loss on epoch 58: 0.2090125553883039
+Val loss on epoch 58: 0.4037737761225019Val score on epoch 58: 0.40377381443977356
+0m 32s
+
+Epoch 59/150
+----------
+LR 0.006443031912574463
+Train loss on epoch 59: 0.20568852126598358
+Val loss on epoch 59: 0.3900997170380184Val score on epoch 59: 0.3900997042655945
+0m 28s
+
+Epoch 60/150
+----------
+LR 0.006379994227978131
+Train loss on epoch 60: 0.21678602580840772
+Val loss on epoch 60: 0.34183138608932495Val score on epoch 60: 0.34183141589164734
+0m 28s
+
+Epoch 61/150
+----------
+LR 0.006316887260959592
+Train loss on epoch 61: 0.20760811808017585
+Val loss on epoch 61: 0.3981915329183851Val score on epoch 61: 0.39819157123565674
+0m 28s
+
+Epoch 62/150
+----------
+LR 0.006253710164590539
+Train loss on epoch 62: 0.19448713843639082
+Val loss on epoch 62: 0.3200138083526066Val score on epoch 62: 0.3200138211250305
+0m 28s
+
+Epoch 63/150
+----------
+LR 0.006190462071955156
+Train loss on epoch 63: 0.20722776995255396
+Val loss on epoch 63: 0.31854010479790823Val score on epoch 63: 0.318540096282959
+0m 29s
+
+Epoch 64/150
+----------
+LR 0.006127142095445851
+Train loss on epoch 64: 0.19946537052209562
+Val loss on epoch 64: 0.37053372604506357Val score on epoch 64: 0.3705337643623352
+0m 28s
+
+Epoch 65/150
+----------
+LR 0.006063749326025801
+Train loss on epoch 65: 0.20020351100426453
+Val loss on epoch 65: 0.3828971769128527Val score on epoch 65: 0.38289719820022583
+0m 29s
+
+Epoch 66/150
+----------
+LR 0.006000282832456343
+Train loss on epoch 66: 0.19775021362763184
+Val loss on epoch 66: 0.3568496916975294Val score on epoch 66: 0.356849730014801
+0m 33s
+
+Epoch 67/150
+----------
+LR 0.005936741660487073
+Train loss on epoch 67: 0.19443104301507658
+Val loss on epoch 67: 0.4063565262726375Val score on epoch 67: 0.406356543302536
+0m 29s
+
+Epoch 68/150
+----------
+LR 0.005873124832006403
+Train loss on epoch 68: 0.1939234584569931
+Val loss on epoch 68: 0.33170428020613535Val score on epoch 68: 0.3317042887210846
+0m 28s
+
+Epoch 69/150
+----------
+LR 0.005809431344150167
+Train loss on epoch 69: 0.19279734045267105
+Val loss on epoch 69: 0.3801152195249285Val score on epoch 69: 0.38011521100997925
+0m 29s
+
+Epoch 70/150
+----------
+LR 0.005745660168365624
+Train loss on epoch 70: 0.19243140747913948
+Val loss on epoch 70: 0.3495738570179258Val score on epoch 70: 0.34957391023635864
+0m 30s
+
+Epoch 71/150
+----------
+LR 0.0056818102494280796
+Train loss on epoch 71: 0.19520888076378748
+Val loss on epoch 71: 0.3200888697590147Val score on epoch 71: 0.3200889229774475
+0m 29s
+
+Epoch 72/150
+----------
+LR 0.005617880504407097
+Train loss on epoch 72: 0.19147819509873024
+Val loss on epoch 72: 0.36326673201152254Val score on epoch 72: 0.3632667362689972
+0m 28s
+
+Epoch 73/150
+----------
+LR 0.00555386982157904
+Train loss on epoch 73: 0.18587154551194265
+Val loss on epoch 73: 0.3409447499683925Val score on epoch 73: 0.3409447968006134
+0m 28s
+
+Epoch 74/150
+----------
+LR 0.005489777059282442
+Train loss on epoch 74: 0.18729586784656233
+Val loss on epoch 74: 0.317076529775347Val score on epoch 74: 0.31707656383514404
+saving best model
+0m 29s
+
+Epoch 75/150
+----------
+LR 0.005425601044712401
+Train loss on epoch 75: 0.19205950429806343
+Val loss on epoch 75: 0.31166120937892366Val score on epoch 75: 0.3116611838340759
+saving best model
+0m 29s
+
+Epoch 76/150
+----------
+LR 0.005361340572649923
+Train loss on epoch 76: 0.18563050891344363
+Val loss on epoch 76: 0.31885760171072824Val score on epoch 76: 0.3188576102256775
+0m 28s
+
+Epoch 77/150
+----------
+LR 0.005296994404121787
+Train loss on epoch 77: 0.1837969680245106
+Val loss on epoch 77: 0.3183822397674833Val score on epoch 77: 0.31838226318359375
+0m 28s
+
+Epoch 78/150
+----------
+LR 0.005232561264986125
+Train loss on epoch 78: 0.17800688055845407
+Val loss on epoch 78: 0.30459087022713255Val score on epoch 78: 0.3045908808708191
+saving best model
+0m 29s
+
+Epoch 79/150
+----------
+LR 0.005168039844438553
+Train loss on epoch 79: 0.18050014944030687
+Val loss on epoch 79: 0.28378511539527346Val score on epoch 79: 0.2837851345539093
+saving best model
+0m 29s
+
+Epoch 80/150
+----------
+LR 0.0051034287934331865
+Train loss on epoch 80: 0.16743745511541
+Val loss on epoch 80: 0.3284878815923418Val score on epoch 80: 0.3284878730773926
+0m 28s
+
+Epoch 81/150
+----------
+LR 0.005038726723012472
+Train loss on epoch 81: 0.1844406265478868
+Val loss on epoch 81: 0.2951599189213344Val score on epoch 81: 0.2951599359512329
+0m 29s
+
+Epoch 82/150
+----------
+LR 0.004973932202539145
+Train loss on epoch 82: 0.1824254674407152
+Val loss on epoch 82: 0.2726656602961676Val score on epoch 82: 0.27266567945480347
+saving best model
+0m 29s
+
+Epoch 83/150
+----------
+LR 0.004909043757823094
+Train loss on epoch 83: 0.18073741461221987
+Val loss on epoch 83: 0.30146478755133493Val score on epoch 83: 0.3014647960662842
+0m 29s
+
+Epoch 84/150
+----------
+LR 0.004844059869135266
+Train loss on epoch 84: 0.1721846633232557
+Val loss on epoch 84: 0.3447909653186798Val score on epoch 84: 0.3447909951210022
+0m 28s
+
+Epoch 85/150
+----------
+LR 0.004778978969099965
+Train loss on epoch 85: 0.17704031587793276
+Val loss on epoch 85: 0.3006125794989722Val score on epoch 85: 0.30061259865760803
+0m 29s
+
+Epoch 86/150
+----------
+LR 0.004713799440456199
+Train loss on epoch 86: 0.17870794924405906
+Val loss on epoch 86: 0.32010104400771006Val score on epoch 86: 0.3201010823249817
+0m 28s
+
+Epoch 87/150
+----------
+LR 0.004648519613677749
+Train loss on epoch 87: 0.17475025585064521
+Val loss on epoch 87: 0.29547505932194845Val score on epoch 87: 0.2954750955104828
+0m 29s
+
+Epoch 88/150
+----------
+LR 0.004583137764440721
+Train loss on epoch 88: 0.1699141602103527
+Val loss on epoch 88: 0.2865041366645268Val score on epoch 88: 0.2865041494369507
+0m 29s
+
+Epoch 89/150
+----------
+LR 0.004517652110926236
+Train loss on epoch 89: 0.17361086320418578
+Val loss on epoch 89: 0.3202292025089264Val score on epoch 89: 0.3202292323112488
+0m 28s
+
+Epoch 90/150
+----------
+LR 0.004452060810944663
+Train loss on epoch 90: 0.18287426347915942
+Val loss on epoch 90: 0.2603467277118138Val score on epoch 90: 0.26034674048423767
+saving best model
+0m 30s
+
+Epoch 91/150
+----------
+LR 0.004386361958866498
+Train loss on epoch 91: 0.17573163027946764
+Val loss on epoch 91: 0.3581579029560089Val score on epoch 91: 0.3581579625606537
+0m 29s
+
+Epoch 92/150
+----------
+LR 0.004320553582343431
+Train loss on epoch 92: 0.17186046964847124
+Val loss on epoch 92: 0.27835619023868013Val score on epoch 92: 0.2783561944961548
+0m 29s
+
+Epoch 93/150
+----------
+LR 0.004254633638801454
+Train loss on epoch 93: 0.17380704272251862
+Val loss on epoch 93: 0.2950325778552464Val score on epoch 93: 0.2950325906276703
+0m 29s
+
+Epoch 94/150
+----------
+LR 0.004188600011685971
+Train loss on epoch 94: 0.1728224201271167
+Val loss on epoch 94: 0.2669695253883089Val score on epoch 94: 0.2669695317745209
+0m 29s
+
+Epoch 95/150
+----------
+LR 0.00412245050643669
+Train loss on epoch 95: 0.16256977503116316
+Val loss on epoch 95: 0.3002288873706545Val score on epoch 95: 0.30022889375686646
+0m 28s
+
+Epoch 96/150
+----------
+LR 0.004056182846167688
+Train loss on epoch 96: 0.16708736293590987
+Val loss on epoch 96: 0.31127080747059416Val score on epoch 96: 0.3112708330154419
+0m 29s
+
+Epoch 97/150
+----------
+LR 0.003989794667025305
+Train loss on epoch 97: 0.16968321399046823
+Val loss on epoch 97: 0.28754725200789316Val score on epoch 97: 0.2875472605228424
+0m 29s
+
+Epoch 98/150
+----------
+LR 0.003923283513193387
+Train loss on epoch 98: 0.15822926851419303
+Val loss on epoch 98: 0.2984468766621181Val score on epoch 98: 0.2984468638896942
+0m 30s
+
+Epoch 99/150
+----------
+LR 0.003856646831511983
+Train loss on epoch 99: 0.15808437392115593
+Val loss on epoch 99: 0.27782305436474936Val score on epoch 99: 0.2778230607509613
+0m 29s
+
+Epoch 100/150
+----------
+LR 0.003789881965671507
+Train loss on epoch 100: 0.16290874206102812
+Val loss on epoch 100: 0.2998328847544534Val score on epoch 100: 0.29983291029930115
+0m 28s
+
+Epoch 101/150
+----------
+LR 0.0037229861499399127
+Train loss on epoch 101: 0.16227721308286375
+Val loss on epoch 101: 0.2757826404912131Val score on epoch 101: 0.27578264474868774
+0m 29s
+
+Epoch 102/150
+----------
+LR 0.0036559565023752366
+Train loss on epoch 102: 0.1631712096814926
+Val loss on epoch 102: 0.2814628950187138Val score on epoch 102: 0.2814628779888153
+0m 29s
+
+Epoch 103/150
+----------
+LR 0.003588790017469871
+Train loss on epoch 103: 0.15888273601348585
+Val loss on epoch 103: 0.27653062769344877Val score on epoch 103: 0.2765306532382965
+0m 28s
+
+Epoch 104/150
+----------
+LR 0.003521483558166183
+Train loss on epoch 104: 0.165403490456251
+Val loss on epoch 104: 0.2931485559259142Val score on epoch 104: 0.29314857721328735
+0m 29s
+
+Epoch 105/150
+----------
+LR 0.0034540338471752124
+Train loss on epoch 105: 0.16581283452419135
+Val loss on epoch 105: 0.3084384139095034Val score on epoch 105: 0.3084384500980377
+0m 29s
+
+Epoch 106/150
+----------
+LR 0.003386437457521112
+Train loss on epoch 106: 0.15704585841068855
+Val loss on epoch 106: 0.28393489122390747Val score on epoch 106: 0.28393489122390747
+0m 28s
+
+Epoch 107/150
+----------
+LR 0.003318690802223545
+Train loss on epoch 107: 0.15607410554702467
+Val loss on epoch 107: 0.2943904378584453Val score on epoch 107: 0.29439041018486023
+0m 28s
+
+Epoch 108/150
+----------
+LR 0.003250790123018023
+Train loss on epoch 108: 0.16222890151234773
+Val loss on epoch 108: 0.2568620102746146Val score on epoch 108: 0.25686201453208923
+saving best model
+0m 29s
+
+Epoch 109/150
+----------
+LR 0.003182731478000003
+Train loss on epoch 109: 0.153931654130037
+Val loss on epoch 109: 0.3126182385853359Val score on epoch 109: 0.312618225812912
+0m 28s
+
+Epoch 110/150
+----------
+LR 0.0031145107280619666
+Train loss on epoch 110: 0.14873036341025278
+Val loss on epoch 110: 0.31090562471321653Val score on epoch 110: 0.3109056353569031
+0m 28s
+
+Epoch 111/150
+----------
+LR 0.0030461235219731812
+Train loss on epoch 111: 0.16745261733348554
+Val loss on epoch 111: 0.2743679540497916Val score on epoch 111: 0.27436795830726624
+0m 29s
+
+Epoch 112/150
+----------
+LR 0.0029775652799289847
+Train loss on epoch 112: 0.16694421922931305
+Val loss on epoch 112: 0.2499490018401827Val score on epoch 112: 0.24994900822639465
+saving best model
+0m 29s
+
+Epoch 113/150
+----------
+LR 0.0029088311753692297
+Train loss on epoch 113: 0.16224068976365602
+Val loss on epoch 113: 0.2549341022968292Val score on epoch 113: 0.2549341320991516
+0m 29s
+
+Epoch 114/150
+----------
+LR 0.002839916114833399
+Train loss on epoch 114: 0.15485119848297194
+Val loss on epoch 114: 0.2642801914896284Val score on epoch 114: 0.26428020000457764
+0m 29s
+
+Epoch 115/150
+----------
+LR 0.002770814715581511
+Train loss on epoch 115: 0.15625927969813347
+Val loss on epoch 115: 0.2679701639073236Val score on epoch 115: 0.26797017455101013
+0m 29s
+
+Epoch 116/150
+----------
+LR 0.002701521280663962
+Train loss on epoch 116: 0.14890582057145926
+Val loss on epoch 116: 0.2766145169734955Val score on epoch 116: 0.27661454677581787
+0m 28s
+
+Epoch 117/150
+----------
+LR 0.002632029771068184
+Train loss on epoch 117: 0.15504986649522415
+Val loss on epoch 117: 0.28540363907814026Val score on epoch 117: 0.28540363907814026
+0m 29s
+
+Epoch 118/150
+----------
+LR 0.0025623337745031803
+Train loss on epoch 118: 0.1480856924675978
+Val loss on epoch 118: 0.25281402468681335Val score on epoch 118: 0.25281402468681335
+0m 28s
+
+Epoch 119/150
+----------
+LR 0.0024924264703016746
+Train loss on epoch 119: 0.16125577143751657
+Val loss on epoch 119: 0.2705065501587732Val score on epoch 119: 0.2705065608024597
+0m 29s
+
+Epoch 120/150
+----------
+LR 0.002422300589820399
+Train loss on epoch 120: 0.15507064415858343
+Val loss on epoch 120: 0.25077068379947115Val score on epoch 120: 0.2507706880569458
+0m 29s
+
+Epoch 121/150
+----------
+LR 0.002351948371596901
+Train loss on epoch 121: 0.1502347860771876
+Val loss on epoch 121: 0.26918679901531767Val score on epoch 121: 0.269186794757843
+0m 29s
+
+Epoch 122/150
+----------
+LR 0.002281361510370244
+Train loss on epoch 122: 0.15942448320297095
+Val loss on epoch 122: 0.27433909262929645Val score on epoch 122: 0.27433910965919495
+0m 28s
+
+Epoch 123/150
+----------
+LR 0.002210531098884951
+Train loss on epoch 123: 0.15325220072498688
+Val loss on epoch 123: 0.2809451924903052Val score on epoch 123: 0.28094518184661865
+0m 28s
+
+Epoch 124/150
+----------
+LR 0.0021394475611616268
+Train loss on epoch 124: 0.150106647839913
+Val loss on epoch 124: 0.26603458396026064Val score on epoch 124: 0.2660345733165741
+0m 28s
+
+Epoch 125/150
+----------
+LR 0.0020681005756198034
+Train loss on epoch 125: 0.1514780934040363
+Val loss on epoch 125: 0.28033836824553354Val score on epoch 125: 0.2803383767604828
+0m 28s
+
+Epoch 126/150
+----------
+LR 0.0019964789860589596
+Train loss on epoch 126: 0.14591149842509857
+Val loss on epoch 126: 0.23351939448288508Val score on epoch 126: 0.23351940512657166
+saving best model
+0m 29s
+
+Epoch 127/150
+----------
+LR 0.001924570698016157
+Train loss on epoch 127: 0.1456725405385861
+Val loss on epoch 127: 0.28380155137607027Val score on epoch 127: 0.2838015556335449
+0m 28s
+
+Epoch 128/150
+----------
+LR 0.0018523625573865854
+Train loss on epoch 128: 0.15069928507392222
+Val loss on epoch 128: 0.2434834028993334Val score on epoch 128: 0.24348343908786774
+0m 29s
+
+Epoch 129/150
+----------
+LR 0.0017798402073655024
+Train loss on epoch 129: 0.15763540766560113
+Val loss on epoch 129: 0.2475656909602029Val score on epoch 129: 0.24756571650505066
+0m 28s
+
+Epoch 130/150
+----------
+LR 0.0017069879186743955
+Train loss on epoch 130: 0.15025756221551162
+Val loss on epoch 130: 0.27600325856889996Val score on epoch 130: 0.27600327134132385
+0m 29s
+
+Epoch 131/150
+----------
+LR 0.0016337883865668724
+Train loss on epoch 131: 0.14507239541182151
+Val loss on epoch 131: 0.2557623875992639Val score on epoch 131: 0.25576239824295044
+0m 28s
+
+Epoch 132/150
+----------
+LR 0.001560222486119893
+Train loss on epoch 132: 0.1435210042848037
+Val loss on epoch 132: 0.2659461966582707Val score on epoch 132: 0.2659462094306946
+0m 29s
+
+Epoch 133/150
+----------
+LR 0.0014862689745797687
+Train loss on epoch 133: 0.14254786274754083
+Val loss on epoch 133: 0.25225778349808287Val score on epoch 133: 0.2522577941417694
+0m 29s
+
+Epoch 134/150
+----------
+LR 0.0014119041257124687
+Train loss on epoch 134: 0.1452745571732521
+Val loss on epoch 134: 0.24055428164345877Val score on epoch 134: 0.24055428802967072
+0m 28s
+
+Epoch 135/150
+----------
+LR 0.0013371012756856265
+Train loss on epoch 135: 0.15620154314316237
+Val loss on epoch 135: 0.24285943380423955Val score on epoch 135: 0.24285943806171417
+0m 29s
+
+Epoch 136/150
+----------
+LR 0.0012618302521694921
+Train loss on epoch 136: 0.14731174162947214
+Val loss on epoch 136: 0.27128848859242033Val score on epoch 136: 0.27128851413726807
+0m 28s
+
+Epoch 137/150
+----------
+LR 0.0011860566467725966
+Train loss on epoch 137: 0.14126163377211645
+Val loss on epoch 137: 0.2432195884840829Val score on epoch 137: 0.24321958422660828
+0m 28s
+
+Epoch 138/150
+----------
+LR 0.0011097408734518403
+Train loss on epoch 138: 0.15333639859006956
+Val loss on epoch 138: 0.243513394679342Val score on epoch 138: 0.24351339042186737
+0m 28s
+
+Epoch 139/150
+----------
+LR 0.0010328369284488936
+Train loss on epoch 139: 0.1429154543349376
+Val loss on epoch 139: 0.2596352462257658Val score on epoch 139: 0.25963523983955383
+0m 28s
+
+Epoch 140/150
+----------
+LR 0.0009552907240609368
+Train loss on epoch 140: 0.14127438859297678
+Val loss on epoch 140: 0.23643642238208226Val score on epoch 140: 0.23643642663955688
+0m 28s
+
+Epoch 141/150
+----------
+LR 0.000877037797136451
+Train loss on epoch 141: 0.15163337611235106
+Val loss on epoch 141: 0.25988071518284933Val score on epoch 141: 0.2598807215690613
+0m 28s
+
+Epoch 142/150
+----------
+LR 0.0007980000705034252
+Train loss on epoch 142: 0.1491278991676294
+Val loss on epoch 142: 0.26244682925088064Val score on epoch 142: 0.2624468207359314
+0m 29s
+
+Epoch 143/150
+----------
+LR 0.0007180811247901377
+Train loss on epoch 143: 0.1423295229100264
+Val loss on epoch 143: 0.24939678183623723Val score on epoch 143: 0.24939677119255066
+0m 28s
+
+Epoch 144/150
+----------
+LR 0.0006371590182653041
+Train loss on epoch 144: 0.13641273832091919
+Val loss on epoch 144: 0.2513242151056017Val score on epoch 144: 0.25132423639297485
+0m 30s
+
+Epoch 145/150
+----------
+LR 0.0005550748379914245
+Train loss on epoch 145: 0.15296663859715828
+Val loss on epoch 145: 0.2457345255783626Val score on epoch 145: 0.24573452770709991
+0m 29s
+
+Epoch 146/150
+----------
+LR 0.00047161327350463107
+Train loss on epoch 146: 0.1370238882417862
+Val loss on epoch 146: 0.24813637137413025Val score on epoch 146: 0.24813640117645264
+0m 29s
+
+Epoch 147/150
+----------
+LR 0.0003864668281998996
+Train loss on epoch 147: 0.14438367864260307
+Val loss on epoch 147: 0.2622793423277991Val score on epoch 147: 0.26227936148643494
+0m 29s
+
+Epoch 148/150
+----------
+LR 0.0002991618676518585
+Train loss on epoch 148: 0.14831632003188133
+Val loss on epoch 148: 0.24396659008094243Val score on epoch 148: 0.24396659433841705
+0m 29s
+
+Epoch 149/150
+----------
+LR 0.00020887676674565672
+Train loss on epoch 149: 0.14793202510246864
+Val loss on epoch 149: 0.27082259953022003Val score on epoch 149: 0.2708226144313812
+0m 28s
+
+Epoch 150/150
+----------
+LR 0.00011383327779763557
+Train loss on epoch 150: 0.14635176899341437
+Val loss on epoch 150: 0.2502783898796354Val score on epoch 150: 0.25027841329574585
+0m 29s
+
+Best val loss: 0.233519Best val score: 0.233519
+Epoch 1/150
+----------
+LR 0.0005
+Train loss on epoch 1: 0.6754498928785324
+Val loss on epoch 1: 0.5142328568867275Val score on epoch 1: 0.514232873916626
+saving best model
+0m 32s
+
+Epoch 2/150
+----------
+LR 0.009942289157574538
+Train loss on epoch 2: 0.45160743250296664
+Val loss on epoch 2: 0.4489264062472752Val score on epoch 2: 0.4489264488220215
+saving best model
+0m 28s
+
+Epoch 3/150
+----------
+LR 0.009882230368112917
+Train loss on epoch 3: 0.44619334317170656
+Val loss on epoch 3: 0.44353996004377094Val score on epoch 3: 0.44353997707366943
+saving best model
+0m 28s
+
+Epoch 4/150
+----------
+LR 0.00982213099490152
+Train loss on epoch 4: 0.44060681760311127
+Val loss on epoch 4: 0.44672790595463346Val score on epoch 4: 0.4467279314994812
+0m 28s
+
+Epoch 5/150
+----------
+LR 0.009761990734223923
+Train loss on epoch 5: 0.44057257588093096
+Val loss on epoch 5: 0.43498942255973816Val score on epoch 5: 0.43498945236206055
+saving best model
+0m 29s
+
+Epoch 6/150
+----------
+LR 0.009701809277994737
+Train loss on epoch 6: 0.43658387660980225
+Val loss on epoch 6: 0.4450829029083252Val score on epoch 6: 0.4450829327106476
+0m 28s
+
+Epoch 7/150
+----------
+LR 0.00964158631366619
+Train loss on epoch 7: 0.4341047073786075
+Val loss on epoch 7: 0.4396749905177525Val score on epoch 7: 0.4396750032901764
+0m 28s
+
+Epoch 8/150
+----------
+LR 0.00958132152413205
+Train loss on epoch 8: 0.4323477435570497
+Val loss on epoch 8: 0.43307807190077646Val score on epoch 8: 0.4330781400203705
+saving best model
+0m 28s
+
+Epoch 9/150
+----------
+LR 0.009521014587628789
+Train loss on epoch 9: 0.4326278464152263
+Val loss on epoch 9: 0.43809166976383757Val score on epoch 9: 0.4380916953086853
+0m 28s
+
+Epoch 10/150
+----------
+LR 0.009460665177633904
+Train loss on epoch 10: 0.4326698115238777
+Val loss on epoch 10: 0.4359794855117798Val score on epoch 10: 0.4359794855117798
+0m 28s
+
+Epoch 11/150
+----------
+LR 0.009400272962761278
+Train loss on epoch 11: 0.42944999497670394
+Val loss on epoch 11: 0.4292459189891815Val score on epoch 11: 0.4292459487915039
+saving best model
+0m 28s
+
+Epoch 12/150
+----------
+LR 0.009339837606653464
+Train loss on epoch 12: 0.427658906349769
+Val loss on epoch 12: 0.4320188547883715Val score on epoch 12: 0.43201884627342224
+0m 28s
+
+Epoch 13/150
+----------
+LR 0.009279358767870803
+Train loss on epoch 13: 0.42308247547883254
+Val loss on epoch 13: 0.4257034957408905Val score on epoch 13: 0.4257034957408905
+saving best model
+0m 28s
+
+Epoch 14/150
+----------
+LR 0.009218836099777257
+Train loss on epoch 14: 0.4234145467097943
+Val loss on epoch 14: 0.4200625206742968Val score on epoch 14: 0.4200625717639923
+saving best model
+0m 28s
+
+Epoch 15/150
+----------
+LR 0.009158269250422797
+Train loss on epoch 15: 0.4195456722607979
+Val loss on epoch 15: 0.41651093534060885Val score on epoch 15: 0.4165109694004059
+saving best model
+0m 28s
+
+Epoch 16/150
+----------
+LR 0.009097657862422268
+Train loss on epoch 16: 0.4149121516025983
+Val loss on epoch 16: 0.41548449652535574Val score on epoch 16: 0.41548454761505127
+saving best model
+0m 28s
+
+Epoch 17/150
+----------
+LR 0.009037001572830567
+Train loss on epoch 17: 0.40892663254187656
+Val loss on epoch 17: 0.4249547805104937Val score on epoch 17: 0.42495477199554443
+0m 28s
+
+Epoch 18/150
+----------
+LR 0.008976300013014001
+Train loss on epoch 18: 0.40000119461463046
+Val loss on epoch 18: 0.4165582273687635Val score on epoch 18: 0.41655823588371277
+0m 28s
+
+Epoch 19/150
+----------
+LR 0.00891555280851768
+Train loss on epoch 19: 0.3990509888300529
+Val loss on epoch 19: 0.4043167957237789Val score on epoch 19: 0.40431681275367737
+saving best model
+0m 31s
+
+Epoch 20/150
+----------
+LR 0.008854759578928792
+Train loss on epoch 20: 0.3961436588030595
+Val loss on epoch 20: 0.39486677731786457Val score on epoch 20: 0.39486682415008545
+saving best model
+0m 28s
+
+Epoch 21/150
+----------
+LR 0.008793919937735588
+Train loss on epoch 21: 0.38337732736880964
+Val loss on epoch 21: 0.400696473462241Val score on epoch 21: 0.4006964862346649
+0m 28s
+
+Epoch 22/150
+----------
+LR 0.00873303349218194
+Train loss on epoch 22: 0.37687882895653063
+Val loss on epoch 22: 0.4130207427910396Val score on epoch 22: 0.4130207598209381
+0m 28s
+
+Epoch 23/150
+----------
+LR 0.008672099843117252
+Train loss on epoch 23: 0.3678315728902817
+Val loss on epoch 23: 0.4102870055607387Val score on epoch 23: 0.4102870523929596
+0m 28s
+
+Epoch 24/150
+----------
+LR 0.008611118584841582
+Train loss on epoch 24: 0.36792497909986055
+Val loss on epoch 24: 0.5437632203102112Val score on epoch 24: 0.5437632203102112
+0m 28s
+
+Epoch 25/150
+----------
+LR 0.008550089304945751
+Train loss on epoch 25: 0.3500638592701692
+Val loss on epoch 25: 0.5324303422655378Val score on epoch 25: 0.5324303507804871
+0m 28s
+
+Epoch 26/150
+----------
+LR 0.008489011584146248
+Train loss on epoch 26: 0.3491568691455401
+Val loss on epoch 26: 0.5188257481370654Val score on epoch 26: 0.5188257694244385
+0m 28s
+
+Epoch 27/150
+----------
+LR 0.00842788499611474
+Train loss on epoch 27: 0.3450405081877342
+Val loss on epoch 27: 0.5062011182308197Val score on epoch 27: 0.5062011480331421
+0m 28s
+
+Epoch 28/150
+----------
+LR 0.008366709107301903
+Train loss on epoch 28: 0.33569704683927387
+Val loss on epoch 28: 0.7398371015276227Val score on epoch 28: 0.739837110042572
+0m 28s
+
+Epoch 29/150
+----------
+LR 0.008305483476755433
+Train loss on epoch 29: 0.33126002435500806
+Val loss on epoch 29: 0.5723675233977181Val score on epoch 29: 0.5723675489425659
+0m 28s
+
+Epoch 30/150
+----------
+LR 0.008244207655931885
+Train loss on epoch 30: 0.31517033049693477
+Val loss on epoch 30: 0.585512101650238Val score on epoch 30: 0.585512101650238
+0m 28s
+
+Epoch 31/150
+----------
+LR 0.008182881188502184
+Train loss on epoch 31: 0.3178008817709409
+Val loss on epoch 31: 0.4872839280537197Val score on epoch 31: 0.48728394508361816
+0m 29s
+
+Epoch 32/150
+----------
+LR 0.008121503610150451
+Train loss on epoch 32: 0.3075549052311824
+Val loss on epoch 32: 0.512620998280389Val score on epoch 32: 0.5126210451126099
+0m 28s
+
+Epoch 33/150
+----------
+LR 0.008060074448365926
+Train loss on epoch 33: 0.2958365036891057
+Val loss on epoch 33: 0.4834360310009548Val score on epoch 33: 0.4834360182285309
+0m 28s
+
+Epoch 34/150
+----------
+LR 0.00799859322222764
+Train loss on epoch 34: 0.2946949681410423
+Val loss on epoch 34: 0.5487201597009387Val score on epoch 34: 0.5487201809883118
+0m 28s
+
+Epoch 35/150
+----------
+LR 0.007937059442181555
+Train loss on epoch 35: 0.2925474185210008
+Val loss on epoch 35: 0.40779201473508564Val score on epoch 35: 0.40779200196266174
+0m 28s
+
+Epoch 36/150
+----------
+LR 0.00787547260980981
+Train loss on epoch 36: 0.2809688202463664
+Val loss on epoch 36: 0.4481808713504246Val score on epoch 36: 0.4481809139251709
+0m 28s
+
+Epoch 37/150
+----------
+LR 0.007813832217591753
+Train loss on epoch 37: 0.2820400200211085
+Val loss on epoch 37: 0.41030233672686983Val score on epoch 37: 0.41030237078666687
+0m 28s
+
+Epoch 38/150
+----------
+LR 0.007752137748656374
+Train loss on epoch 38: 0.2803317021865111
+Val loss on epoch 38: 0.3511344960757664Val score on epoch 38: 0.3511345088481903
+saving best model
+0m 28s
+
+Epoch 39/150
+----------
+LR 0.0076903886765257445
+Train loss on epoch 39: 0.2721122262569574
+Val loss on epoch 39: 0.36749120695250376Val score on epoch 39: 0.367491215467453
+0m 28s
+
+Epoch 40/150
+----------
+LR 0.00762858446484908
+Train loss on epoch 40: 0.27028087354623354
+Val loss on epoch 40: 0.3900153126035418Val score on epoch 40: 0.3900153338909149
+0m 28s
+
+Epoch 41/150
+----------
+LR 0.007566724567126958
+Train loss on epoch 41: 0.26162500851429427
+Val loss on epoch 41: 0.36465731263160706Val score on epoch 41: 0.36465734243392944
+0m 28s
+
+Epoch 42/150
+----------
+LR 0.007504808426425277
+Train loss on epoch 42: 0.25705593767074436
+Val loss on epoch 42: 0.349529892206192Val score on epoch 42: 0.349529892206192
+saving best model
+0m 28s
+
+Epoch 43/150
+----------
+LR 0.007442835475078429
+Train loss on epoch 43: 0.25545753137423444
+Val loss on epoch 43: 0.32432296872138977Val score on epoch 43: 0.32432299852371216
+saving best model
+0m 29s
+
+Epoch 44/150
+----------
+LR 0.007380805134381234
+Train loss on epoch 44: 0.25089788551513964
+Val loss on epoch 44: 0.33580356410571505Val score on epoch 44: 0.3358035981655121
+0m 29s
+
+Epoch 45/150
+----------
+LR 0.007318716814269034
+Train loss on epoch 45: 0.25157502924020475
+Val loss on epoch 45: 0.3943584816796439Val score on epoch 45: 0.3943585157394409
+0m 28s
+
+Epoch 46/150
+----------
+LR 0.007256569912985431
+Train loss on epoch 46: 0.24910170069107643
+Val loss on epoch 46: 0.34005183407238554Val score on epoch 46: 0.3400518596172333
+0m 28s
+
+Epoch 47/150
+----------
+LR 0.007194363816737048
+Train loss on epoch 47: 0.24942302646545264
+Val loss on epoch 47: 0.4330022207328251Val score on epoch 47: 0.433002233505249
+0m 28s
+
+Epoch 48/150
+----------
+LR 0.007132097899334673
+Train loss on epoch 48: 0.2437197073147847
+Val loss on epoch 48: 0.3842891880444118Val score on epoch 48: 0.3842892050743103
+0m 28s
+
+Epoch 49/150
+----------
+LR 0.007069771521820108
+Train loss on epoch 49: 0.23061505189308754
+Val loss on epoch 49: 0.31719537930829184Val score on epoch 49: 0.3171953856945038
+saving best model
+0m 29s
+
+Epoch 50/150
+----------
+LR 0.007007384032078035
+Train loss on epoch 50: 0.2314606968026895
+Val loss on epoch 50: 0.3851996064186096Val score on epoch 50: 0.385199636220932
+0m 28s
+
+Epoch 51/150
+----------
+LR 0.006944934764432108
+Train loss on epoch 51: 0.22680170089006424
+Val loss on epoch 51: 0.3292618713208607Val score on epoch 51: 0.3292618989944458
+0m 28s
+
+Epoch 52/150
+----------
+LR 0.006882423039224482
+Train loss on epoch 52: 0.22227164300588462
+Val loss on epoch 52: 0.3324491764817919Val score on epoch 52: 0.33244916796684265
+0m 28s
+
+Epoch 53/150
+----------
+LR 0.006819848162377934
+Train loss on epoch 53: 0.22247566683934286
+Val loss on epoch 53: 0.3916471600532532Val score on epoch 53: 0.39164718985557556
+0m 28s
+
+Epoch 54/150
+----------
+LR 0.0067572094249396565
+Train loss on epoch 54: 0.21853643082655394
+Val loss on epoch 54: 0.35912318740572247Val score on epoch 54: 0.359123170375824
+0m 29s
+
+Epoch 55/150
+----------
+LR 0.006694506102605755
+Train loss on epoch 55: 0.21505737190063184
+Val loss on epoch 55: 0.42164185643196106Val score on epoch 55: 0.42164188623428345
+0m 28s
+
+Epoch 56/150
+----------
+LR 0.00663173745522545
+Train loss on epoch 56: 0.21854217808980209
+Val loss on epoch 56: 0.3507324031421116Val score on epoch 56: 0.3507324159145355
+0m 29s
+
+Epoch 57/150
+----------
+LR 0.00656890272628387
+Train loss on epoch 57: 0.21116816596342966
+Val loss on epoch 57: 0.3979297663484301Val score on epoch 57: 0.3979297876358032
+0m 28s
+
+Epoch 58/150
+----------
+LR 0.006506001142362269
+Train loss on epoch 58: 0.20901255768079025
+Val loss on epoch 58: 0.4037737718650273Val score on epoch 58: 0.40377381443977356
+0m 28s
+
+Epoch 59/150
+----------
+LR 0.006443031912574463
+Train loss on epoch 59: 0.20568852298534834
+Val loss on epoch 59: 0.3900997298104422Val score on epoch 59: 0.3900997042655945
+0m 28s
+
+Epoch 60/150
+----------
+LR 0.006379994227978131
+Train loss on epoch 60: 0.21678602695465088
+Val loss on epoch 60: 0.34183140099048615Val score on epoch 60: 0.34183141589164734
+0m 28s
+
+Epoch 61/150
+----------
+LR 0.006316887260959592
+Train loss on epoch 61: 0.20760811693393266
+Val loss on epoch 61: 0.3981915329183851Val score on epoch 61: 0.39819154143333435
+0m 28s
+
+Epoch 62/150
+----------
+LR 0.006253710164590539
+Train loss on epoch 62: 0.19448713958263397
+Val loss on epoch 62: 0.3200138083526066Val score on epoch 62: 0.3200138211250305
+0m 28s
+
+Epoch 63/150
+----------
+LR 0.006190462071955156
+Train loss on epoch 63: 0.20722776651382446
+Val loss on epoch 63: 0.3185401069266455Val score on epoch 63: 0.318540096282959
+0m 28s
+
+Epoch 64/150
+----------
+LR 0.006127142095445851
+Train loss on epoch 64: 0.1994653710952172
+Val loss on epoch 64: 0.3705337345600128Val score on epoch 64: 0.3705337643623352
+0m 28s
+
+Epoch 65/150
+----------
+LR 0.006063749326025801
+Train loss on epoch 65: 0.20020350928489977
+Val loss on epoch 65: 0.3828971769128527Val score on epoch 65: 0.38289719820022583
+0m 28s
+
+Epoch 66/150
+----------
+LR 0.006000282832456343
+Train loss on epoch 66: 0.19775021305451027
+Val loss on epoch 66: 0.35684968318258015Val score on epoch 66: 0.35684970021247864
+0m 28s
+
+Epoch 67/150
+----------
+LR 0.005936741660487073
+Train loss on epoch 67: 0.19443104358819815
+Val loss on epoch 67: 0.4063565305301121Val score on epoch 67: 0.406356543302536
+0m 28s
+
+Epoch 68/150
+----------
+LR 0.005873124832006403
+Train loss on epoch 68: 0.19392345960323626
+Val loss on epoch 68: 0.3317042716911861Val score on epoch 68: 0.3317042887210846
+0m 28s
+
+Epoch 69/150
+----------
+LR 0.005809431344150167
+Train loss on epoch 69: 0.1927973387333063
+Val loss on epoch 69: 0.3801152067525046Val score on epoch 69: 0.38011521100997925
+0m 28s
+
+Epoch 70/150
+----------
+LR 0.005745660168365624
+Train loss on epoch 70: 0.19243141149099058
+Val loss on epoch 70: 0.3495738612754004Val score on epoch 70: 0.34957391023635864
+0m 28s
+
+Epoch 71/150
+----------
+LR 0.0056818102494280796
+Train loss on epoch 71: 0.19520888133690908
+Val loss on epoch 71: 0.3200888676302774Val score on epoch 71: 0.32008886337280273
+0m 30s
+
+Epoch 72/150
+----------
+LR 0.005617880504407097
+Train loss on epoch 72: 0.19147819452560866
+Val loss on epoch 72: 0.3632667234965733Val score on epoch 72: 0.3632667362689972
+0m 28s
+
+Epoch 73/150
+----------
+LR 0.00555386982157904
+Train loss on epoch 73: 0.1858715506700369
+Val loss on epoch 73: 0.3409447542258671Val score on epoch 73: 0.3409447968006134
+0m 28s
+
+Epoch 74/150
+----------
+LR 0.005489777059282442
+Train loss on epoch 74: 0.18729586727344072
+Val loss on epoch 74: 0.31707653403282166Val score on epoch 74: 0.31707656383514404
+saving best model
+0m 28s
+
+Epoch 75/150
+----------
+LR 0.005425601044712401
+Train loss on epoch 75: 0.19205950372494185
+Val loss on epoch 75: 0.31166120299271177Val score on epoch 75: 0.3116611838340759
+saving best model
+0m 30s
+
+Epoch 76/150
+----------
+LR 0.005361340572649923
+Train loss on epoch 76: 0.1856305100596868
+Val loss on epoch 76: 0.3188575974532536Val score on epoch 76: 0.3188576102256775
+0m 28s
+
+Epoch 77/150
+----------
+LR 0.005296994404121787
+Train loss on epoch 77: 0.18379697031699693
+Val loss on epoch 77: 0.3183822418962206Val score on epoch 77: 0.31838226318359375
+0m 28s
+
+Epoch 78/150
+----------
+LR 0.005232561264986125
+Train loss on epoch 78: 0.17800688055845407
+Val loss on epoch 78: 0.30459087022713255Val score on epoch 78: 0.3045908808708191
+saving best model
+0m 28s
+
+Epoch 79/150
+----------
+LR 0.005168039844438553
+Train loss on epoch 79: 0.18050014686125976
+Val loss on epoch 79: 0.28378511113779886Val score on epoch 79: 0.2837851047515869
+saving best model
+0m 29s
+
+Epoch 80/150
+----------
+LR 0.0051034287934331865
+Train loss on epoch 80: 0.16743745396916682
+Val loss on epoch 80: 0.3284878815923418Val score on epoch 80: 0.3284878730773926
+0m 28s
+
+Epoch 81/150
+----------
+LR 0.005038726723012472
+Train loss on epoch 81: 0.1844406254016436
+Val loss on epoch 81: 0.29515991466385977Val score on epoch 81: 0.2951599359512329
+0m 28s
+
+Epoch 82/150
+----------
+LR 0.004973932202539145
+Train loss on epoch 82: 0.18242546514822885
+Val loss on epoch 82: 0.27266566668237957Val score on epoch 82: 0.27266567945480347
+saving best model
+0m 28s
+
+Epoch 83/150
+----------
+LR 0.004909043757823094
+Train loss on epoch 83: 0.18073741289285514
+Val loss on epoch 83: 0.30146480032375883Val score on epoch 83: 0.3014647960662842
+0m 28s
+
+Epoch 84/150
+----------
+LR 0.004844059869135266
+Train loss on epoch 84: 0.17218466561574203
+Val loss on epoch 84: 0.3447909653186798Val score on epoch 84: 0.3447910249233246
+0m 28s
+
+Epoch 85/150
+----------
+LR 0.004778978969099965
+Train loss on epoch 85: 0.17704031530481118
+Val loss on epoch 85: 0.30061258588518414Val score on epoch 85: 0.30061259865760803
+0m 29s
+
+Epoch 86/150
+----------
+LR 0.004713799440456199
+Train loss on epoch 86: 0.1787079503903022
+Val loss on epoch 86: 0.320101050393922Val score on epoch 86: 0.3201010823249817
+0m 28s
+
+Epoch 87/150
+----------
+LR 0.004648519613677749
+Train loss on epoch 87: 0.17475025470440203
+Val loss on epoch 87: 0.2954750529357365Val score on epoch 87: 0.2954750955104828
+0m 28s
+
+Epoch 88/150
+----------
+LR 0.004583137764440721
+Train loss on epoch 88: 0.16991415849098793
+Val loss on epoch 88: 0.28650414517947603Val score on epoch 88: 0.2865041494369507
+0m 28s
+
+Epoch 89/150
+----------
+LR 0.004517652110926236
+Train loss on epoch 89: 0.1736108623445034
+Val loss on epoch 89: 0.3202292195388249Val score on epoch 89: 0.3202292025089264
+0m 28s
+
+Epoch 90/150
+----------
+LR 0.004452060810944663
+Train loss on epoch 90: 0.1828742611866731
+Val loss on epoch 90: 0.2603467234543392Val score on epoch 90: 0.26034674048423767
+saving best model
+0m 28s
+
+Epoch 91/150
+----------
+LR 0.004386361958866498
+Train loss on epoch 91: 0.17573163285851479
+Val loss on epoch 91: 0.35815789869853426Val score on epoch 91: 0.3581579625606537
+0m 28s
+
+Epoch 92/150
+----------
+LR 0.004320553582343431
+Train loss on epoch 92: 0.17186047022159284
+Val loss on epoch 92: 0.27835620301110403Val score on epoch 92: 0.2783561944961548
+0m 28s
+
+Epoch 93/150
+----------
+LR 0.004254633638801454
+Train loss on epoch 93: 0.1738070438687618
+Val loss on epoch 93: 0.29503258637019564Val score on epoch 93: 0.2950325906276703
+0m 28s
+
+Epoch 94/150
+----------
+LR 0.004188600011685971
+Train loss on epoch 94: 0.17282242184648147
+Val loss on epoch 94: 0.266969519002097Val score on epoch 94: 0.2669695317745209
+0m 28s
+
+Epoch 95/150
+----------
+LR 0.00412245050643669
+Train loss on epoch 95: 0.16256977445804155
+Val loss on epoch 95: 0.3002288831131799Val score on epoch 95: 0.30022889375686646
+0m 28s
+
+Epoch 96/150
+----------
+LR 0.004056182846167688
+Train loss on epoch 96: 0.16708736666120017
+Val loss on epoch 96: 0.3112708032131195Val score on epoch 96: 0.3112708330154419
+0m 28s
+
+Epoch 97/150
+----------
+LR 0.003989794667025305
+Train loss on epoch 97: 0.16968321456358984
+Val loss on epoch 97: 0.2875472477504185Val score on epoch 97: 0.2875472605228424
+0m 28s
+
+Epoch 98/150
+----------
+LR 0.003923283513193387
+Train loss on epoch 98: 0.15822926679482827
+Val loss on epoch 98: 0.29844686814716886Val score on epoch 98: 0.2984468638896942
+0m 28s
+
+Epoch 99/150
+----------
+LR 0.003856646831511983
+Train loss on epoch 99: 0.1580843719152304
+Val loss on epoch 99: 0.27782305223601206Val score on epoch 99: 0.2778230607509613
+0m 28s
+
+Epoch 100/150
+----------
+LR 0.003789881965671507
+Train loss on epoch 100: 0.16290874005510256
+Val loss on epoch 100: 0.2998328847544534Val score on epoch 100: 0.29983291029930115
+0m 28s
+
+Epoch 101/150
+----------
+LR 0.0037229861499399127
+Train loss on epoch 101: 0.16227721365598533
+Val loss on epoch 101: 0.2757826404912131Val score on epoch 101: 0.27578264474868774
+0m 28s
+
+Epoch 102/150
+----------
+LR 0.0036559565023752366
+Train loss on epoch 102: 0.16317121197397894
+Val loss on epoch 102: 0.2814628907612392Val score on epoch 102: 0.2814628779888153
+0m 28s
+
+Epoch 103/150
+----------
+LR 0.003588790017469871
+Train loss on epoch 103: 0.15888273544036424
+Val loss on epoch 103: 0.276530636208398Val score on epoch 103: 0.2765306532382965
+0m 28s
+
+Epoch 104/150
+----------
+LR 0.003521483558166183
+Train loss on epoch 104: 0.16540349160249418
+Val loss on epoch 104: 0.2931485559259142Val score on epoch 104: 0.29314857721328735
+0m 28s
+
+Epoch 105/150
+----------
+LR 0.0034540338471752124
+Train loss on epoch 105: 0.16581283481075212
+Val loss on epoch 105: 0.3084384117807661Val score on epoch 105: 0.3084384500980377
+0m 28s
+
+Epoch 106/150
+----------
+LR 0.003386437457521112
+Train loss on epoch 106: 0.15704585726444537
+Val loss on epoch 106: 0.28393489335264477Val score on epoch 106: 0.28393489122390747
+0m 28s
+
+Epoch 107/150
+----------
+LR 0.003318690802223545
+Train loss on epoch 107: 0.1560741072663894
+Val loss on epoch 107: 0.2943904399871826Val score on epoch 107: 0.2943904995918274
+0m 28s
+
+Epoch 108/150
+----------
+LR 0.003250790123018023
+Train loss on epoch 108: 0.1622289020854693
+Val loss on epoch 108: 0.25686201240335194Val score on epoch 108: 0.25686201453208923
+saving best model
+0m 28s
+
+Epoch 109/150
+----------
+LR 0.003182731478000003
+Train loss on epoch 109: 0.15393165327035463
+Val loss on epoch 109: 0.31261824497154783Val score on epoch 109: 0.3126182556152344
+0m 28s
+
+Epoch 110/150
+----------
+LR 0.0031145107280619666
+Train loss on epoch 110: 0.14873036341025278
+Val loss on epoch 110: 0.3109056310994284Val score on epoch 110: 0.3109056353569031
+0m 28s
+
+Epoch 111/150
+----------
+LR 0.0030461235219731812
+Train loss on epoch 111: 0.16745261561412078
+Val loss on epoch 111: 0.2743679540497916Val score on epoch 111: 0.27436795830726624
+0m 28s
+
+Epoch 112/150
+----------
+LR 0.0029775652799289847
+Train loss on epoch 112: 0.166944220662117
+Val loss on epoch 112: 0.2499490018401827Val score on epoch 112: 0.24994902312755585
+saving best model
+0m 29s
+
+Epoch 113/150
+----------
+LR 0.0029088311753692297
+Train loss on epoch 113: 0.16224069119645998
+Val loss on epoch 113: 0.2549341065543039Val score on epoch 113: 0.2549341022968292
+0m 28s
+
+Epoch 114/150
+----------
+LR 0.002839916114833399
+Train loss on epoch 114: 0.15485119790985033
+Val loss on epoch 114: 0.26428020000457764Val score on epoch 114: 0.2642802298069
+0m 28s
+
+Epoch 115/150
+----------
+LR 0.002770814715581511
+Train loss on epoch 115: 0.15625928084437662
+Val loss on epoch 115: 0.2679701681647982Val score on epoch 115: 0.26797017455101013
+0m 28s
+
+Epoch 116/150
+----------
+LR 0.002701521280663962
+Train loss on epoch 116: 0.14890581741929054
+Val loss on epoch 116: 0.27661452548844473Val score on epoch 116: 0.27661454677581787
+0m 28s
+
+Epoch 117/150
+----------
+LR 0.002632029771068184
+Train loss on epoch 117: 0.1550498650624202
+Val loss on epoch 117: 0.28540363907814026Val score on epoch 117: 0.28540363907814026
+0m 28s
+
+Epoch 118/150
+----------
+LR 0.0025623337745031803
+Train loss on epoch 118: 0.14808569275415862
+Val loss on epoch 118: 0.25281402255807606Val score on epoch 118: 0.25281402468681335
+0m 28s
+
+Epoch 119/150
+----------
+LR 0.0024924264703016746
+Train loss on epoch 119: 0.16125577143751657
+Val loss on epoch 119: 0.2705065501587732Val score on epoch 119: 0.2705065608024597
+0m 28s
+
+Epoch 120/150
+----------
+LR 0.002422300589820399
+Train loss on epoch 120: 0.15507064301234025
+Val loss on epoch 120: 0.25077067741325926Val score on epoch 120: 0.2507706880569458
+0m 28s
+
+Epoch 121/150
+----------
+LR 0.002351948371596901
+Train loss on epoch 121: 0.15023478550406602
+Val loss on epoch 121: 0.26918679901531767Val score on epoch 121: 0.269186794757843
+0m 28s
+
+Epoch 122/150
+----------
+LR 0.002281361510370244
+Train loss on epoch 122: 0.1594244843492141
+Val loss on epoch 122: 0.27433909262929645Val score on epoch 122: 0.27433910965919495
+0m 28s
+
+Epoch 123/150
+----------
+LR 0.002210531098884951
+Train loss on epoch 123: 0.15325220244435164
+Val loss on epoch 123: 0.2809451903615679Val score on epoch 123: 0.28094518184661865
+0m 28s
+
+Epoch 124/150
+----------
+LR 0.0021394475611616268
+Train loss on epoch 124: 0.15010664669366983
+Val loss on epoch 124: 0.266034586088998Val score on epoch 124: 0.2660345733165741
+0m 28s
+
+Epoch 125/150
+----------
+LR 0.0020681005756198034
+Train loss on epoch 125: 0.1514780928309147
+Val loss on epoch 125: 0.28033835760184694Val score on epoch 125: 0.2803383767604828
+0m 28s
+
+Epoch 126/150
+----------
+LR 0.0019964789860589596
+Train loss on epoch 126: 0.14591149871165937
+Val loss on epoch 126: 0.2335193966116224Val score on epoch 126: 0.23351939022541046
+saving best model
+0m 29s
+
+Epoch 127/150
+----------
+LR 0.001924570698016157
+Train loss on epoch 127: 0.14567254082514688
+Val loss on epoch 127: 0.28380153860364643Val score on epoch 127: 0.2838015556335449
+0m 28s
+
+Epoch 128/150
+----------
+LR 0.0018523625573865854
+Train loss on epoch 128: 0.15069928421423986
+Val loss on epoch 128: 0.24348340502807073Val score on epoch 128: 0.24348343908786774
+0m 28s
+
+Epoch 129/150
+----------
+LR 0.0017798402073655024
+Train loss on epoch 129: 0.1576354059462364
+Val loss on epoch 129: 0.24756569734641484Val score on epoch 129: 0.24756568670272827
+0m 28s
+
+Epoch 130/150
+----------
+LR 0.0017069879186743955
+Train loss on epoch 130: 0.15025756049614686
+Val loss on epoch 130: 0.2760032628263746Val score on epoch 130: 0.27600327134132385
+0m 28s
+
+Epoch 131/150
+----------
+LR 0.0016337883865668724
+Train loss on epoch 131: 0.14507239455213913
+Val loss on epoch 131: 0.25576238121305195Val score on epoch 131: 0.25576239824295044
+0m 28s
+
+Epoch 132/150
+----------
+LR 0.001560222486119893
+Train loss on epoch 132: 0.14352100571760765
+Val loss on epoch 132: 0.2659461966582707Val score on epoch 132: 0.2659462094306946
+0m 28s
+
+Epoch 133/150
+----------
+LR 0.0014862689745797687
+Train loss on epoch 133: 0.1425478641803448
+Val loss on epoch 133: 0.25225778988429476Val score on epoch 133: 0.252257764339447
+0m 28s
+
+Epoch 134/150
+----------
+LR 0.0014119041257124687
+Train loss on epoch 134: 0.14527455917917764
+Val loss on epoch 134: 0.24055428164345877Val score on epoch 134: 0.24055428802967072
+0m 28s
+
+Epoch 135/150
+----------
+LR 0.0013371012756856265
+Train loss on epoch 135: 0.15620154371628395
+Val loss on epoch 135: 0.24285943167550222Val score on epoch 135: 0.24285943806171417
+0m 29s
+
+Epoch 136/150
+----------
+LR 0.0012618302521694921
+Train loss on epoch 136: 0.14731174048322898
+Val loss on epoch 136: 0.27128848007747103Val score on epoch 136: 0.27128851413726807
+0m 28s
+
+Epoch 137/150
+----------
+LR 0.0011860566467725966
+Train loss on epoch 137: 0.14126163262587327
+Val loss on epoch 137: 0.2432195863553456Val score on epoch 137: 0.24321958422660828
+0m 28s
+
+Epoch 138/150
+----------
+LR 0.0011097408734518403
+Train loss on epoch 138: 0.1533364005959951
+Val loss on epoch 138: 0.243513394679342Val score on epoch 138: 0.24351339042186737
+0m 28s
+
+Epoch 139/150
+----------
+LR 0.0010328369284488936
+Train loss on epoch 139: 0.14291545146932969
+Val loss on epoch 139: 0.25963523983955383Val score on epoch 139: 0.2596352696418762
+0m 28s
+
+Epoch 140/150
+----------
+LR 0.0009552907240609368
+Train loss on epoch 140: 0.14127438945265916
+Val loss on epoch 140: 0.23643641812460764Val score on epoch 140: 0.23643644154071808
+0m 28s
+
+Epoch 141/150
+----------
+LR 0.000877037797136451
+Train loss on epoch 141: 0.15163337639891183
+Val loss on epoch 141: 0.25988071731158663Val score on epoch 141: 0.2598807215690613
+0m 28s
+
+Epoch 142/150
+----------
+LR 0.0007980000705034252
+Train loss on epoch 142: 0.14912790088699415
+Val loss on epoch 142: 0.2624468207359314Val score on epoch 142: 0.2624468505382538
+0m 29s
+
+Epoch 143/150
+----------
+LR 0.0007180811247901377
+Train loss on epoch 143: 0.14232952348314798
+Val loss on epoch 143: 0.24939677545002528Val score on epoch 143: 0.24939677119255066
+0m 28s
+
+Epoch 144/150
+----------
+LR 0.0006371590182653041
+Train loss on epoch 144: 0.1364127411865271
+Val loss on epoch 144: 0.2513242151056017Val score on epoch 144: 0.25132423639297485
+0m 28s
+
+Epoch 145/150
+----------
+LR 0.0005550748379914245
+Train loss on epoch 145: 0.15296663831059748
+Val loss on epoch 145: 0.2457345234496253Val score on epoch 145: 0.24573452770709991
+0m 29s
+
+Epoch 146/150
+----------
+LR 0.00047161327350463107
+Train loss on epoch 146: 0.13702388795522544
+Val loss on epoch 146: 0.24813637563160487Val score on epoch 146: 0.24813637137413025
+0m 28s
+
+Epoch 147/150
+----------
+LR 0.0003864668281998996
+Train loss on epoch 147: 0.14438367921572465
+Val loss on epoch 147: 0.2622793401990618Val score on epoch 147: 0.26227936148643494
+0m 28s
+
+Epoch 148/150
+----------
+LR 0.0002991618676518585
+Train loss on epoch 148: 0.14831631945875975
+Val loss on epoch 148: 0.24396659220967973Val score on epoch 148: 0.24396659433841705
+0m 28s
+
+Epoch 149/150
+----------
+LR 0.00020887676674565672
+Train loss on epoch 149: 0.14793202424278626
+Val loss on epoch 149: 0.2708225952727454Val score on epoch 149: 0.2708226144313812
+0m 28s
+
+Epoch 150/150
+----------
+LR 0.00011383327779763557
+Train loss on epoch 150: 0.1463517684202928
+Val loss on epoch 150: 0.2502783898796354Val score on epoch 150: 0.25027841329574585
+0m 28s
+
+Best val loss: 0.233519Best val score: 0.233519

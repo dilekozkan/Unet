@@ -1,0 +1,35 @@
+model_config:
+  model: UNet1 #the directory to which the results are saved
+  initial_filter_size: [64]
+  kernel: [3]
+  drop_out_rate: [0.2]
+  input_size: [1024,128]    #[1536, 1536] #h, w 
+  channel: 1
+  num_class: 9  #changed
+  model_type: 'single' #multi_task, attention, fourier1, fourier1_2, single
+  dropout: False
+  anydepth: False
+train_config:
+  loss: dice_bce_mc
+  accuracy: dice_bce_mc
+  optimizer: Radam
+  lr_rate: [0.01]
+  weight_decay: [0.01]
+  batch_size: [4]
+  epochs: 150
+  early_stop: 20
+  num_workers: 20
+  seed: 123
+  use_cuda: True
+dataset_config:
+  train_path: ['/userfiles/cgunduz/datasets/retinal_layers/train']
+  val_path: ['/userfiles/cgunduz/datasets/retinal_layers/val']
+  test_path: ['/userfiles/cgunduz/datasets/retinal_layers/test']
+  aug_rate: [0]
+  save_dir: /kuacc/users/dozkan23/hpc_run/UnetMC/trans_retinallayers  
+  class_names: ['background','liver']
+resume:
+  flag: False
+  path: /kuacc/users/dozkan23/hpc_run/UnetMC/data/fold1/last_epoch.pt
+  epoch: 75
+
